@@ -10486,3 +10486,4368 @@ How can you relate knowledge from history and psychology to BT2 cultural influen
 What conclusions can you draw by combining interpretations from different religious perspectives?,BT6
 How could old architectural styles be combined to BT6 sustainable modern buildings?,BT6
 Can you generalize from historical fashion trends to predict future style evolutions?,BT6
+What is a stack?,BT1
+Name the two main operations performed on a queue.,BT1
+Define Abstract Data Type (ADT).,BT1
+List the types of linked lists.,BT1
+What is the time complexity of accessing an element in an array?,BT1
+State the full form of DBMS.,BT1
+Identify the primary key in a relation.,BT1
+Name the three normal forms in database normalization.,BT1
+What is a binary tree?,BT1
+List the properties of a good hash function.,BT1
+What is a foreign key?,BT1
+Recall the ACID properties in transactions.,BT1
+What is infix notation?,BT1
+Name the traversal methods for a binary tree.,BT1
+What is the data structure used for recursion?,BT1
+State the difference between linear and nonlinear data structures.,BT1
+What is a primary key constraint?,BT1
+List the operators in relational algebra.,BT1
+Explain the concept of data independence in DBMS.,BT2
+Describe how a stack follows LIFO principle.,BT2
+Summarize the advantages of linked lists over arrays.,BT2
+Explain why circular queues are preferred over linear queues in some cases.,BT2
+Describe the process of converting infix to postfix expression.,BT2
+Explain the meaning of referential integrity.,BT2
+Describe how a binary search tree maintains order.,BT2
+Explain the role of primary key in a database table.,BT2
+Discuss why normalization is important in database design.,BT2
+Interpret what happens when a collision occurs in hashing.,BT2
+Explain the difference between strong and weak entities in ER model.,BT2
+Describe how recursion works in solving factorial problem.,BT2
+Apply the stack to check if the given parentheses are balanced: {[( )]}.,BT3
+Use array implementation to simulate push and pop operations on a stack.,BT3
+Convert the infix expression A + B * C � D / E to postfix.,BT3
+Demonstrate how to insert a node at the beginning of a singly linked list.,BT3
+Apply queue operations to simulate a ticket booking system.,BT3
+Use relational algebra to find all students who have taken course 'DBMS'.,BT3
+Calculate the time complexity of binary search in a sorted array of 1024 elements.,BT3
+"Apply the rules of 2NF to normalize the table: Student(ID, Name, Course, Instructor).",BT3
+Demonstrate deletion of a node with two children in a binary search tree.,BT3
+Evaluate the postfix expression: 5 3 + 8 * 4 �.,BT3
+"Apply hashing with linear probing to insert keys: 18, 26, 35, 9 (table size 10).",BT3
+"Draw an ER diagram for a university database with students, courses, and professors.",BT3
+Demonstrate how to implement a circular queue using an array.,BT3
+Apply the concept of primary key to identify duplicate records in a table.,BT3
+Compare array and linked list in terms of insertion and deletion time complexity.,BT4
+Analyze why a queue cannot be used to implement recursion efficiently.,BT4
+Differentiate between 3NF and BCNF with an example.,BT4
+Examine the advantages and disadvantages of adjacency matrix vs adjacency list for graphs.,BT4
+Compare linear search and binary search in terms of worst-case time complexity.,BT4
+Analyze the relationship between functional dependencies and normalization.,BT4
+Distinguish between singly linked list and doubly linked list with respect to traversal.,BT4
+Examine how AVL tree rotations maintain balance after insertion.,BT4
+Compare the space complexity of stack using array vs linked list.,BT4
+Analyze the problems caused by not resolving collisions in hashing.,BT4
+Differentiate between strong entity and weak entity in ER modeling with examples.,BT4
+Examine the differences between DFS and BFS traversal algorithms.,BT4
+Compare ACID properties with BASE properties in NoSQL databases.,BT4
+Analyze why multiple queues can improve CPU utilization compared to a single queue.,BT4
+Distinguish between open addressing and chaining collision resolution techniques.,BT4
+Define the term 'OSI model' in networking.,BT1
+What is the chemical formula for sulfuric acid?,BT1
+Who was the first President of India?,BT1
+List the steps involved in the process of mitosis.,BT1
+What is the boiling point of water at sea level?,BT1
+Name the four main data types in C++.,BT1
+What is the value of the speed of light?,BT1
+Define 'Probability Density Function'.,BT1
+What are the primary colors in the subtractive color model?,BT1
+State the first law of thermodynamics.,BT1
+When was the United Nations established?,BT1
+Identify the main parts of a human heart.,BT1
+Recall the formula for the volume of a sphere.,BT1
+What is the capital of France?,BT1
+Define 'functional dependency' in DBMS.,BT1
+List the components of a CPU.,BT1
+What is the SI unit of force?,BT1
+Who wrote the national anthem of India?,BT1
+State the Pythagorean theorem.,BT1
+What is the binary representation of the decimal number 10?,BT1
+Explain the difference between a hub and a switch.,BT2
+How would you summarize the main plot of 'Hamlet'?,BT2
+Describe the process of photosynthesis in your own words.,BT2
+Classify the different types of machine learning algorithms.,BT2
+Interpret the meaning of a high standard deviation in a dataset.,BT2
+Explain why a recursive function needs a base case.,BT2
+Compare and contrast SQL and NoSQL databases.,BT2
+Describe the relationship between inflation and unemployment.,BT2
+Explain the concept of 'Inheritance' in Object-Oriented Programming.,BT2
+What is the main idea behind the theory of relativity?,BT2
+Summarize the impact of the Industrial Revolution on society.,BT2
+How would you explain the concept of 'limit' in calculus?,BT2
+Distinguish between a primary key and a foreign key.,BT2
+Explain the significance of the 'p-value' in hypothesis testing.,BT2
+Interpret the data trends shown in a population growth chart.,BT2
+Discuss the pros and cons of using a linked list over an array.,BT2
+Explain how a transformer works in an electrical circuit.,BT2
+How would you paraphrase the laws of demand and supply?,BT2
+Explain why normalization is necessary in database design.,BT2
+Describe the function of an API in modern software development.,BT2
+Calculate the area of a triangle with base 10cm and height 5cm.,BT3
+Solve the following quadratic equation: x^2 - 5x + 6 = 0.,BT3
+Apply the principles of Dijkstra's algorithm to find the shortest path.,BT3
+How would you use a stack to reverse a string?,BT3
+Calculate the mean and median for the following set of numbers.,BT3
+Demonstrate how to create a join between two tables in SQL.,BT3
+Use the Z-score table to find the probability under a normal curve.,BT3
+Construct a logic circuit for an AND gate using NAND gates.,BT3
+How would you implement a binary search in Python?,BT3
+Apply the rules of differentiation to find the derivative of sin(x).,BT3
+Solve for the unknown variable in 3x + 4 = 19.,BT3
+Use the concept of 'Encapsulation' to secure a class in Java.,BT3
+Apply the Newton-Raphson method to find the root of the equation.,BT3
+How would you use a pivot table to summarize sales data?,BT3
+Calculate the work done when a force of 10N moves an object 5m.,BT3
+Demonstrate the process of normalization up to 3NF.,BT3
+Apply the laws of Boolean algebra to simplify the expression.,BT3
+Use a dictionary to count word frequencies in a text file.,BT3
+Construct a flowchart for a program that checks for prime numbers.,BT3
+Apply the Bayes' theorem to calculate conditional probability.,BT3
+Differentiate between the motives of the characters in the play.,BT4
+Analyze the time complexity of the Merge Sort algorithm.,BT4
+Break down the components of a modern operating system kernel.,BT4
+Compare the performance of an AVL tree vs a Red-Black tree.,BT4
+Analyze the causes of the 2008 financial crisis.,BT4
+Differentiate between a 'Null Hypothesis' and an 'Alternative Hypothesis'.,BT4
+Prioritize the tasks in a project using the Critical Path Method.,BT4
+Examine the bias in the following news editorial.,BT4
+Analyze the impact of a high cache miss rate on CPU performance.,BT4
+Break down the logical structure of a complex SQL query.,BT4
+Differentiate between 'Pass by Value' and 'Pass by Reference'.,BT4
+Analyze the relationship between user experience and system latency.,BT4
+Prioritize the most important features for a mobile banking app.,BT4
+Examine the security vulnerabilities in the provided code snippet.,BT4
+Break down the various stages of the SDLC for a startup environment.,BT4
+Analyze the effect of increasing the sample size on the margin of error.,BT4
+Examine the structural differences between TCP and UDP headers.,BT4
+Compare the efficiency of different collision resolution techniques in hashing.,BT4
+Analyze how the setting of the story contributes to its theme.,BT4
+Differentiate between static and dynamic memory allocation.,BT4
+Define the term 'deadlock' in an operating system.,BT1
+What is the value of the acceleration due to gravity on Mars?,BT1
+State the principle of conservation of energy.,BT1
+What are the different types of ROM?,BT1
+Define 'Latent Heat' in thermodynamics.,BT1
+List the basic components of a robotic system.,BT1
+What is the full form of 'JSON'?,BT1
+State the Heisenberg Uncertainty Principle.,BT1
+Who is known as the father of Artificial Intelligence?,BT1
+What is the standard port number for HTTPS?,BT1
+Define 'viscosity' in fluid mechanics.,BT1
+List the properties of an Ideal Op-Amp.,BT1
+What is the base case in a recursive factorial function?,BT1
+State the Kirchhoff's Voltage Law (KVL).,BT1
+Define 'Bandwidth' in communication systems.,BT1
+What are the three main types of cloud computing services?,BT1
+Identify the symbol for a Zener diode in a circuit.,BT1
+What is the chemical formula for Methane?,BT1
+Define 'Normal Distribution' in statistics.,BT1
+What is the function of a 'compiler'?,BT1
+Explain how a 'Cache' memory improves system speed.,BT2
+Summarize the working principle of a DC motor.,BT2
+How would you classify different types of operating systems?,BT2
+Describe the purpose of 'Normalization' in a database.,BT2
+Explain the difference between TCP and UDP protocols.,BT2
+Discuss the role of 'Constructors' in a class.,BT2
+Summarize the concept of 'Big Data' and its characteristics.,BT2
+Explain the significance of 'Resonance' in an RLC circuit.,BT2
+How does 'Virtual Memory' work in a computer?,BT2
+Describe the main features of the Agile development model.,BT2
+Explain the concept of 'Stiffness' in material science.,BT2
+Discuss the impact of 'Global Warming' on sea levels.,BT2
+How would you illustrate the 'Software Testing Life Cycle'?,BT2
+Explain the difference between 'Synchronous' and 'Asynchronous' communication.,BT2
+Summarize the laws of 'Reflection' and 'Refraction'.,BT2
+Explain the function of 'Bridges' in a network topology.,BT2
+Describe the relationship between 'Stress' and 'Strain'.,BT2
+How would you interpret a 'Correlation Coefficient' of -0.9?,BT2
+Discuss the importance of 'Cybersecurity' in modern banking.,BT2
+Explain why 'Binary Search' is faster than 'Linear Search'.,BT2
+Calculate the derivative of f(x) = x^3 + 2x^2 - 5.,BT3
+Find the output of the following C++ code snippet.,BT3
+Calculate the probability of drawing an Ace from a deck of cards.,BT3
+Solve for 'y' in the equation 5y - 10 = 20.,BT3
+Implement a 'Bubble Sort' algorithm for an array of 5 elements.,BT3
+Find the 'Inverse' of a 2x2 matrix.,BT3
+Calculate the efficiency of a heat engine with given parameters.,BT3
+Construct a 'UML Class Diagram' for a library system.,BT3
+Apply 'De Morgan's Theorem' to simplify the logic gate.,BT3
+Calculate the 'Standard Deviation' for the given data points.,BT3
+Find the 'Fourier Transform' of a rectangular pulse.,BT3
+Apply 'Simpson's 1/3 Rule' to evaluate the integral.,BT3
+How would you build a 'REST API' using Node.js?,BT3
+Calculate the 'Bending Moment' at the center of the beam.,BT3
+Solve the 'Traveling Salesman Problem' for 4 cities.,BT3
+Apply the 'Ideal Gas Law' to find the pressure of the gas.,BT3
+Calculate the 'Interest' earned on a principal of 5000 at 8%.,BT3
+Demonstrate the 'Recursion' process using a Fibonacci series.,BT3
+Find the 'Shortest Path' in the graph using Prim's algorithm.,BT3
+Apply 'Gauss Elimination' to solve the system of equations.,BT3
+Analyze the 'Space Complexity' of a Quicksort algorithm.,BT4
+Compare the performance of 'Hadoop' vs 'Spark'.,BT4
+Differentiate between 'Microprocessors' and 'Microcontrollers'.,BT4
+Examine the causes of 'Signal Interference' in wireless networks.,BT4
+Analyze the trade-offs between 'Speed' and 'Accuracy' in AI.,BT4
+Compare 'Monolithic' vs 'Microservices' architecture.,BT4
+Analyze the 'Bottleneck' in the provided assembly line process.,BT4
+Examine why the 'System Crashed' based on the stack trace.,BT4
+Differentiate between 'White Box' and 'Black Box' testing.,BT4
+Analyze the effect of 'Friction' on the motion of the vehicle.,BT4
+Compare 'Risk Management' strategies in different industries.,BT4
+Examine the 'Ethical Implications' of facial recognition tech.,BT4
+Analyze the 'Convergent' and 'Divergent' series in calculus.,BT4
+Differentiate between 'Internal' and 'External' fragmentation.,BT4
+Analyze the 'Efficiency' of the given solar panel array.,BT4
+Compare the 'Encryption Standards' AES and DES.,BT4
+Examine the 'Impact' of COVID-19 on global supply chains.,BT4
+Analyze the 'Stability' of the control system using Routh-Hurwitz.,BT4
+Differentiate between 'Hard' and 'Soft' Real-Time systems.,BT4
+Analyze the 'Revenue Model' of a subscription-based service.,BT4
+What is the full form of 'VHDL' in electronics?,BT1
+State the principle of Superposition in circuit theory.,BT1
+Name the four pillars of Object-Oriented Programming.,BT1
+Define 'Throttling' in the context of web APIs.,BT1
+What is the standard unit of Magnetic Flux?,BT1
+List the basic layers of the Linux filesystem.,BT1
+What is the atomic number of Carbon?,BT1
+Define 'Precision' and 'Recall' in machine learning.,BT1
+State the law of Constant Proportions.,BT1
+What is the default port for MongoDB?,BT1
+Name the layers of the Atmosphere.,BT1
+Identify the primary goal of the 'Agile Manifesto'.,BT1
+What is a 'pointer' in C programming?,BT1
+Define the term 'deadweight loss' in economics.,BT1
+Who invented the World Wide Web?,BT1
+What is the hexadecimal value for the color white?,BT1
+List the types of interrupts in an 8085 microprocessor.,BT1
+State the second law of thermodynamics.,BT1
+What is the function of a 'Linker'?,BT1
+Name three types of non-volatile memory.,BT1
+What is the SI unit of luminous intensity?,BT1
+Define 'Backpropagation' in Neural Networks.,BT1
+What is the purpose of an 'Index' in a database?,BT1
+State the Archimedes' Principle.,BT1
+Name the main types of bridges in civil engineering.,BT1
+Define 'Modulation' in communication.,BT1
+List the stages of a compiler.,BT1
+What is the value of one horsepower in watts?,BT1
+State the principle of 'Least Privilege' in security.,BT1
+Define 'API' in software engineering.,BT1
+What is the boiling point of Ethanol?,BT1
+Name the inventors of the C++ language.,BT1
+Define 'Entropy' in information theory.,BT1
+List the ACID properties of a transaction.,BT1
+What is a 'foreign key'?,BT1
+Define 'Standard Deviation'.,BT1
+Name the parts of a standard motherboard.,BT1
+What is the escape velocity of Earth?,BT1
+Define 'Polymorphism'.,BT1
+List the steps in a Binary Search.,BT1
+What is the full form of 'RISC'?,BT1
+State the Faraday's Law of induction.,BT1
+Define 'Kernel' in an OS.,BT1
+What is the value of the gas constant R?,BT1
+Name the basic gates in digital logic.,BT1
+Define 'Caching'.,BT1
+List the types of cloud deployment models.,BT1
+What is the purpose of 'DNS'?,BT1
+Define 'Bandwidth'.,BT1
+State the Ohm's law.,BT1
+What is 'Inertia'?,BT1
+Name the primary components of an SQL query.,BT1
+What is the size of an 'int' in Java?,BT1
+Define 'Schema' in DBMS.,BT1
+List the types of DC motors.,BT1
+What is 'Latency'?,BT1
+State the Bernoulli's principle.,BT1
+Define 'Tokenization'.,BT1
+Name the layers of the OSI model.,BT1
+What is a 'Subnet'?,BT1
+Define 'Thread' in multitasking.,BT1
+State the Hooke's Law.,BT1
+What is the purpose of a 'Firewall'?,BT1
+Define 'Encapsulation'.,BT1
+List the sorting algorithms you know.,BT1
+What is the symbol for Iron?,BT1
+Define 'Big O Notation'.,BT1
+State the Pascal's Law.,BT1
+What is 'Throughput'?,BT1
+Name the components of a Transformer.,BT1
+Define 'Semantic Web'.,BT1
+List the types of database joins.,BT1
+What is 'Jitter' in networking?,BT1
+State the Joule's Law.,BT1
+What is a 'Gateway'?,BT1
+Explain how a 'B-Tree' remains balanced during insertion.,BT2
+Summarize the advantages of using 'Docker' containers.,BT2
+Describe the role of 'Middleware' in distributed systems.,BT2
+How would you classify 'Cyber Attacks' based on their intent?,BT2
+Interpret the results of a 'Chi-Square' test.,BT2
+Explain why 'Normalization' is preferred in RDBMS.,BT2
+Compare the 'Waterfall' model with 'Iterative' development.,BT2
+Describe the mechanism of 'Garbage Collection' in Java.,BT2
+Summarize the impact of '5G' on IoT device connectivity.,BT2
+Explain the significance of 'Cost Function' in optimization.,BT2
+How would you describe the concept of 'Cloud Orchestration'?,BT2
+Explain the difference between 'Deep Learning' and 'Shallow Learning'.,BT2
+Discuss the purpose of 'Load Balancing' in high-traffic websites.,BT2
+Explain how 'Public Key Infrastructure' (PKI) ensures security.,BT2
+Describe the concept of 'Edge Computing'.,BT2
+How would you explain 'Microservices' to a non-technical person?,BT2
+Discuss the significance of 'Big Data Analytics' in business.,BT2
+Explain why 'NoSQL' is better for unstructured data.,BT2
+Describe the process of 'Virtualization'.,BT2
+Summarize the main points of the 'General Relativity' theory.,BT2
+Explain the role of 'Aggregator' in a supply chain.,BT2
+How would you classify different types of 'Sensors'?,BT2
+Describe the function of 'BGP' in internet routing.,BT2
+Discuss the benefits of 'Open Source' software.,BT2
+Explain the concept of 'Serverless Computing'.,BT2
+Summarize the history of 'Blockchain' technology.,BT2
+Explain how 'Augmented Reality' differs from 'Virtual Reality'.,BT2
+Describe the relationship between 'Algorithm' and 'Data Structure'.,BT2
+Discuss the ethical concerns of 'AI' in facial recognition.,BT2
+Explain why 'RAID 5' is used for data redundancy.,BT2
+Describe the function of a 'Control Unit'.,BT2
+Summarize the working of a 'Search Engine'.,BT2
+Explain the concept of 'Asymmetric Encryption'.,BT2
+How would you explain 'Neural Networks' using a brain analogy?,BT2
+Describe the role of a 'Database Administrator'.,BT2
+Discuss the importance of 'Unit Testing'.,BT2
+Explain how 'GPS' determines your location.,BT2
+Describe the concept of 'Pipelining'.,BT2
+Summarize the laws of 'Thermodynamics'.,BT2
+Explain why 'Python' is popular for Data Science.,BT2
+Describe the function of 'RAM'.,BT2
+Discuss the impact of 'E-commerce' on retail.,BT2
+Explain how 'Wi-Fi' signals travel.,BT2
+Describe the concept of 'Data Mining'.,BT2
+Summarize the features of 'HTML5'.,BT2
+Explain why 'Version Control' is essential.,BT2
+Describe the function of a 'Motherboard'.,BT2
+Discuss the role of 'CSS' in web design.,BT2
+Explain how 'Fiber Optics' transmit data.,BT2
+Describe the concept of 'API rate limiting'.,BT2
+Summarize the working of a 'Refrigeration' cycle.,BT2
+Explain why 'Binary' is used by computers.,BT2
+Describe the function of an 'Operating System'.,BT2
+Discuss the importance of 'Data Privacy'.,BT2
+Explain how 'Bluetooth' pairing works.,BT2
+Describe the concept of 'Responsive Design'.,BT2
+Summarize the benefits of 'Cloud Storage'.,BT2
+Explain why 'JavaScript' is used in browsers.,BT2
+Describe the function of a 'CPU' cache.,BT2
+Discuss the role of 'Linux' in servers.,BT2
+Explain how 'QR Codes' store information.,BT2
+Describe the concept of 'Machine Learning'.,BT2
+Summarize the features of 'Windows 11'.,BT2
+Explain why 'Encryption' is needed for online banking.,BT2
+Describe the function of a 'Router'.,BT2
+Discuss the importance of 'Backups'.,BT2
+Explain how 'Steam Engines' changed history.,BT2
+Describe the concept of 'Smart Contracts'.,BT2
+Summarize the working of a 'Battery'.,BT2
+Explain why 'Agile' is used in software development.,BT2
+Describe the function of a 'GPU'.,BT2
+Discuss the role of 'Robotics' in manufacturing.,BT2
+Explain how 'Solar Panels' generate electricity.,BT2
+Describe the concept of 'Big Data'.,BT2
+Summarize the features of 'C#'.,BT2
+Calculate the 'Root Mean Square' value of the given AC voltage.,BT3
+Find the 'Rank' of the provided 3x3 matrix.,BT3
+Apply 'Kruskal's Algorithm' to find the minimum spanning tree.,BT3
+Implement a 'Linked List' that supports O(1) tail insertion.,BT3
+Calculate the 'standard error' for the sample mean.,BT3
+Apply 'Bayesian filtering' to classify these spam messages.,BT3
+Solve the 'Differential Equation' using the Runge-Kutta method.,BT3
+Construct a 'Finite State Automata' for the given string pattern.,BT3
+Calculate the 'breaking stress' of a wire with given radius.,BT3
+Use 'Regular Expressions' to extract phone numbers from the text.,BT3
+Apply 'Binary Search' to find the index of 42 in the array.,BT3
+Calculate the 'Internal Rate of Return' for the project.,BT3
+Implement a 'Min-Heap' data structure in Java.,BT3
+Apply 'Huffman Coding' to compress the provided string.,BT3
+Solve the 'Linear Programming' problem using the Simplex method.,BT3
+Calculate the 'moment of inertia' for a hollow cylinder.,BT3
+Use 'Recursion' to solve the Tower of Hanoi for 3 disks.,BT3
+Apply 'Fourier Series' to find the harmonic components.,BT3
+Calculate the 'Net Present Value' of the investment.,BT3
+Implement a 'Depth First Search' on the given graph.,BT3
+Apply 'Newton's method' to find the square root of 25.,BT3
+Calculate the 'Drag Force' on an object moving through air.,BT3
+Use 'Pivot Tables' to find the total sales per region.,BT3
+Apply 'Boolean logic' to simplify the circuit diagram.,BT3
+Calculate the 'Velocity' of an object at t=5 seconds.,BT3
+Implement a 'Binary Tree' traversal (In-order).,BT3
+Apply 'Greedy Algorithm' to the coin change problem.,BT3
+Calculate the 'Density' of a substance given its mass and volume.,BT3
+Use 'SQL' to find the top 5 highest-paid employees.,BT3
+Apply 'Trigonometry' to find the height of the building.,BT3
+Calculate the 'Power' consumed by the 10-ohm resistor.,BT3
+Implement a 'Circular Queue' using an array.,BT3
+Apply 'Integration' to find the area under the curve.,BT3
+Calculate the 'Frequency' of a wave with given wavelength.,BT3
+Use 'Probability' to find the chance of rolling a 7 with two dice.,BT3
+Apply 'Calculus' to find the maximum value of the function.,BT3
+Calculate the 'Pressure' exerted by the 50kg block.,BT3
+Implement a 'Linear Search' to find the value 100.,BT3
+Apply 'Statistics' to find the mode of the dataset.,BT3
+Calculate the 'Torque' required to rotate the wheel.,BT3
+Use 'Vectors' to find the resultant force.,BT3
+Apply 'Algebra' to solve for x and y.,BT3
+Calculate the 'Volume' of a cone with radius 3 and height 4.,BT3
+Implement a 'Selection Sort' on a list of 10 items.,BT3
+Apply 'Geometry' to find the perimeter of the octagon.,BT3
+Calculate the 'Acceleration' of the car after 10 seconds.,BT3
+Use 'Logarithms' to solve the exponential growth problem.,BT3
+Apply 'Physics' to find the tension in the rope.,BT3
+Calculate the 'Mass' of the object given its weight on Mars.,BT3
+Implement a 'Breadth First Search' to find the exit.,BT3
+Apply 'Logic Gates' to create a half-adder.,BT3
+Calculate the 'Work' done by the crane.,BT3
+Use 'Matrices' to solve the system of linear equations.,BT3
+Apply 'Percentages' to find the discount price.,BT3
+Calculate the 'Distance' between point A and point B.,BT3
+Analyze the 'Throughput' of the network under heavy load.,BT4
+Compare the efficiency of 'Recursive' vs 'Iterative' solutions.,BT4
+Examine the 'Vulnerabilities' in the current system architecture.,BT4
+Differentiate between 'Latent' and 'Sensible' heat.,BT4
+Analyze the 'Revenue' impact of the new marketing strategy.,BT4
+Examine why the 'Machine Learning' model is overfitting.,BT4
+Analyze the 'Critical Path' to identify project bottlenecks.,BT4
+Differentiate between 'Static' and 'Dynamic' typing.,BT4
+Compare 'Monolithic' vs 'Microservices' for a scalable app.,BT4
+Analyze the 'Error Logs' to find the source of the crash.,BT4
+Examine the 'Bias' in the dataset used for the algorithm.,BT4
+Differentiate between 'TCP' and 'UDP' overhead.,BT4
+Analyze the 'Time Complexity' of the given nested loop.,BT4
+Compare 'React' vs 'Vue' for frontend development.,BT4
+Examine the 'Performance' of the database after indexing.,BT4
+Analyze the 'Social Impact' of automation in factories.,BT4
+Differentiate between 'Functional' and 'Imperative' programming.,BT4
+Compare 'iOS' vs 'Android' security models.,BT4
+Analyze the 'Heat Dissipation' in the new processor design.,BT4
+Examine the 'Profitability' of the three different business models.,BT4
+Analyze the 'Connectivity' of the graph nodes.,BT4
+Differentiate between 'Hardware' and 'Software' interrupts.,BT4
+Compare 'Cloud' vs 'On-premise' infrastructure costs.,BT4
+Analyze the 'Safety' features of the new bridge design.,BT4
+Examine the 'Reliability' of the distributed system.,BT4
+Analyze the 'Correlation' between stock prices.,BT4
+Differentiate between 'IPv4' and 'IPv6' headers.,BT4
+Compare 'SQL' vs 'NoSQL' for a real-time chat app.,BT4
+Analyze the 'Scalability' of the current backend.,BT4
+Examine the 'Ethics' of gene editing.,BT4
+Analyze the 'UX' flow of the checkout process.,BT4
+Differentiate between 'Process' and 'Thread' context switching.,BT4
+Compare 'Git' vs 'SVN' workflows.,BT4
+Analyze the 'Data Redundancy' in the RAID setup.,BT4
+Examine the 'Security' of the biometrics system.,BT4
+Analyze the 'Efficiency' of the electric motor.,BT4
+Differentiate between 'Compiler' and 'Interpreter' performance.,BT4
+Compare 'Python' vs 'C++' for game development.,BT4
+Analyze the 'Market Trends' for electric vehicles.,BT4
+Examine the 'Feasibility' of the underground tunnel project.,BT4
+Analyze the 'Logic' of the smart contract.,BT4
+Differentiate between 'RAM' and 'SSD' speed.,BT4
+Compare 'Agile' vs 'Scrum' implementation.,BT4
+Analyze the 'Sustainability' of the solar farm.,BT4
+Examine the 'Accuracy' of the weather forecast model.,BT4
+Analyze the 'Complexity' of the encryption algorithm.,BT4
+Differentiate between 'API' and 'SDK'.,BT4
+Compare 'Laptop' vs 'Desktop' power consumption.,BT4
+Analyze the 'Impact' of the new tax law.,BT4
+Examine the 'Quality' of the software code.,BT4
+What is the standard frequency of AC power in India?,BT1
+Define the term 'Q-factor' in a resonant circuit.,BT1
+List the four main components of a jet engine.,BT1
+What is the function of a 'Data Link Layer'?,BT1
+State the name of the first artificial satellite.,BT1
+What is 'Paging' in an operating system?,BT1
+Define 'Young's Modulus' in elasticity.,BT1
+What is the full form of 'SRAM'?,BT1
+List the primary stages of the 'Water Cycle'.,BT1
+State the 'Principle of Transmissibility' in mechanics.,BT1
+What is a 'Global Variable' in programming?,BT1
+Name the different types of 'Welding' processes.,BT1
+What is the value of 'Absolute Zero' in Celsius?,BT1
+Define 'Specific Gravity'.,BT1
+List the parts of a 'Fiber Optic' cable.,BT1
+What is a 'Macro' in C language?,BT1
+State the 'Law of Conservation of Momentum'.,BT1
+Define 'Deadlock' in a database system.,BT1
+What is the purpose of 'BIOS'?,BT1
+Name the layers of a 'Coaxial Cable'.,BT1
+Define 'Instruction Cycle' in microprocessors.,BT1
+What is the SI unit of 'Conductivity'?,BT1
+List the types of 'DC Generators'.,BT1
+What is 'Modulation Index'?,BT1
+Define 'Cyber Law'.,BT1
+State the 'Third Law of Motion'.,BT1
+What is 'Machine Code'?,BT1
+Define 'Throughput' in networking.,BT1
+Name the components of a 'Hard Disk Drive'.,BT1
+What is the function of an 'Assembler'?,BT1
+Define 'Resonance'.,BT1
+List the properties of 'Superconductors'.,BT1
+What is 'Cloud Computing'?,BT1
+State the 'Law of Diminishing Returns'.,BT1
+What is a 'Class' in C++?,BT1
+Define 'Frequency Response'.,BT1
+What is the purpose of a 'Voltage Regulator'?,BT1
+Name the basic 'Sorting Algorithms'.,BT1
+Define 'Virtual Reality'.,BT1
+List the 'Primary Keys' in a table.,BT1
+What is 'Recursion'?,BT1
+Define 'Stress'.,BT1
+State the 'Boyle's Law'.,BT1
+What is the 'Full Adder'?,BT1
+Define 'Metadata'.,BT1
+Name the 'Network Topologies'.,BT1
+What is 'Latency'?,BT1
+Define 'Inheritance'.,BT1
+List the 'Standard Libraries' in Python.,BT1
+What is 'Cache'?,BT1
+Define 'Encapsulation'.,BT1
+State the 'Ohm's Law'.,BT1
+What is 'Bandwidth'?,BT1
+Define 'Algorithm'.,BT1
+List the 'Logic Gates'.,BT1
+What is 'SQL'?,BT1
+Define 'Router'.,BT1
+State the 'Newton's First Law'.,BT1
+What is 'Binary'?,BT1
+Define 'Compiler'.,BT1
+List the 'CPU' registers.,BT1
+What is 'Firewall'?,BT1
+Define 'Database'.,BT1
+State the 'Pascal's Law'.,BT1
+What is 'Internet'?,BT1
+Define 'Hardware'.,BT1
+List the 'Input Devices'.,BT1
+What is 'Software'?,BT1
+Define 'RAM'.,BT1
+State the 'Kirchhoff's Laws'.,BT1
+What is 'Bit'?,BT1
+Define 'Byte'.,BT1
+List the 'Operating Systems'.,BT1
+What is 'CPU'?,BT1
+Define 'Memory'.,BT1
+State the 'Energy' formula.,BT1
+What is 'Physics'?,BT1
+Define 'Science'.,BT1
+List the 'Planets'.,BT1
+What is 'Earth'?,BT1
+Explain why 'Normalization' prevents update anomalies.,BT2
+Summarize the role of a 'Default Gateway' in routing.,BT2
+Describe the mechanism of 'Context Switching' in OS.,BT2
+How would you classify 'Software Licenses' (GPL vs MIT)?,BT2
+Explain the concept of 'Dependency Injection'.,BT2
+Summarize the purpose of 'Three-Phase' power systems.,BT2
+Describe how 'Active Directory' manages users.,BT2
+Explain the significance of the 'Central Limit Theorem'.,BT2
+How would you interpret a 'Box Plot' in statistics?,BT2
+Discuss the difference between 'Implicit' and 'Explicit' casting.,BT2
+Explain how 'Induction Motors' differ from 'Synchronous Motors'.,BT2
+Describe the concept of 'Garbage Collection' in Python.,BT2
+Summarize the impact of 'Distributed Ledger' technology.,BT2
+Explain why 'Star Topology' is common in modern LANs.,BT2
+Describe the function of 'Bipolar Junction Transistors' (BJT).,BT2
+Discuss the purpose of 'Semantic Analysis' in compilers.,BT2
+Explain how 'SSL/TLS' handshakes work.,BT2
+Describe the concept of 'Dynamic Programming'.,BT2
+Summarize the 'Agile Manifesto' principles.,BT2
+Explain the role of 'Kernel' in process management.,BT2
+How would you classify 'Web Vulnerabilities'?,BT2
+Describe the mechanism of 'Heap' memory allocation.,BT2
+Explain why 'Multithreading' can improve UI responsiveness.,BT2
+Summarize the working of a 'Switching Power Supply'.,BT2
+Describe the concept of 'Big Data Velocity'.,BT2
+Explain the significance of 'Foreign Keys' in data integrity.,BT2
+How would you interpret 'Null Values' in a database?,BT2
+Discuss the difference between 'Horizontal' and 'Vertical' scaling.,BT2
+Explain how 'VPNs' encrypt data tunnels.,BT2
+Describe the concept of 'Containerization'.,BT2
+Summarize the 'Solid' principles in OOD.,BT2
+Explain why 'JSON' is preferred over 'XML' for APIs.,BT2
+Describe the function of a 'Capacitor' in a filter.,BT2
+Discuss the importance of 'Unit Testing' in DevOps.,BT2
+Explain how 'Interpreters' differ from 'Compilers'.,BT2
+Describe the concept of 'Microservices'.,BT2
+Summarize the 'Laws of Robotics'.,BT2
+Explain why 'HTTPS' is more secure than 'HTTP'.,BT2
+Describe the function of 'RAM' in a computer.,BT2
+Discuss the role of 'Open Source' in innovation.,BT2
+Explain how 'Fiber Optics' transmit signals.,BT2
+Describe the concept of 'Cloud Storage'.,BT2
+Summarize the 'Turing Test'.,BT2
+Explain why 'Binary Search' is efficient.,BT2
+Describe the function of 'DNS'.,BT2
+Discuss the impact of 'AI' on society.,BT2
+Explain how 'Wi-Fi' works.,BT2
+Describe the concept of 'Internet of Things'.,BT2
+Summarize the 'SDLC' models.,BT2
+Explain why 'C' is a low-level language.,BT2
+Describe the function of an 'OS'.,BT2
+Discuss the importance of 'Cybersecurity'.,BT2
+Explain how 'Calculus' is used in physics.,BT2
+Describe the concept of 'Big Data'.,BT2
+Summarize the 'Theory of Relativity'.,BT2
+Explain why 'Math' is important for CS.,BT2
+Describe the function of a 'Router'.,BT2
+Discuss the role of 'Blockchain' in finance.,BT2
+Explain how 'Encryption' works.,BT2
+Describe the concept of 'Machine Learning'.,BT2
+Summarize the 'History of Computing'.,BT2
+Explain why 'Linux' is popular for servers.,BT2
+Describe the function of a 'CPU'.,BT2
+Discuss the impact of 'Social Media'.,BT2
+Explain how 'Batteries' store energy.,BT2
+Describe the concept of 'Programming'.,BT2
+Summarize the 'Features of Java'.,BT2
+Explain why 'Design' is crucial for apps.,BT2
+Describe the function of 'Logic Gates'.,BT2
+Calculate the 'Bending Stress' for a T-beam under load.,BT3
+Find the 'Rank' of a 4x4 sparse matrix.,BT3
+Apply 'Dijkstra's Algorithm' to a weighted graph with 6 nodes.,BT3
+Implement a 'Binary Search Tree' that supports deletion.,BT3
+Calculate the 'Conditional Probability' using the table provided.,BT3
+Apply 'Lagrange Multipliers' to find the constrained local extrema.,BT3
+Solve the 'Differential Equation' using the Power Series method.,BT3
+Construct a 'CMOS' logic circuit for a NOR gate.,BT3
+Calculate the 'Moment of Inertia' for a composite section.,BT3
+Use 'Regex' to validate complex password requirements.,BT3
+Apply 'Newton's Laws' to calculate the tension in the pulley.,BT3
+Calculate the 'Variance' of the given sample set.,BT3
+Implement a 'Merge Sort' algorithm in C#.,BT3
+Apply 'Hamming Code' to detect and correct single-bit errors.,BT3
+Solve the 'Simplex' problem for profit maximization.,BT3
+Calculate the 'Capacitance' of a parallel plate capacitor.,BT3
+Use 'SQL' to generate a report of monthly sales trends.,BT3
+Apply 'Simpson's Rule' to estimate the area under the curve.,BT3
+Calculate the 'Velocity' of an electron in a magnetic field.,BT3
+Implement a 'Circular Linked List' in Python.,BT3
+Apply 'L'Hopital's Rule' to evaluate the limit.,BT3
+Calculate the 'Shear Force' at the support of the beam.,BT3
+Use 'K-Means Clustering' to group the provided data points.,BT3
+Apply 'Boolean Algebra' to simplify a 4-variable K-Map.,BT3
+Calculate the 'Wavelength' of a light source given its frequency.,BT3
+Implement a 'Breadth-First Search' on a directed graph.,BT3
+Apply 'Euler's Method' to solve the initial value problem.,BT3
+Calculate the 'Standard Deviation' of the population.,BT3
+Use 'CSS' to create a responsive 3-column layout.,BT3
+Apply 'Ohm's Law' to find the resistance in the circuit.,BT3
+Calculate the 'Force' required to lift the 100kg load.,BT3
+Implement a 'Quicksort' on an unsorted array.,BT3
+Apply 'Trigonometry' to find the distance between ships.,BT3
+Calculate the 'Area' of the irregular polygon.,BT3
+Use 'Integration' to find the volume of the solid.,BT3
+Apply 'Probability' to the Monty Hall problem.,BT3
+Calculate the 'Mean' of the distribution.,BT3
+Implement a 'Stack' using two queues.,BT3
+Apply 'Physics' to find the trajectory of the projectile.,BT3
+Calculate the 'Pressure' at the bottom of the tank.,BT3
+Use 'Algebra' to solve the system of equations.,BT3
+Apply 'Geometry' to find the surface area of the sphere.,BT3
+Calculate the 'Distance' the car traveled in 2 hours.,BT3
+Implement a 'Linear Search' on the list.,BT3
+Apply 'Statistics' to find the median.,BT3
+Calculate the 'Torque' on the rotating shaft.,BT3
+Use 'Vectors' to find the dot product.,BT3
+Apply 'Calculus' to find the derivative.,BT3
+Calculate the 'Volume' of the cube.,BT3
+Implement a 'Selection Sort' on the data.,BT3
+Apply 'Percentages' to find the total cost.,BT3
+Calculate the 'Work' done by the engine.,BT3
+Use 'Logarithms' to solve the equation.,BT3
+Apply 'Logic' to build a truth table.,BT3
+Calculate the 'Speed' of the wave.,BT3
+Implement a 'Bubble Sort' algorithm.,BT3
+Apply 'Math' to solve the word problem.,BT3
+Calculate the 'Density' of the object.,BT3
+Use 'SQL' to delete duplicate records.,BT3
+Apply 'Physics' to find the friction force.,BT3
+Analyze the 'Packet Loss' impact on VoIP quality.,BT4
+Compare the efficiency of 'Bubble Sort' vs 'Merge Sort'.,BT4
+Examine the 'Vulnerabilities' in a WPA2 encrypted network.,BT4
+Differentiate between 'Static' and 'Dynamic' IP addresses.,BT4
+Analyze the 'Performance' of a Python script using a profiler.,BT4
+Examine the 'Sources of Error' in a laboratory experiment.,BT4
+Analyze the 'Complexity' of a nested for-loop algorithm.,BT4
+Differentiate between 'Functional' and 'Regression' testing.,BT4
+Compare the 'Scalability' of SQL vs NoSQL for social media.,BT4
+Analyze the 'Logs' to find the root cause of the server failure.,BT4
+Examine the 'Ethics' of data collection in mobile apps.,BT4
+Differentiate between 'Synchronous' and 'Asynchronous' I/O.,BT4
+Analyze the 'Structural Stability' of the skyscraper model.,BT4
+Compare 'React' vs 'Angular' for enterprise applications.,BT4
+Examine the 'Environmental Impact' of lithium-ion batteries.,BT4
+Analyze the 'User Behavior' from the heatmaps provided.,BT4
+Differentiate between 'RAM' and 'Virtual Memory' performance.,BT4
+Compare 'AWS' vs 'Azure' for cloud computing costs.,BT4
+Analyze the 'Heat Dissipation' in a high-performance laptop.,BT4
+Examine the 'Reliability' of the distributed database.,BT4
+Analyze the 'Safety' features of the autonomous car.,BT4
+Differentiate between 'Hardware' and 'Software' firewalls.,BT4
+Compare 'Docker' vs 'Virtual Machines' for development.,BT4
+Analyze the 'Scalability' of the microservices architecture.,BT4
+Examine the 'Logic' of the smart contract code.,BT4
+Analyze the 'Revenue' generated by the different tiers.,BT4
+Differentiate between 'Compiler' and 'Interpreter' speed.,BT4
+Compare 'SSD' vs 'HDD' durability.,BT4
+Analyze the 'Connectivity' of the social network graph.,BT4
+Examine the 'Bias' in the AI recommendation system.,BT4
+Analyze the 'Efficiency' of the solar panel array.,BT4
+Differentiate between 'Process' and 'Thread' in an OS.,BT4
+Compare 'IPv4' vs 'IPv6' for long-term growth.,BT4
+Analyze the 'Data Redundancy' in the RAID setup.,BT4
+Examine the 'Security' of the biometric authentication.,BT4
+Analyze the 'Throughput' of the assembly line.,BT4
+Differentiate between 'TCP' and 'UDP' for video streaming.,BT4
+Compare 'Git' vs 'Mercurial' for version control.,BT4
+Analyze the 'Usability' of the website interface.,BT4
+Examine the 'Feasibility' of the space colony project.,BT4
+Analyze the 'Logic' of the chess engine.,BT4
+Differentiate between 'L1' and 'L2' cache performance.,BT4
+Compare 'Agile' vs 'Waterfall' for a large project.,BT4
+Analyze the 'Sustainability' of the wind farm.,BT4
+Examine the 'Accuracy' of the stock market forecast.,BT4
+Analyze the 'Complexity' of the encryption method.,BT4
+Differentiate between 'API' and 'Web Service'.,BT4
+Compare 'LCD' vs 'OLED' power efficiency.,BT4
+Analyze the 'Impact' of the new data privacy law.,BT4
+Examine the 'Quality' of the code using static analysis.,BT4
+Analyze the 'Relationship' between variables in the study.,BT4
+Compare 'Python' vs 'R' for statistical analysis.,BT4
+Analyze the 'Effectiveness' of the vaccine.,BT4
+Examine the 'Design' of the user interface.,BT4
+Analyze the 'Flow' of the traffic in the city.,BT4
+Differentiate between 'Client' and 'Server' side rendering.,BT4
+Compare 'Bluetooth' vs 'NFC' for data transfer.,BT4
+Analyze the 'Security' of the password hash.,BT4
+Examine the 'Performance' of the engine at high altitudes.,BT4
+Analyze the 'Trend' in the sales data.,BT4
+Differentiate between 'Public' and 'Private' clouds.,BT4
+Compare 'Windows' vs 'macOS' for developers.,BT4
+Analyze the 'Accuracy' of the GPS sensor.,BT4
+Examine the 'Durability' of the new material.,BT4
+Analyze the 'Energy Efficiency' of the building.,BT4
+Differentiate between 'HTTP' and 'FTP'.,BT4
+Compare 'USB 2.0' vs 'USB 3.0' transfer speeds.,BT4
+Analyze the 'Noise' in the audio signal.,BT4
+Examine the 'Logic' of the mathematical proof.,BT4
+Analyze the 'Composition' of the alloy.,BT4
+Differentiate between 'Solid' and 'Liquid' states.,BT4
+Compare 'Solar' vs 'Wind' energy output.,BT4
+Analyze the 'Structure' of the DNA molecule.,BT4
+Examine the 'Function' of the enzyme.,BT4
+Analyze the 'Response Time' of the web server.,BT4
+Differentiate between 'In-order' and 'Post-order' traversals.,BT4
+Compare 'Heap Sort' vs 'Merge Sort' memory usage.,BT4
+Analyze the 'Vulnerability' of the IoT device.,BT4
+Examine the 'Feasibility' of the high-speed rail.,BT4
+Analyze the 'Effect' of the chemical catalyst.,BT4
+Define the term 'Regression Coefficient'.,BT1
+What is the full form of 'ANOVA'?,BT1
+State the definition of a 'Null Hypothesis'.,BT1
+What is the formula for the 'Standard Error' of the mean?,BT1
+Define 'Coefficient of Determination' (R-squared).,BT1
+List the properties of a 'Normal Distribution' curve.,BT1
+What are 'Type I' and 'Type II' errors?,BT1
+Define 'Skewness' and 'Kurtosis' in statistics.,BT1
+What is a 'Confidence Interval'?,BT1
+State the 'Central Limit Theorem'.,BT1
+What is the range of values for a 'Correlation Coefficient'?,BT1
+Define 'P-value' in hypothesis testing.,BT1
+What is a 'Goodness of Fit' test?,BT1
+List the assumptions of 'Linear Regression'.,BT1
+Define 'Degrees of Freedom'.,BT1
+What is the difference between 'Population' and 'Sample'?,BT1
+Define 'Bayes Theorem'.,BT1
+What is 'Multicollinearity'?,BT1
+Name the four scales of measurement.,BT1
+What is a 'Z-score'?,BT1
+Define 'Chi-square' distribution.,BT1
+What is 'Homoscedasticity'?,BT1
+List the types of 'Sampling Techniques'.,BT1
+What is a 'Scatter Plot'?,BT1
+Define 'Level of Significance'.,BT1
+What is 'Conditional Probability'?,BT1
+Name the parts of a 'Hypothesis Test'.,BT1
+What is 'Covariance'?,BT1
+Define 'Variance'.,BT1
+What is a 'Histogram'?,BT1
+State the formula for 'Mean Absolute Error' (MAE).,BT1
+What is 'Root Mean Square Error' (RMSE)?,BT1
+Define 'Residuals' in regression.,BT1
+What is an 'Outlier'?,BT1
+Name the test used for 'Equality of Variances'.,BT1
+Define 'Non-parametric' tests.,BT1
+What is 'Linear Correlation'?,BT1
+Define 'Stepwise Regression'.,BT1
+What is 'Logistic Regression'?,BT1
+Define 'Time Series Analysis'.,BT1
+State the definition of 'Probability'.,BT1
+What is a 'Random Variable'?,BT1
+"Define 'Mean, Median and Mode'.",BT1
+What is 'Standard Deviation'?,BT1
+Name the types of 'Probability Distributions'.,BT1
+What is 'Poisson Distribution'?,BT1
+Define 'Binomial Distribution'.,BT1
+What is 'Sampling Error'?,BT1
+Define 'Bias' in estimation.,BT1
+What is an 'Estimate'?,BT1
+Explain how 'Correlation' does not imply 'Causation'.,BT2
+Summarize the purpose of 'Linear Regression' analysis.,BT2
+Describe the relationship between 'P-value' and 'Null Hypothesis'.,BT2
+Explain why 'R-squared' is used to evaluate a model.,BT2
+How would you interpret a 'Confidence Level' of 95%?,BT2
+Describe the function of 'Residual Analysis'.,BT2
+Explain the significance of 'Alpha' in testing.,BT2
+Summarize the concept of 'Least Squares' method.,BT2
+Explain the difference between 'Simple' and 'Multiple' regression.,BT2
+Describe how a 'T-test' differs from a 'Z-test'.,BT2
+Summarize the role of 'Hypothesis Testing' in research.,BT2
+Explain why 'Normalization' is used in data preprocessing.,BT2
+Describe the concept of 'Overfitting' in predictive models.,BT2
+How would you explain 'Standard Deviation' to a layman?,BT2
+Summarize the properties of a 'Standard Normal Distribution'.,BT2
+Explain the purpose of 'Analysis of Variance' (ANOVA).,BT2
+Describe the meaning of a 'Negative Correlation'.,BT2
+Explain why 'Sample Size' affects the margin of error.,BT2
+Summarize the central ideas of 'Bayesian Inference'.,BT2
+Explain how 'Outliers' impact the mean of a dataset.,BT2
+Describe the concept of 'Sampling Distribution'.,BT2
+Explain the difference between 'Descriptive' and 'Inferential' statistics.,BT2
+Summarize the steps to perform a 'Chi-square' test.,BT2
+Describe the function of 'Box and Whisker' plots.,BT2
+Explain why 'Degrees of Freedom' change based on test type.,BT2
+How would you paraphrase the 'Law of Large Numbers'?,BT2
+Describe the relationship between 'Variance' and 'Precision'.,BT2
+Explain the significance of 'Effect Size'.,BT2
+Summarize the working of 'Logistic Regression'.,BT2
+Describe the role of 'Intercept' and 'Slope' in a line equation.,BT2
+Explain why 'Random Sampling' is essential for unbiased results.,BT2
+Describe the meaning of 'Statistically Significant'.,BT2
+Summarize the process of 'Data Validation'.,BT2
+Explain how 'Independent Variables' affect the 'Dependent Variable'.,BT2
+Describe the concept of 'Multivariate Analysis'.,BT2
+Explain why 'Non-parametric' tests are used for skewed data.,BT2
+Summarize the advantages of 'Stratified Sampling'.,BT2
+Describe the function of 'Covariance' in finance.,BT2
+Explain the concept of 'Linearity' in regression.,BT2
+How would you interpret a 'Standard Error' of 0.05?,BT2
+Describe the relationship between 'Type I Error' and 'Significance'.,BT2
+Explain the purpose of 'Cross-Validation'.,BT2
+Summarize the characteristics of 'Exponential Distribution'.,BT2
+Describe the difference between 'Discrete' and 'Continuous' data.,BT2
+Explain how 'Mean' is influenced by extreme values.,BT2
+Describe the function of 'Scatter Matrix'.,BT2
+Summarize the impact of 'Missing Data' on analysis.,BT2
+Explain why 'Standardization' is needed for PCA.,BT2
+Describe the concept of 'Power of a Test'.,BT2
+Summarize the main goals of 'Exploratory Data Analysis' (EDA).,BT2
+Calculate the 'Correlation Coefficient' for the given X and Y values.,BT3
+Find the 'Regression Equation' for the provided dataset.,BT3
+Apply 'Bayes Theorem' to find the probability of the disease.,BT3
+Solve for 'X' using the 'Z-score' formula.,BT3
+Calculate the 'Mean Absolute Error' for the model predictions.,BT3
+Use 'ANOVA' to test if there is a difference between the three groups.,BT3
+Apply 'Chi-square' test to check for independence between variables.,BT3
+Calculate the 'Standard Deviation' for the sample of 10 items.,BT3
+Find the '95% Confidence Interval' for the population mean.,BT3
+Apply 'Logistic Regression' to classify the binary outcome.,BT3
+Solve the 'Probability' problem using Binomial distribution.,BT3
+Calculate the 'RMSE' for the given actual and predicted values.,BT3
+Use 'T-test' to compare the means of the two groups.,BT3
+Apply 'Poisson Distribution' to find the number of arrivals.,BT3
+Calculate the 'Variance' and 'Kurtosis' of the distribution.,BT3
+Find the 'Intercept' and 'Slope' using the method of least squares.,BT3
+Apply 'Normalization' (Min-Max) to the provided data range.,BT3
+Calculate the 'Probability' of getting at least two heads in five flips.,BT3
+Solve for the 'Missing Value' in the frequency table.,BT3
+Apply 'Rank Correlation' to the given preference scores.,BT3
+Calculate the 'Expected Value' of the random variable.,BT3
+Find the 'Median' and 'Mode' for the skewed dataset.,BT3
+Apply 'Standardization' (Z-score) to the following feature set.,BT3
+Calculate the 'Margin of Error' for a sample size of 500.,BT3
+Use 'Linear Interpolation' to find the value at X=15.,BT3
+Apply 'Multiple Regression' to predict house prices.,BT3
+Calculate the 'Weighted Mean' of the grades.,BT3
+Solve the 'Permutation' problem for selecting a committee.,BT3
+Calculate the 'Coefficient of Variation' for the two stocks.,BT3
+Find the 'Derivative' of the regression loss function.,BT3
+Apply 'K-Means' to cluster the 2D coordinates.,BT3
+Calculate the 'Skewness' using Pearson's coefficient.,BT3
+Solve the 'Integral' to find the area under the PDF.,BT3
+Apply 'Chain Rule' to find the rate of change.,BT3
+Calculate the 'Sample Variance' after adding a new data point.,BT3
+Find the 'Intersection' and 'Union' of the two sets.,BT3
+Apply 'Euclidean Distance' to find the nearest neighbor.,BT3
+Calculate the 'Power' of the test given Beta.,BT3
+Solve the 'Equation' 4x + 7 = 31.,BT3
+Apply 'Matrix Multiplication' to transform the data.,BT3
+Calculate the 'Log-Likelihood' of the distribution.,BT3
+Find the 'Critical Value' from the F-distribution table.,BT3
+Apply 'Newton's Method' to find the root of the function.,BT3
+Calculate the 'Entropy' of the given information source.,BT3
+Solve the 'System of Equations' using Cramer's rule.,BT3
+Apply 'L'Hopital's Rule' to solve the limit problem.,BT3
+Calculate the 'Area' under the Normal curve between Z=-1 and Z=1.,BT3
+Find the 'Percentage' increase in sales.,BT3
+Apply 'Discounting' to find the present value of $5000.,BT3
+Calculate the 'Ratio' of success to failure.,BT3
+Analyze the 'Residual Plot' to detect non-linearity in the model.,BT4
+Compare the 'Performance' of Lasso vs Ridge regression.,BT4
+Examine the 'Multicollinearity' using Variance Inflation Factor (VIF).,BT4
+Differentiate between 'Correlation' and 'Autocorrelation'.,BT4
+Analyze the 'Effect' of an outlier on the regression slope.,BT4
+Compare 'Random Forest' vs 'Decision Trees' for analysis.,BT4
+Examine the 'Bias-Variance Tradeoff' in the provided model.,BT4
+Analyze the 'Distribution' to determine if it is truly Normal.,BT4
+Differentiate between 'Statistical' and 'Clinical' significance.,BT4
+Compare the 'Efficiency' of Mean vs Median in skewed data.,BT4
+Analyze the 'Time Series' for seasonality and trends.,BT4
+Examine the 'Validity' of the survey questions.,BT4
+Analyze the 'Error Logs' to troubleshoot the model training.,BT4
+Differentiate between 'Parameters' and 'Statistics'.,BT4
+Compare 'Parametric' vs 'Non-parametric' methods for this data.,BT4
+Analyze the 'Impact' of increasing alpha on Type II error.,BT4
+Examine the 'Structure' of the hierarchical model.,BT4
+Analyze the 'Correlation Matrix' to identify redundant features.,BT4
+Differentiate between 'Causality' and 'Coincidence' in the study.,BT4
+Compare 'Bayesian' vs 'Frequentist' approaches to the problem.,BT4
+Analyze the 'Sensitivity' of the model to changes in input.,BT4
+Examine the 'Logic' behind the hypothesis construction.,BT4
+Analyze the 'Scalability' of the data processing pipeline.,BT4
+Differentiate between 'Standardization' and 'Normalization'.,BT4
+Compare 'MAE' and 'MSE' as loss functions for this case.,BT4
+Analyze the 'Probability' of system failure using a fault tree.,BT4
+Examine the 'Assumptions' of the T-test in the given scenario.,BT4
+Analyze the 'Pattern' of residuals to check for heteroscedasticity.,BT4
+Differentiate between 'Exploratory' and 'Confirmatory' analysis.,BT4
+Compare the 'Accuracy' of the three different classifiers.,BT4
+Analyze the 'Reliability' of the measurement instrument.,BT4
+Examine the 'Ethical Implications' of using this biased dataset.,BT4
+Analyze the 'Growth Rate' from the logarithmic plot.,BT4
+Differentiate between 'Cluster' and 'Stratified' sampling.,BT4
+Compare 'P-value' vs 'Confidence Intervals' for decision making.,BT4
+Analyze the 'Complexity' of the multi-level model.,BT4
+Examine the 'Outliers' to see if they should be removed.,BT4
+Analyze the 'Change' in R-squared after adding a new variable.,BT4
+Differentiate between 'Interquartile Range' and 'Standard Deviation'.,BT4
+Compare 'A/B Testing' vs 'Multivariate Testing'.,BT4
+Analyze the 'Information Gain' of the splitting attribute.,BT4
+Examine the 'Constraints' of the optimization problem.,BT4
+Analyze the 'Data' to find the best-fit distribution.,BT4
+Differentiate between 'Linear' and 'Logistic' decision boundaries.,BT4
+Compare 'SQL' and 'Pandas' for data aggregation speed.,BT4
+Analyze the 'Security' of the data encryption method.,BT4
+Examine the 'Logic' of the conditional probability proof.,BT4
+Analyze the 'Interaction' between the two independent variables.,BT4
+Differentiate between 'Descriptive' and 'Predictive' analytics.,BT4
+Compare 'Cross-sectional' vs 'Longitudinal' study designs.,BT4
+What is the definition of 'Artificial Intelligence'?,BT1
+State the 'Third Law of Thermodynamics'.,BT1
+Who is the father of 'Modern Economics'?,BT1
+What is the 'Mass' of an electron?,BT1
+Define 'Binary Search Tree'.,BT1
+List the 'Colors of light' in a rainbow.,BT1
+What is 'Ohm's Law' formula?,BT1
+Define 'Database Index'.,BT1
+What is 'HTTP' full form?,BT1
+State 'Newton's Second Law'.,BT1
+Define 'Compiler'.,BT1
+What is the 'Atomic Number' of Oxygen?,BT1
+List the 'Planets' in order.,BT1
+Define 'Cloud Computing'.,BT1
+What is 'Machine Learning'?,BT1
+State the 'Pythagorean Theorem'.,BT1
+Define 'Algorithm'.,BT1
+What is 'Data Structure'?,BT1
+List the 'OSI Layers'.,BT1
+Define 'Encapsulation'.,BT1
+Explain how 'RAM' differs from 'ROM'.,BT2
+Summarize the 'Process of Mitosis'.,BT2
+Describe the 'Working of a Router'.,BT2
+Explain 'Why' the sky is blue.,BT2
+How would you 'Paraphrase' the main idea?,BT2
+Describe the 'Concept of Gravity'.,BT2
+Summarize the 'SDLC Phases'.,BT2
+Explain 'How' a battery works.,BT2
+Describe 'Virtual Memory'.,BT2
+Summarize the 'Laws of Motion'.,BT2
+Explain the 'Difference' between C and C++.,BT2
+Describe the 'Role of a Firewall'.,BT2
+Summarize 'Big Data'.,BT2
+Explain 'Why' we use SQL.,BT2
+Describe 'Object Oriented Programming'.,BT2
+Summarize 'Blockchain'.,BT2
+Explain 'How' an API works.,BT2
+Describe 'Inheritance' in Java.,BT2
+Summarize 'Cybersecurity'.,BT2
+Explain 'Why' we normalize databases.,BT2
+Calculate the 'Area' of the circle.,BT3
+Solve for 'x' in 2x + 10 = 20.,BT3
+Find the 'Mean' of the data.,BT3
+Apply 'Dijkstra's Algorithm' to the graph.,BT3
+Solve the 'Differential Equation'.,BT3
+Calculate the 'Speed' of the car.,BT3
+Find the 'Standard Deviation'.,BT3
+Use 'SQL' to find the user.,BT3
+Apply 'Physics Laws' to the problem.,BT3
+Calculate the 'Interest' earned.,BT3
+Solve the 'Math Problem'.,BT3
+Apply 'Recursion' to the series.,BT3
+Calculate the 'Volume' of the cube.,BT3
+Find the 'Median' of the set.,BT3
+Use 'Python' to sort the list.,BT3
+Calculate the 'Pressure'.,BT3
+Apply 'Trigonometry' to the triangle.,BT3
+Calculate the 'Force'.,BT3
+Find the 'Derivative'.,BT3
+Solve the 'Matrix' equation.,BT3
+Analyze the 'Complexity' of the code.,BT4
+Compare 'Merge Sort' vs 'Quick Sort'.,BT4
+Analyze the 'Impact' of the policy.,BT4
+Differentiate between 'TCP' and 'UDP'.,BT4
+Examine the 'Logic' of the argument.,BT4
+Analyze the 'Results' of the experiment.,BT4
+Compare 'iPhone' vs 'Android'.,BT4
+Analyze the 'Efficiency' of the engine.,BT4
+Differentiate between 'RAM' and 'SSD'.,BT4
+Examine the 'Safety' of the bridge.,BT4
+Analyze the 'Data Trends'.,BT4
+Compare 'React' vs 'Vue'.,BT4
+Analyze the 'Error' in the system.,BT4
+Differentiate between 'Client' and 'Server'.,BT4
+Examine the 'Bias' in the report.,BT4
+Analyze the 'Security' of the app.,BT4
+Compare 'AWS' vs 'Azure'.,BT4
+Analyze the 'Performance' of the model.,BT4
+Differentiate between 'Fact' and 'Opinion'.,BT4
+Examine the 'Cost' of the project.,BT4
+Define the term 'Crosstalk' in communication systems.,BT1
+What is the full form of 'VGA'?,BT1
+State the definition of 'Magnetic Hysteresis'.,BT1
+What is the range of a 16-bit signed integer?,BT1
+Define 'Throttling' in the context of CPU performance.,BT1
+List the steps for 'Context Switching'.,BT1
+What is a 'Semaphore' in operating systems?,BT1
+Define 'Mutual Exclusion' (Mutex).,BT1
+What is the standard voltage of a CMOS battery?,BT1
+State the 'Superposition Theorem' for circuits.,BT1
+What is 'Latency' in a hard drive?,BT1
+Define 'Pipelining' in computer architecture.,BT1
+Name the layers of the 'TCP/IP' protocol suite.,BT1
+What is the full form of 'DRAM'?,BT1
+Define 'Instruction Set Architecture' (ISA).,BT1
+What is 'Little Endian' vs 'Big Endian'?,BT1
+List the primary components of an 'Arduino' board.,BT1
+What is the function of a 'Voltage Divider'?,BT1
+Define 'Hard Real-Time' vs 'Soft Real-Time'.,BT1
+What is the 'Base-2' equivalent of the number 64?,BT1
+State the 'Maximum Power Transfer Theorem'.,BT1
+Define 'Signal-to-Noise Ratio' (SNR).,BT1
+What is the 'Refresh Rate' of a monitor?,BT1
+List the flags in the '8086' status register.,BT1
+What is the purpose of a 'Pull-up Resistor'?,BT1
+Define 'Baud Rate'.,BT1
+What is 'Full Duplex' communication?,BT1
+State the 'Uncertainty Principle'.,BT1
+What is a 'Segment Tree'?,BT1
+Define 'Adjacency Matrix'.,BT1
+Name the three levels of data abstraction.,BT1
+What is the purpose of 'Normalization'?,BT1
+Define 'Entity Relationship Diagram'.,BT1
+List the types of 'NoSQL' databases.,BT1
+What is 'Query Optimization'?,BT1
+Define 'Atomicity' in ACID.,BT1
+What is 'Redundancy' in networking?,BT1
+Name the standard port for 'SSH'.,BT1
+Define 'Packet Sniffing'.,BT1
+List the 'Linux' kernel subsystems.,BT1
+What is a 'Zombie Process'?,BT1
+Define 'Shell Scripting'.,BT1
+State the 'Laws of Reflection'.,BT1
+What is a 'Convex Lens'?,BT1
+Define 'Torque'.,BT1
+List the 'Fundamental Particles'.,BT1
+What is 'Radioactivity'?,BT1
+Define 'Isotope'.,BT1
+State the 'Pauli Exclusion Principle'.,BT1
+What is 'Nuclear Fission'?,BT1
+Define 'Resistor'.,BT1
+List the 'Inductors' types.,BT1
+What is 'Direct Current'?,BT1
+Define 'Capacitance'.,BT1
+State the 'Coulomb's Law'.,BT1
+What is 'Voltage'?,BT1
+Define 'Current'.,BT1
+List the 'Power' units.,BT1
+What is 'Energy'?,BT1
+Define 'Mechanical Advantage'.,BT1
+State the 'Law of Lever'.,BT1
+What is 'Friction'?,BT1
+Define 'Gravity'.,BT1
+List the 'Types of Motion'.,BT1
+What is 'Work'?,BT1
+Define 'Power'.,BT1
+State the 'Law of Conservation of Mass'.,BT1
+What is 'Chemistry'?,BT1
+Define 'Molecule'.,BT1
+List the 'Elements'.,BT1
+What is 'Biology'?,BT1
+Define 'Cell'.,BT1
+State the 'Cell Theory'.,BT1
+What is 'DNA'?,BT1
+Define 'Genetics'.,BT1
+List the 'Human Systems'.,BT1
+What is 'Heart'?,BT1
+Define 'Lungs'.,BT1
+State the 'Photosynthesis' equation.,BT1
+What is 'Leaf'?,BT1
+Define 'Root'.,BT1
+Explain why 'Virtual Functions' are needed for polymorphism.,BT2
+Summarize the working of a 'Step-down Transformer'.,BT2
+Describe the mechanism of 'Interrupt Handling'.,BT2
+How would you classify 'Sorting Algorithms' by stability?,BT2
+Explain the concept of 'Cache Coherency'.,BT2
+Summarize the purpose of 'Direct Memory Access' (DMA).,BT2
+Describe how 'Frequency Modulation' differs from 'Amplitude Modulation'.,BT2
+Explain the significance of 'The Halting Problem'.,BT2
+How would you interpret 'Big O' as an upper bound?,BT2
+Discuss the difference between 'Deep Copy' and 'Shallow Copy'.,BT2
+Explain how 'Static Variables' persist across function calls.,BT2
+Describe the concept of 'Encapsulation' in security.,BT2
+Summarize the impact of 'Parallel Processing' on throughput.,BT2
+Explain why 'B-Trees' are used for database indexing.,BT2
+Describe the function of a 'Multiplexer' (MUX).,BT2
+Discuss the purpose of 'Unit Testing' in software quality.,BT2
+Explain how 'Recursive Descent' parsers work.,BT2
+Describe the concept of 'Cloud Scalability'.,BT2
+Summarize the 'Agile' values vs traditional methods.,BT2
+Explain the role of 'Semaphores' in process synchronization.,BT2
+How would you classify 'Machine Learning' by supervision?,BT2
+Describe the mechanism of 'Page Faults'.,BT2
+Explain why 'Multithreading' can cause race conditions.,BT2
+Summarize the working of a 'Switching Diode'.,BT2
+Describe the concept of 'Big Data Volume'.,BT2
+Explain the significance of 'Primary Keys' in relational models.,BT2
+How would you interpret 'Missing Data' in a survey?,BT2
+Discuss the difference between 'Local' and 'Global' scope.,BT2
+Explain how 'HTTPS' certificates work.,BT2
+Describe the concept of 'Serverless Functions'.,BT2
+Summarize the 'DRY' (Don't Repeat Yourself) principle.,BT2
+Explain why 'XML' is used for data exchange.,BT2
+Describe the function of an 'Inductor' in a circuit.,BT2
+Discuss the importance of 'Code Reviews'.,BT2
+Explain how 'Interpreted Languages' execute code.,BT2
+Describe the concept of 'Distributed Systems'.,BT2
+Summarize the 'Rules of Boolean Algebra'.,BT2
+Explain why 'VPN' is used for remote work.,BT2
+Describe the function of 'CPU Cache' levels.,BT2
+Discuss the role of 'Standards' in engineering.,BT2
+Explain how 'Fiber Optic' cables maintain signal strength.,BT2
+Describe the concept of 'Data Warehousing'.,BT2
+Summarize the 'Law of Large Numbers'.,BT2
+Explain why 'Merge Sort' is more reliable than 'Quick Sort'.,BT2
+Describe the function of 'ICMP'.,BT2
+Discuss the impact of 'Blockchain' on transparency.,BT2
+Explain how 'Bluetooth' discovery works.,BT2
+Describe the concept of 'Edge Devices'.,BT2
+Summarize the 'V-Model' of software development.,BT2
+Explain why 'C++' is preferred for game engines.,BT2
+Describe the function of a 'Database Schema'.,BT2
+Discuss the importance of 'Firewalls'.,BT2
+Explain how 'Integration' is used in finding areas.,BT2
+Describe the concept of 'Artificial Intelligence'.,BT2
+Summarize the 'Newtonian Laws'.,BT2
+Explain why 'Logic' is fundamental to CS.,BT2
+Describe the function of a 'Switch'.,BT2
+Discuss the role of 'Cloud' in business.,BT2
+Explain how 'Encryption' keys work.,BT2
+Describe the concept of 'Natural Language Processing'.,BT2
+Summarize the 'History of the Internet'.,BT2
+Explain why 'Unix' is stable.,BT2
+Describe the function of 'ALU'.,BT2
+Discuss the impact of 'Online Learning'.,BT2
+Explain how 'Generators' produce power.,BT2
+Describe the concept of 'Hardware' vs 'Software'.,BT2
+Summarize the 'Features of Python'.,BT2
+Explain why 'UX' is different from 'UI'.,BT2
+Describe the function of 'Logic Gates'.,BT2
+Calculate the 'Input Impedance' of the following Op-Amp circuit.,BT3
+Find the 'Transfer Function' for the given RLC network.,BT3
+Apply 'Thevenin's Theorem' to find the load current.,BT3
+Implement a 'Red-Black Tree' insertion routine.,BT3
+Calculate the 'Standard Deviation' of the daily stock prices.,BT3
+Apply 'Huffman Coding' to the following character set.,BT3
+Solve the 'Bernoulli Equation' for fluid flow.,BT3
+Construct a 'Finite Automata' that accepts strings with even zeros.,BT3
+Calculate the 'Resonant Frequency' of the LC circuit.,BT3
+Use 'Regex' to filter valid IP addresses from the log file.,BT3
+Apply 'Newton-Raphson' to solve x^3 - x - 1 = 0.,BT3
+Calculate the 'Expected Value' and 'Variance' of the data.,BT3
+Implement a 'Heap Sort' in C++.,BT3
+Apply 'CRC' to detect errors in the data packet.,BT3
+Solve the 'Linear Programming' problem using the Simplex method.,BT3
+Calculate the 'Inductance' needed for the filter.,BT3
+Use 'SQL' to find employees who earn more than their managers.,BT3
+Apply 'Trapezoidal Rule' to find the area under the curve.,BT3
+Calculate the 'Drift Velocity' of electrons.,BT3
+Implement a 'Priority Queue' using a binary heap.,BT3
+Apply 'Mean Value Theorem' to the function.,BT3
+Calculate the 'Bending Moment' at point X.,BT3
+Use 'KNN' to classify the new data point.,BT3
+Apply 'Karnaugh Map' to simplify the logic expression.,BT3
+Calculate the 'Power Factor' of the motor.,BT3
+Implement a 'Breadth-First Search' on the social graph.,BT3
+Apply 'Taylor Series' to expand sin(x) around zero.,BT3
+Calculate the 'Correlation Coefficient' for X and Y.,BT3
+Use 'Python' to merge two CSV files.,BT3
+Apply 'Kirchhoff's Laws' to solve for I1 and I2.,BT3
+Calculate the 'Tensile Strength' of the sample.,BT3
+Implement a 'Binary Search' on the sorted list.,BT3
+Apply 'Trigonometry' to find the resultant vector.,BT3
+Calculate the 'Efficiency' of the heat engine.,BT3
+Use 'Integration' to find the center of mass.,BT3
+Apply 'Probability' to find the odds of the event.,BT3
+Calculate the 'Mean' of the dataset.,BT3
+Implement a 'Stack' using an array.,BT3
+Apply 'Physics' to find the velocity.,BT3
+Calculate the 'Pressure' at 10 meters depth.,BT3
+Use 'Algebra' to find x.,BT3
+Apply 'Geometry' to find the volume.,BT3
+Calculate the 'Time' taken for the journey.,BT3
+Implement a 'Linear Search'.,BT3
+Apply 'Statistics' to find the median.,BT3
+Calculate the 'Torque'.,BT3
+Use 'Vectors' to find the cross product.,BT3
+Apply 'Calculus' to find the derivative.,BT3
+Calculate the 'Area'.,BT3
+Implement a 'Bubble Sort'.,BT3
+Apply 'Percentages' to the discount.,BT3
+Calculate the 'Work'.,BT3
+Use 'Logarithms' to find n.,BT3
+Apply 'Logic' to the gate.,BT3
+Calculate the 'Speed'.,BT3
+Implement a 'Selection Sort'.,BT3
+Apply 'Math' to the problem.,BT3
+Calculate the 'Density'.,BT3
+Use 'SQL' to insert data.,BT3
+Apply 'Physics' to the force.,BT3
+Analyze the 'Time Complexity' of the recursive Fibonacci function.,BT4
+Compare the 'Architecture' of ARM vs x86 processors.,BT4
+Examine the 'Vulnerability' of the system to a SQL Injection.,BT4
+Differentiate between 'Synchronous' and 'Asynchronous' resets.,BT4
+Analyze the 'Stability' of the control system using Nyquist plots.,BT4
+Examine the 'Root Cause' of the system deadlock.,BT4
+Analyze the 'Complexity' of the traveling salesman problem.,BT4
+Differentiate between 'Structural' and 'Behavioral' UML diagrams.,BT4
+Compare the 'Scalability' of vertical vs horizontal scaling.,BT4
+Analyze the 'Log Files' to identify the security breach.,BT4
+Examine the 'Ethical Implications' of algorithmic bias.,BT4
+Differentiate between 'User' and 'Kernel' modes.,BT4
+Analyze the 'Throughput' of the pipeline architecture.,BT4
+Compare 'NoSQL' vs 'Relational' for a real-time messaging app.,BT4
+Examine the 'Bottleneck' in the web server performance.,BT4
+Analyze the 'Sentiment' of the user reviews using the data.,BT4
+Differentiate between 'SRAM' and 'DRAM' performance.,BT4
+Compare 'Cloud' vs 'On-premise' for data security.,BT4
+Analyze the 'Power Consumption' of the embedded device.,BT4
+Examine the 'Reliability' of the backup system.,BT4
+Analyze the 'Safety' of the reactor design.,BT4
+Differentiate between 'Hub' and 'Bridge' in networking.,BT4
+Compare 'Docker' vs 'VMs' for server density.,BT4
+Analyze the 'Latency' of the network.,BT4
+Examine the 'Logic' of the smart contract.,BT4
+Analyze the 'Growth' of the company.,BT4
+Differentiate between 'Compiler' and 'Linker'.,BT4
+Compare 'HDD' vs 'SSD' for database storage.,BT4
+Analyze the 'Network' graph for influencers.,BT4
+Examine the 'Bias' in the dataset.,BT4
+Analyze the 'Efficiency' of the algorithm.,BT4
+Differentiate between 'Process' and 'Program'.,BT4
+Compare 'IPv4' and 'IPv6'.,BT4
+Analyze the 'Redundancy' of the RAID.,BT4
+Examine the 'Security' of the biometrics.,BT4
+Analyze the 'Flow' of the process.,BT4
+Differentiate between 'TCP' and 'UDP'.,BT4
+Compare 'Git' and 'SVN'.,BT4
+Analyze the 'User Interface'.,BT4
+Examine the 'Feasibility' of the plan.,BT4
+Analyze the 'Strategy'.,BT4
+Differentiate between 'Cache' and 'Buffer'.,BT4
+Compare 'Waterfall' and 'Agile'.,BT4
+Analyze the 'Sustainability'.,BT4
+Examine the 'Accuracy'.,BT4
+Analyze the 'Cost'.,BT4
+Differentiate between 'Method' and 'Function'.,BT4
+Compare 'Hardware' and 'Firmware'.,BT4
+Analyze the 'Trend'.,BT4
+Examine the 'Quality'.,BT4
+Analyze the 'Data'.,BT4
+Differentiate between 'Fact' and 'Theory'.,BT4
+Compare 'Python' and 'Java'.,BT4
+Analyze the 'Impact'.,BT4
+Examine the 'Design'.,BT4
+Analyze the 'Structure'.,BT4
+Differentiate between 'Client' and 'Server'.,BT4
+Compare 'Desktop' and 'Mobile'.,BT4
+Analyze the 'Security'.,BT4
+Examine the 'Performance'.,BT4
+Analyze the 'Outcome'.,BT4
+Differentiate between 'Variable' and 'Constant'.,BT4
+Compare 'Input' and 'Output'.,BT4
+Analyze the 'Response'.,BT4
+Examine the 'Durability'.,BT4
+Analyze the 'Speed'.,BT4
+Differentiate between 'LAN' and 'WAN'.,BT4
+Compare 'Analog' and 'Digital'.,BT4
+Analyze the 'Noise'.,BT4
+Examine the 'Logic'.,BT4
+Analyze the 'Tone'.,BT4
+Differentiate between 'Mass' and 'Weight'.,BT4
+Compare 'Physics' and 'Chemistry'.,BT4
+Analyze the 'Graph'.,BT4
+Examine the 'Function'.,BT4
+Analyze the 'Signal'.,BT4
+Differentiate between 'Alpha' and 'Beta' testing.,BT4
+Compare 'Heap' and 'Stack'.,BT4
+Analyze the 'Vulnerability'.,BT4
+Examine the 'Risk'.,BT4
+Analyze the 'Effect'.,BT4
+Define 'Propositional Logic' in discrete mathematics.,BT1
+What is the full form of 'ACID' in databases?,BT1
+State the definition of a 'Complete Graph'.,BT1
+What is a 'Bipartite Graph'?,BT1
+Define 'Equivalence Relation'.,BT1
+What is the degree of a vertex in a graph?,BT1
+List the types of 'Set Operations'.,BT1
+What is a 'Tautology'?,BT1
+Define 'Mathematical Induction'.,BT1
+What is the 'Power Set' of a given set?,BT1
+Define 'Universal Quantifier'.,BT1
+What is a 'Predicate' in logic?,BT1
+List the properties of 'Lattices'.,BT1
+What is the 'Pigeonhole Principle'?,BT1
+Define 'Permutation' and 'Combination'.,BT1
+What is a 'Venn Diagram'?,BT1
+State the 'Handshaking Lemma'.,BT1
+What is an 'Eulerian Path'?,BT1
+Define 'Hamiltonian Circuit'.,BT1
+What is a 'Planar Graph'?,BT1
+Define 'Chromatic Number'.,BT1
+What is the 'Cartesian Product' of two sets?,BT1
+List the different 'Normal Forms' in DBMS.,BT1
+What is a 'Primary Key'?,BT1
+Define 'Foreign Key'.,BT1
+What is 'Referential Integrity'?,BT1
+List the steps in 'Database Normalization'.,BT1
+What is 'SQL'?,BT1
+Define 'Transaction' in DBMS.,BT1
+What is 'Deadlock' in a database?,BT1
+List the types of 'Database Joins'.,BT1
+What is a 'Candidate Key'?,BT1
+Define 'Functional Dependency'.,BT1
+What is 'Multivalued Dependency'?,BT1
+Define '1NF' (First Normal Form).,BT1
+What is '2NF'?,BT1
+What is '3NF'?,BT1
+Define 'BCNF'.,BT1
+What is an 'Index' in SQL?,BT1
+List the components of an 'ER Diagram'.,BT1
+What is a 'Weak Entity'?,BT1
+Define 'Cardinality' in ER models.,BT1
+What is 'Relational Algebra'?,BT1
+List the 'Set Operators' in SQL.,BT1
+What is a 'Stored Procedure'?,BT1
+Define 'Database Trigger'.,BT1
+What is 'Concurrency Control'?,BT1
+List the properties of 'Serializability'.,BT1
+What is 'Two-Phase Locking'?,BT1
+Define 'Log-Based Recovery'.,BT1
+What is 'Data Independence'?,BT1
+Define 'Schema' in DBMS.,BT1
+List the layers of 'Three-Schema Architecture'.,BT1
+What is a 'View' in SQL?,BT1
+Define 'Hashing' in databases.,BT1
+Explain how 'Mathematical Induction' is used to prove a theorem.,BT2
+Summarize the concept of 'Venn Diagrams' in set theory.,BT2
+Describe the difference between 'Injective' and 'Surjective' functions.,BT2
+Explain why 'BCNF' is stricter than '3NF'.,BT2
+Summarize the purpose of 'Functional Dependencies' in design.,BT2
+Describe the mechanism of 'Two-Phase Commit'.,BT2
+How would you classify 'Relations' as reflexive or symmetric?,BT2
+Explain the significance of 'Truth Tables' in logic.,BT2
+Summarize the working of 'Dijkstra's Algorithm'.,BT2
+Describe how 'Graphs' can represent a social network.,BT2
+Explain the concept of 'Tree Traversal' (In-order  Pre-order).,BT2
+Discuss the purpose of 'Relational Calculus'.,BT2
+Explain how 'Normal Forms' reduce data redundancy.,BT2
+Describe the concept of 'ACID' properties in transactions.,BT2
+Summarize the 'Pigeonhole Principle' with an example.,BT2
+Explain why 'B-Trees' are preferred for database storage.,BT2
+Describe the function of 'Aggregate Functions' in SQL.,BT2
+Discuss the role of 'Integrity Constraints'.,BT2
+Explain how 'Hashing' handles collisions.,BT2
+Summarize the impact of 'Deadlock' on system performance.,BT2
+Explain the difference between 'Clustered' and 'Non-clustered' indexes.,BT2
+Describe the concept of 'Existential Quantifier'.,BT2
+Discuss the benefits of 'Database Views' for security.,BT2
+Explain how 'Inner Join' differs from 'Outer Join'.,BT2
+Describe the mechanism of 'Timestamp-Based' concurrency control.,BT2
+"Summarize the 'Laws of Logic' (De Morgan’s, etc.).",BT2
+Explain why 'Primary Keys' cannot be null.,BT2
+Describe the concept of 'Partial Order Relation'.,BT2
+Discuss the importance of 'ER Modeling' in design.,BT2
+Explain how 'Relational Algebra' translates to SQL.,BT2
+Describe the function of 'Checkpointing' in recovery.,BT2
+Summarize the 'Graph Coloring' problem.,BT2
+Explain why 'Normalization' might lead to more joins.,BT2
+Describe the concept of 'Distributed Databases'.,BT2
+Discuss the role of 'Metadata' in a data warehouse.,BT2
+Explain how 'Binary Search Trees' remain balanced.,BT2
+Describe the function of 'Query Optimization'.,BT2
+Summarize the 'Handshaking Lemma' in graph theory.,BT2
+Explain why 'Composite Keys' are used.,BT2
+Describe the concept of 'Self Join' in SQL.,BT2
+Discuss the impact of 'Data Fragmentation'.,BT2
+Explain how 'Check Constraints' ensure data quality.,BT2
+Describe the function of 'Savepoints' in transactions.,BT2
+Summarize the 'Isomorphism' of graphs.,BT2
+Explain why 'Recursion' is used in tree traversals.,BT2
+Calculate the 'Probability' of a fair coin landing heads 3 times.,BT3
+Find the 'Mean' and 'Standard Deviation' of the given samples.,BT3
+Apply 'Bayes Theorem' to solve the clinical test problem.,BT3
+Solve the 'Linear Regression' equation for the provided data.,BT3
+Find the 'Rank Correlation' between the two judges' scores.,BT3
+Calculate the 'Chi-Square' statistic for the contingency table.,BT3
+Apply 'Mathematical Induction' to prove the sum of n squares.,BT3
+Construct a 'Truth Table' for (P AND Q) OR (NOT R).,BT3
+Find the 'Shortest Path' using Warshall's algorithm.,BT3
+Calculate the 'Expected Value' for the insurance policy.,BT3
+Apply 'SQL' to find the second highest salary in the table.,BT3
+Construct an 'ER Diagram' for a university management system.,BT3
+Calculate the 'Z-Score' for a student scoring 85 on the test.,BT3
+Solve for the 'Missing Value' in the geometric progression.,BT3
+Apply 'Normalization' up to 3NF for the student table.,BT3
+Find the 'Chromatic Number' for the given graph G.,BT3
+Calculate the 'Total Probability' of the event occurring.,BT3
+Use 'SQL' to join 'Orders' and 'Customers' tables.,BT3
+Apply 'Binomial Distribution' to find the probability of 2 successes.,BT3
+Calculate the 'Correlation' between height and weight.,BT3
+Solve the 'Recurrence Relation' using the characteristic equation.,BT3
+Construct a 'Poset' and draw its Hasse Diagram.,BT3
+Calculate the 'Poisson' probability for 5 arrivals per hour.,BT3
+Use 'SQL' to create a view that hides sensitive columns.,BT3
+Apply 'Relational Algebra' to select all rows where price > 500.,BT3
+Calculate the 'Standard Error' for the sample mean.,BT3
+Solve the 'Combinatorics' problem for arranging 5 books.,BT3
+Apply 'Kruskal's Algorithm' to find the minimum spanning tree.,BT3
+Calculate the 'Median' for the grouped frequency distribution.,BT3
+Use 'SQL' to update the status of all expired memberships.,BT3
+Apply 'Logic' to simplify the boolean expression.,BT3
+Calculate the 'Kurtosis' of the provided data points.,BT3
+Solve the 'Set Theory' problem using the Principle of Inclusion-Exclusion.,BT3
+Apply 'B-Tree' insertion to the following sequence of keys.,BT3
+Calculate the 'Conditional Probability' of A given B.,BT3
+Use 'SQL' to delete duplicate entries using a subquery.,BT3
+Apply 'Euler’s Formula' to find the number of faces in the graph.,BT3
+Calculate the 'Variance' of the continuous random variable.,BT3
+Solve the 'Regression' problem to find the line of best fit.,BT3
+Apply 'Hashing' using the division method for key 12345.,BT3
+Calculate the 'Coefficient of Variation' for the two products.,BT3
+Use 'SQL' to group sales by month and calculate totals.,BT3
+Apply 'Pigeonhole Principle' to prove at least two have the same birthday.,BT3
+Calculate the 'Moment' of the distribution about the mean.,BT3
+Solve the 'Graph Traversal' using Breadth-First Search.,BT3
+Apply 'Matrix Multiplication' to the two 3x3 matrices.,BT3
+Calculate the 'Skewness' using the third moment.,BT3
+Use 'SQL' to find employees hired in the last 6 months.,BT3
+Apply 'Dijkstra's' to find the path from A to F.,BT3
+Calculate the 'Interpolation' value for X=2.5.,BT3
+Analyze the 'Time Complexity' of the QuickSort algorithm.,BT4
+Compare the efficiency of 'Merge Sort' vs 'Selection Sort'.,BT4
+Differentiate between 'Conflict' and 'View' serializability.,BT4
+Analyze the 'ER Schema' to identify potential redundancy.,BT4
+Compare 'B-Trees' vs 'Hash Indexes' for range queries.,BT4
+Examine the 'Motives' behind using a NoSQL database.,BT4
+Analyze the 'Correlation Matrix' to find redundant features.,BT4
+Differentiate between 'Null Hypothesis' and 'Alternative Hypothesis'.,BT4
+Analyze the 'Impact' of increasing the sample size on the P-value.,BT4
+Examine the 'Vulnerabilities' of a database without primary keys.,BT4
+Analyze the 'Structure' of the hierarchical data model.,BT4
+Compare 'Centralized' vs 'Distributed' database architectures.,BT4
+Differentiate between 'Strong' and 'Weak' entity sets.,BT4
+Analyze the 'Bias' in the provided sampling method.,BT4
+Examine the 'Logic' of the mathematical proof provided.,BT4
+Analyze the 'Residual Plot' to check for homoscedasticity.,BT4
+Differentiate between 'Standardization' and 'Normalization'.,BT4
+Compare 'BFS' and 'DFS' for finding the shortest path.,BT4
+Analyze the 'Connectivity' of the graph to find cut-vertices.,BT4
+Examine the 'Assumptions' of the T-test in this scenario.,BT4
+Analyze the 'Effectiveness' of the 3NF decomposition.,BT4
+Differentiate between 'Relational Algebra' and 'Relational Calculus'.,BT4
+Compare 'Paging' and 'Segmentation' in memory management.,BT4
+Analyze the 'Error Logs' to debug the transaction failure.,BT4
+Examine the 'Design' of the database to improve performance.,BT4
+Analyze the 'Growth' of the function using Big-O notation.,BT4
+Differentiate between 'Symmetric' and 'Asymmetric' encryption.,BT4
+Compare 'TCP' vs 'UDP' for a streaming database application.,BT4
+Analyze the 'Results' of the ANOVA test to find significant differences.,BT4
+Examine the 'Reliability' of the multi-master replication.,BT4
+Analyze the 'Patterns' in the residuals of the regression.,BT4
+Differentiate between 'Discrete' and 'Continuous' probability.,BT4
+Compare 'Lasso' vs 'Ridge' regression for feature selection.,BT4
+Analyze the 'Security' of the stored procedures.,BT4
+Examine the 'Ethics' of data scraping for a research study.,BT4
+Analyze the 'Usability' of the database interface.,BT4
+Differentiate between 'Compiler' and 'Interpreter' architecture.,BT4
+Compare 'Static' vs 'Dynamic' hashing techniques.,BT4
+Analyze the 'Data Redundancy' in the RAID setup.,BT4
+Examine the 'Feasibility' of migrating to a cloud database.,BT4
+Analyze the 'Performance' of the query after indexing.,BT4
+Differentiate between 'Hard' and 'Soft' constraints in logic.,BT4
+Compare 'Git' vs 'SVN' for collaborative database design.,BT4
+Analyze the 'Vulnerability' of the system to SQL injection.,BT4
+Examine the 'Logical Flow' of the recursive algorithm.,BT4
+Analyze the 'Throughput' of the transaction processing system.,BT4
+Differentiate between 'Inner' and 'Natural' joins.,BT4
+Compare 'Mean' vs 'Median' as a measure of central tendency.,BT4
+Analyze the 'Effect' of missing values on the regression slope.,BT4
+Examine the 'Accuracy' of the prediction model.,BT4
+Define the term 'Probability'.,BT1
+What is 'Mean'?,BT1
+State the 'Formula' for Area.,BT1
+What is 'SQL'?,BT1
+Define 'Binary'.,BT1
+What is 'Logic'?,BT1
+Define 'Set'.,BT1
+What is 'Graph'?,BT1
+Define 'Matrix'.,BT1
+List 'Primes'.,BT1
+Define 'Function'.,BT1
+What is 'Data'?,BT1
+Define 'Key'.,BT1
+What is 'Index'?,BT1
+Define 'View'.,BT1
+State 'Law'.,BT1
+Explain 'Concept'.,BT2
+Describe 'Process'.,BT2
+Summarize 'Idea'.,BT2
+Explain 'Why'.,BT2
+Discuss 'Role'.,BT2
+Describe 'Relation'.,BT2
+Explain 'How'.,BT2
+Summarize 'Story'.,BT2
+Describe 'System'.,BT2
+Explain 'Logic'.,BT2
+Discuss 'Impact'.,BT2
+Describe 'Flow'.,BT2
+Explain 'Difference'.,BT2
+Summarize 'SDLC'.,BT2
+Describe 'Architecture'.,BT2
+Discuss 'Security'.,BT2
+Calculate 'Sum'.,BT3
+Find 'Value'.,BT3
+Solve 'Equation'.,BT3
+Apply 'Rule'.,BT3
+Calculate 'Mean'.,BT3
+Solve 'Math'.,BT3
+Find 'Root'.,BT3
+Calculate 'Area'.,BT3
+Apply 'Law'.,BT3
+Solve 'SQL'.,BT3
+Find 'Median'.,BT3
+Calculate 'Force'.,BT3
+Solve 'Problem'.,BT3
+Apply 'Logic'.,BT3
+Find 'Mode'.,BT3
+Calculate 'Standard'.,BT3
+Analyze 'Complexity'.,BT4
+Compare 'Performance'.,BT4
+Analyze 'Impact'.,BT4
+Differentiate 'Between'.,BT4
+Examine 'Logic'.,BT4
+Analyze 'Results'.,BT4
+Compare 'Models'.,BT4
+Analyze 'Efficiency'.,BT4
+Differentiate 'A and B'.,BT4
+Examine 'Risk'.,BT4
+Analyze 'Data'.,BT4
+Compare 'Methods'.,BT4
+Analyze 'Error'.,BT4
+Differentiate 'Types'.,BT4
+Examine 'Bias'.,BT4
+Analyze 'Structure'.,BT4
+What is the definition of 'Adjacency List'?,BT1
+List the properties of 'Normal Distribution'.,BT1
+State the 'Central Limit Theorem'.,BT1
+Define 'Kurtosis' and 'Skewness'.,BT1
+What is 'Multicollinearity'?,BT1
+Define 'Chi-Square' distribution.,BT1
+What is 'Bayes Theorem'?,BT1
+Define 'P-Value'.,BT1
+List 'Probability Distributions'.,BT1
+What is 'Standard Deviation'?,BT1
+Define 'Confidence Interval'.,BT1
+State 'T-Test'.,BT1
+What is 'ANOVA'?,BT1
+Define 'Z-Score'.,BT1
+What is 'Regression'?,BT1
+List 'Sampling Techniques'.,BT1
+Explain 'Null Hypothesis'.,BT2
+Summarize 'Linear Regression'.,BT2
+Describe 'R-Squared'.,BT2
+Explain 'Why' we use ANOVA.,BT2
+Discuss 'Effect Size'.,BT2
+Describe 'Correlation'.,BT2
+Explain 'Standard Error'.,BT2
+Summarize 'Least Squares'.,BT2
+Describe 'Sampling'.,BT2
+Explain 'Descriptive' stats.,BT2
+Discuss 'Variance'.,BT2
+Describe 'Histogram'.,BT2
+Explain 'P-hacking'.,BT2
+Summarize 'EDA'.,BT2
+Describe 'Outliers'.,BT2
+Discuss 'Validity'.,BT2
+Calculate 'Variance'.,BT3
+Find 'Probability'.,BT3
+Solve 'T-Test'.,BT3
+Apply 'Z-Score'.,BT3
+Calculate 'RMSE'.,BT3
+Solve 'Regression'.,BT3
+Find 'Median'.,BT3
+Calculate 'MAE'.,BT3
+Apply 'Bayes'.,BT3
+Solve 'ANOVA'.,BT3
+Find 'Mode'.,BT3
+Calculate 'Coefficient'.,BT3
+Solve 'Probability'.,BT3
+Apply 'Statistics'.,BT3
+Find 'Mean'.,BT3
+Calculate 'Z'.,BT3
+Analyze 'Residuals'.,BT4
+Compare 'Lasso vs Ridge'.,BT4
+Analyze 'VIF'.,BT4
+Differentiate 'Correlation vs Causation'.,BT4
+Examine 'Assumptions'.,BT4
+Analyze 'Motives'.,BT4
+Compare 'Random Forest'.,BT4
+Analyze 'Distributions'.,BT4
+Differentiate 'Significance'.,BT4
+Examine 'Bias'.,BT4
+Analyze 'Trends'.,BT4
+Compare 'Speed'.,BT4
+Analyze 'Logs'.,BT4
+Differentiate 'Parameters'.,BT4
+Examine 'Validity'.,BT4
+Analyze 'Growth'.,BT4
+Define 'Linear Search'.,BT1
+What is 'Binary Search'?,BT1
+Define 'Bubble Sort'.,BT1
+State 'Time Complexity'.,BT1
+What is 'Hashing'?,BT1
+Define 'Tree'.,BT1
+What is 'Linked List'?,BT1
+Define 'Stack'.,BT1
+What is 'Queue'?,BT1
+Define 'Array'.,BT1
+List 'Sorting'.,BT1
+Define 'BST'.,BT1
+What is 'Heap'?,BT1
+Define 'Recursion'.,BT1
+State 'Algorithm'.,BT1
+Define 'Complexity'.,BT1
+Explain 'How Hashing Works'.,BT2
+Summarize 'Sorting'.,BT2
+Describe 'Linked List'.,BT2
+Explain 'Why BST'.,BT2
+Discuss 'Stack Uses'.,BT2
+Describe 'Recursion'.,BT2
+Explain 'Algorithm Flow'.,BT2
+Summarize 'Big O'.,BT2
+Describe 'Binary Tree'.,BT2
+Explain 'BFS vs DFS'.,BT2
+Discuss 'Memory'.,BT2
+Describe 'Queue'.,BT2
+Explain 'Circular Queue'.,BT2
+Summarize 'Heap'.,BT2
+Describe 'AVL Tree'.,BT2
+Discuss 'Efficiency'.,BT2
+Calculate 'Complexity'.,BT3
+Find 'Shortest Path'.,BT3
+Solve 'Sorting'.,BT3
+Apply 'Searching'.,BT3
+Calculate 'Index'.,BT3
+Solve 'Hashing'.,BT3
+Find 'Node'.,BT3
+Calculate 'Height'.,BT3
+Apply 'Recursion'.,BT3
+Solve 'Tree'.,BT3
+Find 'Root'.,BT3
+Calculate 'Balance'.,BT3
+Solve 'Stack'.,BT3
+Apply 'Queue'.,BT3
+Find 'Path'.,BT3
+Calculate 'Load'.,BT3
+Analyze 'Worst Case'.,BT4
+Compare 'Quicksort vs Mergesort'.,BT4
+Analyze 'Space Complexity'.,BT4
+Differentiate 'Linear vs Binary'.,BT4
+Examine 'Bottlenecks'.,BT4
+Analyze 'Algorithm Logic'.,BT4
+Compare 'Array vs List'.,BT4
+Analyze 'Scalability'.,BT4
+Differentiate 'Static vs Dynamic'.,BT4
+Examine 'Bugs'.,BT4
+Analyze 'Data Flow'.,BT4
+Compare 'Search'.,BT4
+Analyze 'Runtime'.,BT4
+Differentiate 'Heap vs Stack'.,BT4
+Examine 'Code'.,BT4
+Analyze 'Pattern'.,BT4
+Define 'Database'.,BT1
+What is 'Primary Key'?,BT1
+Define 'RDBMS'.,BT1
+State 'ACID'.,BT1
+What is 'SQL'?,BT1
+Define 'View'.,BT1
+What is 'Trigger'?,BT1
+Define 'Stored Proc'.,BT1
+What is 'Index'?,BT1
+Define 'Join'.,BT1
+List 'Data Types'.,BT1
+Define 'Normalization'.,BT1
+What is 'Schema'?,BT1
+Define 'Constraint'.,BT1
+State 'FD'.,BT2
+Define 'ER'.,BT1
+Explain 'Inner Join'.,BT2
+Summarize 'Normalization'.,BT2
+Describe 'Transaction'.,BT2
+Explain 'Why Index'.,BT2
+Discuss 'Locks'.,BT2
+Describe 'Concurrency'.,BT2
+Explain 'Mapping'.,BT2
+Summarize 'NoSQL'.,BT2
+Describe 'Key'.,BT2
+Explain 'Relation'.,BT2
+Discuss 'Recovery'.,BT2
+Describe 'Architecture'.,BT2
+Explain 'PL/SQL'.,BT2
+Summarize 'ERD'.,BT2
+Describe 'Dependency'.,BT2
+Discuss 'Modeling'.,BT2
+Calculate 'Join'.,BT3
+Find 'Record'.,BT3
+Solve 'SQL Query'.,BT3
+Apply 'Normalization'.,BT3
+Calculate 'Total'.,BT3
+Solve 'Transaction'.,BT3
+Find 'Key'.,BT3
+Calculate 'Count'.,BT3
+Apply 'Trigger'.,BT3
+Solve 'Schema'.,BT3
+Find 'Unique'.,BT3
+Calculate 'Aggregate'.,BT3
+Solve 'Update'.,BT3
+Apply 'Constraint'.,BT3
+Find 'Null'.,BT3
+Calculate 'Sum'.,BT3
+Analyze 'Normal Form'.,BT4
+Compare 'SQL vs NoSQL'.,BT4
+Analyze 'Join Performance'.,BT4
+Differentiate '1NF vs 2NF'.,BT4
+Examine 'Constraints'.,BT4
+Analyze 'Redundancy'.,BT4
+Compare 'Architecture'.,BT4
+Analyze 'Integrity'.,BT4
+Differentiate 'DDL vs DML'.,BT4
+Examine 'Security'.,BT4
+Analyze 'Flow'.,BT4
+Compare 'Databases'.,BT4
+Analyze 'Locking'.,BT4
+Differentiate 'B-Tree vs Hash'.,BT4
+Examine 'Design'.,BT4
+Analyze 'Throughput'.,BT4
+What is 'Probability'?,BT1
+Define 'Mean'.,BT1
+State 'Formula'.,BT1
+What is 'Median'?,BT1
+Define 'Mode'.,BT1
+What is 'Range'?,BT1
+Define 'Set'.,BT1
+What is 'Logic'?,BT1
+Define 'Graph'.,BT1
+State 'Theorem'.,BT1
+What is 'Permutation'?,BT1
+Define 'Factorial'.,BT1
+What is 'Matrix'?,BT1
+Define 'Subset'.,BT1
+List 'Primes'.,BT1
+Define 'Union'.,BT1
+Explain 'Bayes'.,BT2
+Summarize 'Probability'.,BT2
+Describe 'Distribution'.,BT2
+Explain 'Why Stats'.,BT2
+Discuss 'Trends'.,BT2
+Describe 'Correlation'.,BT2
+Explain 'Function'.,BT2
+Summarize 'Logic'.,BT2
+Describe 'Relationship'.,BT2
+Explain 'How'.,BT2
+Discuss 'Effect'.,BT2
+Describe 'Pattern'.,BT2
+Explain 'Difference'.,BT2
+Summarize 'Result'.,BT2
+Describe 'Model'.,BT2
+Discuss 'Growth'.,BT2
+Calculate 'Prob'.,BT3
+Find 'Mean'.,BT3
+Solve 'Equation'.,BT3
+Apply 'Rule'.,BT3
+Calculate 'Z'.,BT3
+Solve 'Math'.,BT3
+Find 'Root'.,BT3
+Calculate 'Area'.,BT3
+Apply 'Law'.,BT3
+Solve 'Stats'.,BT3
+Find 'Value'.,BT3
+Calculate 'Standard'.,BT3
+Solve 'Problem'.,BT3
+Apply 'Logic'.,BT3
+Find 'Mode'.,BT3
+Calculate 'Total'.,BT3
+Analyze 'Complexity'.,BT4
+Compare 'Models'.,BT4
+Analyze 'Impact'.,BT4
+Differentiate 'Methods'.,BT4
+Examine 'Logic'.,BT4
+Analyze 'Results'.,BT4
+Compare 'Efficiencies'.,BT4
+Analyze 'Patterns'.,BT4
+Differentiate 'Types'.,BT4
+Examine 'Risk'.,BT4
+Analyze 'Structure'.,BT4
+Compare 'Systems'.,BT4
+Analyze 'Trend'.,BT4
+Differentiate 'Categories'.,BT4
+Examine 'Bias'.,BT4
+Analyze 'Outcome'.,BT4
+Define the term 'Universal Quantifier' in predicate logic.,BT1
+What is the full form of 'Chomsky Normal Form'?,BT1
+State the definition of a 'Regular Language'.,BT1
+What is a 'Turing Machine'?,BT1
+Define 'Context-Free Grammar' (CFG).,BT1
+List the types of 'Finite Automata'.,BT1
+What are 'Pumping Lemma' applications?,BT1
+Define 'Nondeterministic Finite Automata' (NFA).,BT1
+What is a 'Pushdown Automata'?,BT1
+State the 'Church-Turing Thesis'.,BT1
+What is the range of a 'Sigmoid Function'?,BT1
+Define 'Gradient Descent' in machine learning.,BT1
+What is 'Overfitting' in a neural network?,BT1
+List the steps in 'Principal Component Analysis' (PCA).,BT1
+Define 'Support Vector Machines' (SVM).,BT1
+What is the difference between 'Lasso' and 'Ridge'?,BT1
+Define 'Decision Tree' nodes.,BT1
+What is 'Random Forest'?,BT1
+Name the layers of a 'Convolutional Neural Network' (CNN).,BT1
+What is a 'Confusion Matrix'?,BT1
+Define 'Precision' and 'F1-Score'.,BT1
+What is 'K-Nearest Neighbors' (KNN)?,BT1
+List the types of 'Supervised Learning'.,BT1
+What is a 'Hyperparameter'?,BT1
+Define 'Loss Function'.,BT1
+What is 'Cross-Entropy'?,BT1
+Name the parts of a 'Long Short-Term Memory' (LSTM) cell.,BT1
+What is 'Transfer Learning'?,BT1
+Define 'Data Cleaning'.,BT1
+What is a 'Feature Vector'?,BT1
+State the definition of 'Backpropagation'.,BT1
+What is 'Stochastic Gradient Descent' (SGD)?,BT1
+Define 'Reinforcement Learning'.,BT1
+What is an 'Agent' in AI?,BT1
+Name the test used for 'Stationarity' in time series.,BT1
+Define 'Autoencoder'.,BT1
+What is 'Natural Language Processing' (NLP)?,BT1
+Define 'Tokenization'.,BT1
+What is 'Stop Word' removal?,BT1
+Define 'TF-IDF'.,BT1
+State the definition of 'Word Embedding'.,BT1
+What is a 'Hidden Markov Model'?,BT1
+Define 'Attention Mechanism'.,BT1
+What is 'BERT' in NLP?,BT1
+Name the types of 'Recurrent Neural Networks' (RNN).,BT1
+What is 'Batch Normalization'?,BT1
+Define 'Dropout' in deep learning.,BT1
+What is 'Exploding Gradient'?,BT1
+Define 'Activation Function'.,BT1
+What is an 'Epoch'?,BT1
+Explain how 'NFA' can be converted to 'DFA'.,BT2
+Summarize the purpose of the 'Pumping Lemma' for regular languages.,BT2
+Describe the relationship between 'Context-Free' and 'Regular' languages.,BT2
+Explain why 'Turing Machines' are considered universal computers.,BT2
+How would you interpret the 'Chomsky Hierarchy'?,BT2
+Describe the function of a 'Stack' in pushdown automata.,BT2
+Explain the significance of 'NP-Completeness'.,BT2
+Summarize the concept of 'Undecidability'.,BT2
+Explain the difference between 'DFA' and 'NFA' transitions.,BT2
+Describe how a 'Parser' uses context-free grammar.,BT2
+Summarize the role of 'Regular Expressions' in automata theory.,BT2
+Explain why 'P=NP' is a famous unsolved problem.,BT2
+Describe the concept of 'Supervised Learning' paradigms.,BT2
+How would you explain 'Neural Networks' to a beginner?,BT2
+Summarize the properties of 'Normal Distributions' in data science.,BT2
+Explain the purpose of 'Dimensionality Reduction'.,BT2
+Describe the meaning of a 'Correlation Heatmap'.,BT2
+Explain why 'Feature Scaling' is necessary for KNN.,BT2
+Summarize the central ideas of 'Deep Learning'.,BT2
+Explain how 'Random Forest' reduces variance.,BT2
+Describe the concept of 'Bias-Variance Tradeoff'.,BT2
+Explain the difference between 'Classification' and 'Regression'.,BT2
+Summarize the steps to perform 'Cross-Validation'.,BT2
+Describe the function of 'ROC Curves'.,BT2
+Explain why 'Softmax' is used in multi-class classification.,BT2
+How would you paraphrase the 'Law of Large Numbers'?,BT2
+Describe the relationship between 'Learning Rate' and 'Convergence'.,BT2
+Explain the significance of 'Weights' in a neural network.,BT2
+Summarize the working of 'K-Means Clustering'.,BT2
+Describe the role of 'Filters' in a CNN.,BT2
+Explain why 'LSTM' is preferred over standard 'RNN' for sequences.,BT2
+Describe the meaning of 'Statistically Significant' in ML experiments.,BT2
+Summarize the process of 'Model Deployment'.,BT2
+Explain how 'Embeddings' represent semantic meaning.,BT2
+Describe the concept of 'Generative Adversarial Networks' (GANs).,BT2
+Explain why 'Relu' is a common activation function.,BT2
+Summarize the advantages of 'Transfer Learning'.,BT2
+Describe the function of 'Pooling' layers.,BT2
+Explain the concept of 'Ensemble Methods'.,BT2
+How would you interpret a 'F1-Score' of 0.85?,BT2
+Describe the relationship between 'Epochs' and 'Overfitting'.,BT2
+Explain the purpose of 'Regularization' techniques.,BT2
+Summarize the characteristics of 'Reinforcement Learning' rewards.,BT2
+Describe the difference between 'Generative' and 'Discriminative' models.,BT2
+Explain how 'Backpropagation' updates weights using the chain rule.,BT2
+Describe the function of 'Padding' in convolutions.,BT2
+Summarize the impact of 'Outliers' on linear models.,BT2
+Explain why 'One-Hot Encoding' is needed for categorical data.,BT2
+Describe the concept of 'Hyperparameter Tuning'.,BT2
+Summarize the main goals of 'Data Visualization'.,BT2
+Construct a 'DFA' that accepts strings ending with '01'.,BT3
+Apply 'Kruskal’s Algorithm' to find the MST of the network.,BT3
+Apply 'Pumping Lemma' to prove the language is not regular.,BT3
+Solve the 'Boolean Expression' using a K-map of 4 variables.,BT3
+Calculate the 'Entropy' of the target variable for a decision tree split.,BT3
+Use 'Dijkstra’s Algorithm' to find the shortest path from node A to E.,BT3
+Apply 'Bayesian Classifier' to predict the label of the new test point.,BT3
+Calculate the 'Euclidean Distance' between the two vectors.,BT3
+Find the 'Optimal Hyperplane' for the given support vectors.,BT3
+Apply 'Backpropagation' to compute the weight update for the first layer.,BT3
+Solve the 'Probability' problem using the Poisson distribution.,BT3
+Calculate the 'MSE' for the provided regression line.,BT3
+Use 'SQL' to find the average rating of products by category.,BT3
+Apply 'TF-IDF' weighting to the terms in the document.,BT3
+Calculate the 'Cosine Similarity' between the two sentences.,BT3
+Find the 'Maximum Likelihood Estimate' (MLE) for the parameter theta.,BT3
+Apply 'Min-Max Scaling' to normalize the feature vector.,BT3
+"Calculate the 'Accuracy, Recall  and Precision' from the confusion matrix.",BT3
+Solve the 'Recursive Relation' T(n) = 2T(n/2) + n.,BT3
+Apply 'Prim’s Algorithm' to the weighted undirected graph.,BT3
+Calculate the 'Dot Product' of the two input matrices.,BT3
+Find the 'Inverse' of the 3x3 matrix using Gaussian elimination.,BT3
+Apply 'Standardization' to the column of house prices.,BT3
+Calculate the 'Correlation' between the two time series.,BT3
+Use 'Regex' to extract all valid email addresses from the string.,BT3
+Apply 'Principal Component Analysis' to reduce the data to 2 dimensions.,BT3
+Calculate the 'Weighted Average' of the ensemble predictions.,BT3
+Solve the 'Knapsack Problem' using dynamic programming.,BT3
+Calculate the 'Log-Loss' for the given predicted probabilities.,BT3
+Find the 'Derivative' of the activation function at x=2.,BT3
+Apply 'K-Means' to cluster the given points into 3 groups.,BT3
+Calculate the 'Variance' and 'Standard Deviation' of the data.,BT3
+Solve the 'Integration' to find the area under the PDF curve.,BT3
+Apply 'Chain Rule' to find the gradient of the nested function.,BT3
+Calculate the 'Sample Mean' after removing the top 5% outliers.,BT3
+Find the 'Intersection' and 'Union' of the two Fuzzy sets.,BT3
+Apply 'Manhattan Distance' to find the closest cluster center.,BT3
+Calculate the 'Power' of the statistical test.,BT3
+Solve the 'Linear Equation' using the iterative Jacobi method.,BT3
+Apply 'Matrix Transformation' to rotate the image by 90 degrees.,BT3
+Calculate the 'Gradient' of the cost function with respect to bias.,BT3
+Find the 'Critical Value' from the T-distribution table.,BT3
+Apply 'Gradient Descent' to update the slope of the line.,BT3
+Calculate the 'Information Gain' for the splitting attribute.,BT3
+Solve the 'System of Linear Equations' using LU decomposition.,BT3
+Apply 'L'Hopital's Rule' to evaluate the complex limit.,BT3
+Calculate the 'Area' under the ROC curve.,BT3
+Find the 'Percentage' increase in model accuracy after tuning.,BT3
+Apply 'Binary Search' to find the element in the sorted array.,BT3
+Calculate the 'Cross-Entropy Loss' for the softmax output.,BT3
+Analyze the 'Worst-Case Time Complexity' of the Red-Black tree insertion.,BT4
+Compare the 'Efficiency' of 'QuickSort' and 'HeapSort' in practice.,BT4
+Differentiate between 'Determinism' and 'Nondeterminism' in automata.,BT4
+Analyze the 'Decision Boundary' to identify potential misclassifications.,BT4
+Compare 'CNN' and 'RNN' for image captioning tasks.,BT4
+Examine the 'Reasons' why a neural network might fail to converge.,BT4
+Analyze the 'Feature Importance' to identify the most predictive variables.,BT4
+Differentiate between 'L1' and 'L2' regularization effects on weights.,BT4
+Analyze the 'Bias' and 'Variance' curves to detect underfitting.,BT4
+Compare 'Stochastic' and 'Mini-batch' gradient descent performance.,BT4
+Analyze the 'Architecture' of the Transformer model to identify bottlenecks.,BT4
+Examine the 'Statistical Significance' of the results using a P-value.,BT4
+Analyze the 'Learning Curves' to determine the optimal number of epochs.,BT4
+Differentiate between 'Sigmoid' and 'Tanh' activation behaviors.,BT4
+Compare 'Random Forest' and 'XGBoost' for tabular data classification.,BT4
+Analyze the 'Error Distribution' to check for model assumptions.,BT4
+Examine the 'Assumptions' of Linear Regression in the context of the data.,BT4
+Analyze the 'Confusion Matrix' to identify specific class confusion.,BT4
+Differentiate between 'Stemming' and 'Lemmatization' in NLP.,BT4
+Compare 'Word2Vec' and 'GloVe' embedding techniques.,BT4
+Analyze the 'Sensitivity' of the model to changes in hyperparameters.,BT4
+Examine the 'Logic' behind the proof of the Halting Problem.,BT4
+Analyze the 'Scalability' of the distributed machine learning pipeline.,BT4
+Differentiate between 'Bagging' and 'Boosting' ensemble techniques.,BT4
+Compare 'MSE' and 'MAE' as objective functions for regression.,BT4
+Analyze the 'Vulnerability' of the model to adversarial attacks.,BT4
+Examine the 'Consistency' of the database after a series of updates.,BT4
+Analyze the 'Cluster Cohesion' to determine the optimal K value.,BT4
+Differentiate between 'Hard' and 'Soft' margin SVMs.,BT4
+Compare the 'Accuracy' of the model on training and validation sets.,BT4
+Analyze the 'Information Bottleneck' in the autoencoder layers.,BT4
+Examine the 'Ethical Implications' of using facial recognition data.,BT4
+Analyze the 'Time Complexity' of the Floyd-Warshall algorithm.,BT4
+Differentiate between 'Breadth-First' and 'Depth-First' search efficiency.,BT4
+Compare 'ReLU' and 'Leaky ReLU' in vanishing gradient problems.,BT4
+Analyze the 'Robustness' of the model against noisy data.,BT4
+Examine the 'Logic' of the recursive call in the QuickSort algorithm.,BT4
+Analyze the 'Throughput' of the API under high concurrent load.,BT4
+Differentiate between 'Batch' and 'Layer' normalization.,BT4
+Compare 'SQL' and 'NoSQL' for a real-time analytics engine.,BT4
+Analyze the 'Gradient' to check for vanishing gradient issues.,BT4
+Examine the 'Design' of the database schema for normal form violations.,BT4
+Analyze the 'Pattern' of the stock prices to detect seasonality.,BT4
+Differentiate between 'Static' and 'Dynamic' data structures.,BT4
+Compare 'CPU' and 'GPU' performance for matrix multiplication.,BT4
+Analyze the 'Risk' of the project using the Monte Carlo simulation.,BT4
+Examine the 'Logic' of the smart contract for security flaws.,BT4
+Analyze the 'Outcome' of the A/B test for statistical validity.,BT4
+Differentiate between 'Overfitting' and 'Underfitting' visuals.,BT4
+Compare 'Mean' and 'Median' as indicators of skewed income data.,BT4
+Analyze the 'Impact' of data augmentation on image classification.,BT4
+Examine the 'Composition' of the dataset for class imbalance.,BT4
+Analyze the 'Stability' of the PID controller.,BT4
+Differentiate between 'Implicit' and 'Explicit' memory management.,BT4
+Compare 'Single-Core' and 'Multi-Core' execution for a task.,BT4
+Analyze the 'Security' of the 256-bit AES encryption.,BT4
+Examine the 'Performance' of the server after load balancing.,BT4
+Analyze the 'Effect' of the new data privacy regulations on the app.,BT4
+Differentiate between 'Public' and 'Private' blockchain networks.,BT4
+Compare 'Ethernet' and 'Wi-Fi' for low-latency gaming.,BT4
+Analyze the 'Data' to detect anomalous behavior in the system.,BT4
+Examine the 'Accuracy' of the NLP translation model.,BT4
+Analyze the 'Traffic' flow using graph-based algorithms.,BT4
+Differentiate between 'Local' and 'Global' optima in optimization.,BT4
+Compare 'Standardization' and 'Normalization' for PCA.,BT4
+Analyze the 'Efficiency' of the cache replacement policy.,BT4
+Examine the 'Logic' of the mathematical induction step.,BT4
+Analyze the 'Texture' of the image using Gabor filters.,BT4
+Differentiate between 'Object-Oriented' and 'Functional' styles.,BT4
+Compare 'HDD' and 'SSD' access times for database queries.,BT4
+Analyze the 'Vulnerability' of the code to a buffer overflow.,BT4
+Examine the 'Feasibility' of the renewable energy project.,BT4
+Analyze the 'Effect' of the learning rate scheduler.,BT4
+Differentiate between 'In-order' and 'Pre-order' tree traversal usage.,BT4
+Compare 'Heap' and 'Stack' memory allocation speed.,BT4
+Analyze the 'Vulnerability' of the IoT device to hacking.,BT4
+Examine the 'Risk' associated with the financial investment.,BT4
+Analyze the 'Logic' of the code to find the infinite loop.,BT4
+Analyze the 'Correlation' between social media use and sleep.,BT4
+Examine the 'Effect' of the catalyst on the reaction rate.,BT4
+Analyze the 'Data' to find the best customer segments.,BT4
+Compare 'Python' and 'Julia' for scientific computing speed.,BT4
+Analyze the 'Impact' of the new law on the economy.,BT4
+Examine the 'Design' of the bridge for structural flaws.,BT4
+Analyze the 'Structure' of the organization for efficiency.,BT4
+Differentiate between 'Micro' and 'Macro' economics.,BT4
+Compare 'Online' and 'Offline' marketing effectiveness.,BT4
+Analyze the 'Security' of the biometric system.,BT4
+Examine the 'Performance' of the athlete.,BT4
+Analyze the 'Outcome' of the surgical procedure.,BT4
+Differentiate between 'Variable' and 'Attribute'.,BT4
+Compare 'Standard' and 'Premium' versions of the software.,BT4
+Analyze the 'Response' of the audience.,BT4
+Examine the 'Durability' of the car tires.,BT4
+Analyze the 'Speed' of the internet connection.,BT4
+Differentiate between 'Hardware' and 'Firmware'.,BT4
+Compare 'Internal' and 'External' storage.,BT4
+Analyze the 'Noise' in the audio signal.,BT4
+Examine the 'Logic' of the philosophical argument.,BT4
+Analyze the 'Tone' of the author's voice.,BT4
+Differentiate between 'Mass' and 'Weight' in space.,BT4
+Compare 'Biology' and 'Physics' as scientific fields.,BT4
+Analyze the 'Graph' to find the maximum flow.,BT4
+Examine the 'Function' of the mitochondria.,BT4
+Analyze the 'Signal' to find the hidden message.,BT4
+Differentiate between 'True' and 'False' positives.,BT4
+Compare 'Heap' and 'Binary' trees.,BT4
+Analyze the 'Vulnerability' of the network.,BT4
+Examine the 'Risk' of the new venture.,BT4
+Analyze the 'Effect' of the medication.,BT4
+What is the 'Definition' of Machine Learning?,BT1
+State the 'Formula' for Variance.,BT1
+Who is the 'Father' of Computer Science?,BT1
+What is the 'Unit' of Energy?,BT1
+Define 'Database'.,BT1
+List the 'Planets'.,BT1
+What is 'H2O'?,BT1
+Define 'Algorithm'.,BT1
+What is 'SQL'?,BT1
+State the 'Laws' of Motion.,BT1
+Define 'Compiler'.,BT1
+What is the 'Atomic' Number of Gold?,BT1
+List the 'Colors' of light.,BT1
+Define 'Cloud'.,BT1
+What is 'AI'?,BT1
+State the 'Theorem'.,BT1
+Define 'Matrix'.,BT1
+What is 'Bit'?,BT1
+List the 'Layers' of Earth.,BT1
+Define 'Syntax'.,BT1
+Explain 'How' a router works.,BT2
+Summarize the 'Process'.,BT2
+Describe the 'Relationship'.,BT2
+Explain 'Why' we need AI.,BT2
+How would you 'Interpret' the graph?,BT2
+Describe 'Gravity'.,BT2
+Summarize 'History'.,BT2
+Explain 'How' a battery works.,BT2
+Describe 'Virtual' Memory.,BT2
+Summarize the 'SDLC'.,BT2
+Explain the 'Difference' between A and B.,BT2
+Describe 'OS'.,BT2
+Summarize 'Big Data'.,BT2
+Explain 'Why' we use Python.,BT2
+Describe 'OOP'.,BT2
+Summarize 'Blockchain'.,BT2
+Explain 'How' API works.,BT2
+Describe 'Inheritance'.,BT2
+Summarize 'Security'.,BT2
+Explain 'Why' we normalize.,BT2
+Calculate 'Sum'.,BT3
+Solve for 'x'.,BT3
+Find 'Mean'.,BT3
+Apply 'Logic'.,BT3
+Solve 'Equation'.,BT3
+Calculate 'Speed'.,BT3
+Find 'SD'.,BT3
+Use 'SQL'.,BT3
+Apply 'Law'.,BT3
+Calculate 'Interest'.,BT3
+Solve 'Problem'.,BT3
+Apply 'Recursion'.,BT3
+Calculate 'Volume'.,BT3
+Find 'Median'.,BT3
+Use 'Python'.,BT3
+Calculate 'Pressure'.,BT3
+Apply 'Trigonometry'.,BT3
+Calculate 'Force'.,BT3
+Find 'Derivative'.,BT3
+Solve 'Matrix'.,BT3
+Analyze 'Complexity'.,BT4
+Compare 'Sorts'.,BT4
+Analyze 'Impact'.,BT4
+Differentiate 'Protocols'.,BT4
+Examine 'Logic'.,BT4
+Analyze 'Results'.,BT4
+Compare 'Apps'.,BT4
+Analyze 'Efficiency'.,BT4
+Differentiate 'RAM/SSD'.,BT4
+Examine 'Safety'.,BT4
+Analyze 'Trends'.,BT4
+Compare 'Models'.,BT4
+Analyze 'Error'.,BT4
+Differentiate 'Client/Server'.,BT4
+Examine 'Bias'.,BT4
+Analyze 'Security'.,BT4
+Compare 'Cloud Providers'.,BT4
+Analyze 'Performance'.,BT4
+Differentiate 'True/False'.,BT4
+Examine 'Cost'.,BT4
+Define the term 'Hash Salt' in cryptography.,BT1
+What is the full form of 'MQTT'?,BT1
+State the definition of 'Overfitting'.,BT1
+What is a 'Perceptron'?,BT1
+Define 'Supervised Learning'.,BT1
+List the steps in 'Data Preprocessing'.,BT1
+What are 'Activation Functions'?,BT1
+Define 'Stochastic Gradient Descent'.,BT1
+What is a 'Confusion Matrix'?,BT1
+State the 'Central Limit Theorem'.,BT1
+What is 'Feature Engineering'?,BT1
+Define 'Hyperparameter'.,BT1
+What is 'Cross-Validation'?,BT1
+List the types of 'Neural Networks'.,BT1
+What is 'Backpropagation'?,BT1
+Define 'Transfer Learning'.,BT1
+What is 'Natural Language Processing'?,BT1
+State the definition of 'Reinforcement Learning'.,BT1
+What is a 'Support Vector Machine'?,BT1
+Define 'K-Means Clustering'.,BT1
+What is 'Deep Learning'?,BT1
+List the basic components of a 'CNN'.,BT1
+What is 'Recurrent Neural Network'?,BT1
+Define 'Dropout' in deep learning.,BT1
+What is 'Batch Normalization'?,BT1
+State the 'Bias-Variance Tradeoff'.,BT1
+What is 'Dimensionality Reduction'?,BT1
+Define 'Principal Component Analysis'.,BT1
+What is 'Decision Tree'?,BT1
+List the types of 'Ensemble Methods'.,BT1
+What is 'Random Forest'?,BT1
+Define 'Gradient Boosting'.,BT1
+What is 'XGBoost'?,BT1
+State the 'Loss Function' definition.,BT1
+What is 'Softmax'?,BT1
+Define 'Sigmoid' function.,BT1
+What is 'Relu'?,BT1
+List the 'Optimization Algorithms'.,BT1
+What is 'Adam Optimizer'?,BT1
+Define 'Learning Rate'.,BT1
+What is 'Epoch'?,BT1
+State the definition of 'Data Mining'.,BT1
+What is 'ETL'?,BT1
+Define 'Data Warehouse'.,BT1
+What is 'Big Data'?,BT1
+List the '5 Vs' of Big Data.,BT1
+What is 'Hadoop'?,BT1
+Define 'MapReduce'.,BT1
+What is 'Spark'?,BT1
+State the 'CAP Theorem'.,BT1
+What is 'NoSQL'?,BT1
+Define 'Sharding'.,BT1
+What is 'Replication'?,BT1
+List the types of 'NoSQL Databases'.,BT1
+What is 'MongoDB'?,BT1
+Define 'Cassandra'.,BT1
+What is 'Redis'?,BT1
+State the 'ACID Properties'.,BT1
+What is 'Base' in NoSQL?,BT1
+Define 'Consistency'.,BT1
+What is 'Availability'?,BT1
+List the 'Graph Databases'.,BT1
+What is 'Neo4j'?,BT1
+Define 'Edge Computing'.,BT1
+What is 'Fog Computing'?,BT1
+State the definition of 'Cloud Computing'.,BT1
+What is 'SaaS'?,BT1
+Define 'PaaS'.,BT1
+What is 'IaaS'?,BT1
+List the 'Cloud Providers'.,BT1
+What is 'Virtualization'?,BT1
+Define 'Containerization'.,BT1
+What is 'Docker'?,BT1
+State the definition of 'Kubernetes'.,BT1
+What is 'Microservices'?,BT1
+Define 'Serverless'.,BT1
+What is 'AWS Lambda'?,BT1
+List the 'DevOps Tools'.,BT1
+What is 'CI/CD'?,BT1
+Define 'Jenkins'.,BT1
+What is 'Git'?,BT1
+Explain how 'Backpropagation' computes the gradient.,BT2
+Summarize the role of 'Bias' in a linear model.,BT2
+Describe the mechanism of 'Max Pooling'.,BT2
+How would you classify 'Clustering' vs 'Classification'?,BT2
+Explain the concept of 'Regularization'.,BT2
+Summarize the purpose of 'Standardization'.,BT2
+Describe how 'L1' and 'L2' regularization differ.,BT2
+Explain the significance of the 'P-Value'.,BT2
+How would you interpret 'R-Squared'?,BT2
+Describe the concept of 'Margin' in SVM.,BT2
+Summarize the 'K-Nearest Neighbors' approach.,BT2
+Explain why 'Naive Bayes' is called naive.,BT2
+Describe how 'Gradient Descent' finds the minimum.,BT2
+Summarize the 'Decision Tree' split criteria.,BT2
+Explain the role of 'Hidden Layers'.,BT2
+Describe the concept of 'Latent Variables'.,BT2
+Summarize 'Principal Component Analysis' steps.,BT2
+Explain why 'Normalization' is needed for CNNs.,BT2
+Describe how 'RNNs' handle sequences.,BT2
+Summarize the impact of 'Learning Rate' on training.,BT2
+Explain the concept of 'Data Augmentation'.,BT2
+Describe how 'Generative Adversarial Networks' work.,BT2
+Summarize the 'Attention Mechanism'.,BT2
+Explain the difference between 'Batch' and 'Stochastic' descent.,BT2
+Describe the concept of 'Transfer Learning' benefits.,BT2
+Summarize the 'Chomsky Hierarchy'.,BT2
+Explain why 'Regular Expressions' are finite.,BT2
+Describe how a 'Turing Machine' reads tape.,BT2
+Summarize the 'NP-Complete' class.,BT2
+Explain the concept of 'Context-Free Grammar'.,BT2
+Describe the relationship between 'P' and 'NP'.,BT2
+Summarize the 'Halting Problem'.,BT2
+Explain why 'DFA' is simpler than 'NFA'.,BT2
+Describe the concept of 'Pushdown Automata'.,BT2
+Summarize 'State Transitions'.,BT2
+Explain how 'Recursive Languages' are defined.,BT2
+Describe the 'Pumping Lemma' logic.,BT2
+Summarize 'Language Decidability'.,BT2
+Explain why 'Lambda Calculus' is fundamental.,BT2
+Describe the concept of 'Functional Programming'.,BT2
+Summarize the 'CAP Theorem' trade-offs.,BT2
+Explain how 'Distributed Systems' maintain clock sync.,BT2
+Describe the concept of 'Logical Clocks'.,BT2
+Summarize 'Byzantine Fault Tolerance'.,BT2
+Explain why 'Raft' is easier than 'Paxos'.,BT2
+Describe the function of 'Zookeeper'.,BT2
+Summarize 'Eventual Consistency'.,BT2
+Explain how 'Load Balancers' distribute traffic.,BT2
+Describe the concept of 'Reverse Proxy'.,BT2
+Summarize 'Microservices' communication patterns.,BT2
+Explain why 'Rest' is stateless.,BT2
+Describe the function of 'GraphQL'.,BT2
+Summarize 'Database Normalization' rules.,BT2
+Explain why 'Indexes' slow down writes.,BT2
+Describe the concept of 'Transaction Logs'.,BT2
+Summarize 'Deadlock Detection'.,BT2
+Explain how 'Isolation Levels' prevent anomalies.,BT2
+Describe the function of 'Query Optimizer'.,BT2
+Summarize 'Big Data' architectures.,BT2
+Explain why 'Spark' is faster than 'MapReduce'.,BT2
+Describe the concept of 'In-Memory Computing'.,BT2
+Summarize 'Data Lake' vs 'Data Warehouse'.,BT2
+Calculate the 'Entropy' of a split with 40 positive and 10 negative samples.,BT3
+Find the 'Optimal Hyperplane' for the 2D points given.,BT3
+Apply 'K-Means' to the 5 points with K=2.,BT3
+Implement a 'Linear Regression' using the normal equation.,BT3
+Calculate the 'F1-Score' from the given confusion matrix.,BT3
+Apply 'Dijkstra's' to find the shortest path in the graph.,BT3
+Solve the 'Probability' problem using Bayes Theorem.,BT3
+Calculate the 'Z-Score' for the value 45.,BT3
+Find the 'Derivative' of the ReLU function.,BT3
+Apply 'One-Hot Encoding' to the category list.,BT3
+Calculate the 'Cosine Similarity' between the two vectors.,BT3
+Implement a 'Min-Heap' insertion.,BT3
+Apply 'Huffman Coding' to the text.,BT3
+Calculate the 'Standard Deviation' of the sample.,BT3
+Solve for the 'Missing Value' in the series.,BT3
+Apply 'Log-Loss' formula to the probabilities.,BT3
+Calculate the 'Area Under the Curve' (AUC).,BT3
+Find the '95% Confidence Interval'.,BT3
+Apply 'Gradient Descent' update to the weight W1.,BT3
+Calculate the 'Information Gain'.,BT3
+Solve the 'System of Equations'.,BT3
+Apply 'Matrix Multiplication' to the weights.,BT3
+Calculate the 'MSE' for the model.,BT3
+Find the 'Median' of the dataset.,BT3
+Apply 'K-Nearest Neighbors' to classify point X.,BT3
+Calculate the 'Logarithm' of the likelihood.,BT3
+Solve the 'Integral' for the area.,BT3
+Apply 'Laplace Transform' to the signal.,BT3
+Calculate the 'Fourier Coefficients'.,BT3
+Find the 'Rank' of the matrix.,BT3
+Apply 'Boolean Algebra' to the gate circuit.,BT3
+Calculate the 'Voltage' across the resistor.,BT3
+Solve the 'Circuit' using mesh analysis.,BT3
+Apply 'Thevenin's Theorem'.,BT3
+Calculate the 'Frequency' of the wave.,BT3
+Find the 'Force' exerted.,BT3
+Apply 'Newton's Laws'.,BT3
+Calculate the 'Power'.,BT3
+Solve for 'X' in the math problem.,BT3
+Apply 'Trigonometry' to the angle.,BT3
+Calculate the 'Volume'.,BT3
+Find the 'Surface Area'.,BT3
+Apply 'Calculus' to find the peak.,BT3
+Calculate the 'Momentum'.,BT3
+Solve the 'Differential Equation'.,BT3
+Apply 'Logic' to the proof.,BT3
+Calculate the 'Error Rate'.,BT3
+Find the 'Shortest Path'.,BT3
+Apply 'Recursion'.,BT3
+Calculate the 'Mean'.,BT3
+Analyze the 'Loss Curve' to detect overfitting.,BT4
+Compare 'Random Forest' vs 'XGBoost' performance.,BT4
+Examine the 'Feature Importance' of the model.,BT4
+Differentiate between 'Sigmoid' and 'Tanh' outputs.,BT4
+Analyze the 'Sensitivity' of the model to noise.,BT4
+Compare 'L1' and 'L2' regularization effects.,BT4
+Examine why the 'Gradient' is vanishing.,BT4
+Analyze the 'Complexity' of the CNN layers.,BT4
+Differentiate between 'Global' and 'Local' optima.,BT4
+Compare 'Mean' vs 'Median' for skewed data.,BT4
+Analyze the 'Residuals' of the regression.,BT4
+Examine the 'Bias' in the training set.,BT4
+Analyze the 'Impact' of learning rate on convergence.,BT4
+Differentiate between 'Precision' and 'Recall'.,BT4
+Compare 'PCA' and 'LDA' for reduction.,BT4
+Analyze the 'Structure' of the database.,BT4
+Examine the 'Bottleneck' in the pipeline.,BT4
+Analyze the 'Scalability' of the system.,BT4
+Differentiate between 'Stateless' and 'Stateful'.,BT4
+Compare 'SQL' and 'NoSQL' for real-time.,BT4
+Analyze the 'Security' of the hash.,BT4
+Examine the 'Vulnerability' of the code.,BT4
+Analyze the 'Efficiency' of the algorithm.,BT4
+Differentiate between 'Thread' and 'Process'.,BT4
+Compare 'AWS' and 'GCP'.,BT4
+Analyze the 'Cost' of the cloud.,BT4
+Examine the 'Reliability' of the server.,BT4
+Analyze the 'Pattern' in the data.,BT4
+Differentiate between 'Type I' and 'Type II' errors.,BT4
+Compare 'Normal' and 'Binomial' distributions.,BT4
+Analyze the 'Significance' of the result.,BT4
+Examine the 'Assumptions' of the test.,BT4
+Analyze the 'Trend' in sales.,BT4
+Differentiate between 'Correlation' and 'Causality'.,BT4
+Compare 'Python' and 'R' for stats.,BT4
+Analyze the 'Outcome' of the trial.,BT4
+Examine the 'Logic' of the proof.,BT4
+Analyze the 'Flow' of the network.,BT4
+Differentiate between 'Client' and 'Server'.,BT4
+Compare 'Monolith' and 'Microservices'.,BT4
+Analyze the 'Risk'.,BT4
+Examine the 'Impact'.,BT4
+Analyze the 'Data'.,BT4
+Differentiate between 'Fact' and 'Theory'.,BT4
+Compare 'History' and 'Future'.,BT4
+Analyze the 'Speed'.,BT4
+Examine the 'Quality'.,BT4
+Analyze the 'Performance'.,BT4
+Differentiate between 'High' and 'Low'.,BT4
+Compare 'Simple' and 'Complex'.,BT4
+Analyze the 'Strategy'.,BT4
+Examine the 'Behavior'.,BT4
+Analyze the 'Logic'.,BT4
+Differentiate between 'Hardware' and 'Software'.,BT4
+Compare 'Analog' and 'Digital'.,BT4
+Analyze the 'Signal'.,BT4
+Examine the 'Tone'.,BT4
+Analyze the 'Bias'.,BT4
+Differentiate between 'Variable' and 'Constant'.,BT4
+Compare 'Input' and 'Output'.,BT4
+Analyze the 'Response'.,BT4
+Examine the 'Truth'.,BT4
+Analyze the 'Growth'.,BT4
+Differentiate between 'Discrete' and 'Continuous'.,BT4
+Compare 'Linear' and 'Non-linear'.,BT4
+Analyze the 'Texture'.,BT4
+Examine the 'Shape'.,BT4
+Analyze the 'Weight'.,BT4
+Differentiate between 'Deep' and 'Shallow'.,BT4
+Compare 'Fast' and 'Slow'.,BT4
+Analyze the 'Volume'.,BT4
+Examine the 'Density'.,BT4
+Analyze the 'Frequency'.,BT4
+Differentiate between 'Primary' and 'Secondary'.,BT4
+Compare 'Public' and 'Private'.,BT4
+Analyze the 'Relation'.,BT4
+Examine the 'Logic'.,BT4
+Analyze the 'Source'.,BT4
+Differentiate between 'Success' and 'Failure'.,BT4
+Compare 'Theoretical' and 'Empirical'.,BT4
+Analyze the 'Difference'.,BT4
+Define 'Qubit' in quantum computing.,BT1
+What is the full form of 'SVD' in linear algebra?,BT1
+State the definition of 'Quantum Entanglement'.,BT1
+What is a 'Turing Completeness'?,BT1
+Define 'Superposition' in quantum mechanics.,BT1
+List the steps in 'Singular Value Decomposition'.,BT1
+What are 'Hermitian Matrices'?,BT1
+Define 'Eigenvalues' and 'Eigenvectors'.,BT1
+What is a 'Bloch Sphere'?,BT1
+State the 'Bell’s Inequality'.,BT1
+What is 'Quantum Tunneling'?,BT1
+Define 'Quantum Supremacy'.,BT1
+What is 'Shor’s Algorithm'?,BT1
+List the types of 'Quantum Gates'.,BT1
+What is 'Grover’s Algorithm'?,BT1
+Define 'Phase Estimation'.,BT1
+What is 'Quantum Key Distribution'?,BT1
+State the definition of 'No-Cloning Theorem'.,BT1
+What is a 'Pauli Matrix'?,BT1
+Define 'Density Matrix'.,BT1
+What is 'Quantum Decoherence'?,BT1
+List the basic components of a 'Quantum Circuit'.,BT1
+What is 'Reversible Computing'?,BT1
+Define 'Toffoli Gate'.,BT1
+What is 'Fredkin Gate'?,BT1
+State the 'Born Rule'.,BT1
+What is 'Unitary Evolution'?,BT1
+Define 'Hilbert Space'.,BT1
+What is 'Trace Class'?,BT1
+List the 'Quantum Complexity Classes'.,BT1
+What is 'BQP'?,BT1
+Define 'Error Correction Code'.,BT1
+What is 'Fault-Tolerant Computing'?,BT1
+State the definition of 'Adjoint Operator'.,BT1
+What is 'Inner Product'?,BT1
+Define 'Orthogonality'.,BT1
+What is 'Basis Vector'?,BT1
+List the 'Universal Gate Sets'.,BT1
+What is 'Measurement' in quantum context?,BT1
+Define 'Observable'.,BT1
+What is 'Expectation Value'?,BT1
+State the definition of 'Commutation'.,BT1
+What is 'Uncertainty Relation'?,BT1
+Define 'Path Integral'.,BT1
+What is 'Schrödinger Equation'?,BT1
+List the 'Postulates of Quantum Mechanics'.,BT1
+What is 'Wave-Particle Duality'?,BT1
+Define 'Planck’s Constant'.,BT1
+What is 'Blackbody Radiation'?,BT1
+State the 'Photoelectric Effect'.,BT1
+What is 'Compton Scattering'?,BT1
+Define 'De Broglie Wavelength'.,BT1
+What is 'Atomic Orbital'?,BT1
+List the 'Quantum Numbers'.,BT1
+What is 'Spin'?,BT1
+Define 'Boson'.,BT1
+What is 'Fermion'?,BT1
+State the 'Exclusion Principle'.,BT1
+What is 'Bose-Einstein Condensate'?,BT1
+Define 'Superfluidity'.,BT1
+What is 'Superconductivity'?,BT1
+List the 'Cooper Pairs'.,BT1
+What is 'Meissner Effect'?,BT1
+Define 'Josephson Junction'.,BT1
+What is 'SQUID'?,BT1
+Define 'Quantum Dot'.,BT1
+What is 'Nano-technology'?,BT1
+State the definition of 'Graphene'.,BT1
+What is 'Carbon Nanotube'?,BT1
+Define 'Metamaterial'.,BT1
+What is 'Photonic Crystal'?,BT1
+List the 'Optical Properties'.,BT1
+What is 'Refractive Index'?,BT1
+Define 'Dispersion'.,BT1
+What is 'Total Internal Reflection'?,BT1
+Explain how 'Quantum Annealing' differs from 'Gate-based QC'.,BT2
+Summarize the role of 'Entanglement' in teleportation.,BT2
+Describe the mechanism of 'Quantum Measurements'.,BT2
+How would you classify 'Qubits' vs 'Classical Bits'?,BT2
+Explain the concept of 'Interference' in waves.,BT2
+Summarize the purpose of 'Normalization' in wavefunctions.,BT2
+Describe how 'Linear' and 'Non-linear' systems differ.,BT2
+Explain the significance of the 'Wavefunction'.,BT2
+How would you interpret 'Probability Amplitude'?,BT2
+Describe the concept of 'Tunneling' in electronics.,BT2
+Summarize the 'Heisenberg' approach.,BT2
+Explain why 'Quantum' effects matter at small scales.,BT2
+Describe how 'Superposition' allows parallel computation.,BT2
+Summarize the 'Stern-Gerlach' experiment.,BT2
+Explain the role of 'Spin' in magnetism.,BT2
+Describe the concept of 'Parity'.,BT2
+Summarize 'Hamiltonian' dynamics.,BT2
+Explain why 'Energy Quantization' occurs.,BT2
+Describe how 'Lasers' work using stimulated emission.,BT2
+Summarize the impact of 'Doping' in semiconductors.,BT2
+Explain the concept of 'Band Gap'.,BT2
+Describe how 'P-N Junctions' create diodes.,BT2
+Summarize the 'Hall Effect'.,BT2
+Explain the difference between 'Direct' and 'Indirect' gaps.,BT2
+Describe the concept of 'Effective Mass'.,BT2
+Summarize the 'Fermi Level'.,BT2
+Explain why 'Metals' conduct better than 'Insulators'.,BT2
+Describe the concept of 'Holes' in valence bands.,BT2
+Summarize 'Ohmic' vs 'Schottky' contacts.,BT2
+Explain how 'MOSFETs' switch current.,BT2
+Describe the function of 'Capacitance' in memory cells.,BT2
+Summarize 'Flash Memory' working.,BT2
+Explain why 'Moore’s Law' is slowing down.,BT2
+Describe the concept of 'Neuromorphic Computing'.,BT2
+Summarize the 'Architecture' of Von Neumann.,BT2
+Explain how 'Harvard Architecture' differs.,BT2
+Describe the concept of 'Instruction Pipelining'.,BT2
+Summarize 'Cache Miss' scenarios.,BT2
+Explain why 'Branch Prediction' is used.,BT2
+Describe the function of 'DMA Controllers'.,BT2
+Summarize 'Interrupt Latency'.,BT2
+Explain how 'Virtual Memory' uses Page Tables.,BT2
+Describe the concept of 'Fragmentation'.,BT2
+Summarize 'Thrashing' in OS.,BT2
+Explain why 'Deadlocks' occur.,BT2
+Describe the function of 'Semaphores'.,BT2
+Summarize 'Critical Sections'.,BT2
+Explain how 'Readers-Writers' problems are solved.,BT2
+Describe the concept of 'Atomic Operations'.,BT2
+Summarize 'Process States'.,BT2
+Explain why 'Threads' are lightweight.,BT2
+Describe the function of 'Schedulers'.,BT2
+Summarize 'Preemptive' vs 'Non-preemptive'.,BT2
+Explain how 'Round Robin' works.,BT2
+Describe the concept of 'Priority Inversion'.,BT2
+Summarize 'File Systems' structures.,BT2
+Explain why 'Journaling' prevents corruption.,BT2
+Describe the function of 'i-nodes'.,BT2
+Summarize 'RAID' levels.,BT2
+Explain how 'Network Protocols' ensure reliability.,BT2
+Describe the concept of 'Windowing' in TCP.,BT2
+Summarize 'Congestion Control'.,BT2
+Explain why 'IPv6' was created.,BT2
+Describe the function of 'NAT'.,BT2
+Summarize 'DNS' resolution.,BT2
+Explain how 'HTTP' requests are structured.,BT2
+Describe the concept of 'RESTful APIs'.,BT2
+Summarize 'Microservices' benefits.,BT2
+Explain why 'Containers' are efficient.,BT2
+Calculate the 'Energy' of a photon with 500nm wavelength.,BT3
+Find the 'Expectation Value' of position for the given state.,BT3
+Apply 'Pauli X' gate to the qubit state |0>.,BT3
+Implement a 'Quantum Circuit' that creates a Bell State.,BT3
+Calculate the 'Entropy' of the quantum density matrix.,BT3
+Apply 'Gram-Schmidt' to the provided vector set.,BT3
+Solve the 'Schrödinger Equation' for a particle in a box.,BT3
+Construct a 'Unitary Matrix' for a 90-degree rotation.,BT3
+Calculate the 'Dot Product' of the two complex vectors.,BT3
+Use 'SVD' to find the rank of the matrix.,BT3
+Apply 'Fourier Transform' to the time-domain signal.,BT3
+Calculate the 'Cross Product' of the forces.,BT3
+Find the 'Derivative' of the Gaussian function.,BT3
+Apply 'Integration' to find the total charge.,BT3
+Calculate the 'Voltage Drop' across the inductor.,BT3
+Implement a 'Recursive' Fibonacci with memoization.,BT3
+Apply 'Huffman Coding' to the given frequency table.,BT3
+Calculate the 'Standard Deviation' of the return series.,BT3
+Solve for 'X' in the logarithmic equation.,BT3
+Apply 'Matrix Inversion' to solve the 3x3 system.,BT3
+Calculate the 'Information Gain' for the root node.,BT3
+Find the 'Shortest Path' in the graph using A* search.,BT3
+Apply 'Bayes Theorem' to find the posterior probability.,BT3
+Calculate the 'Cosine Similarity' between the word vectors.,BT3
+Solve the 'Differential' for the damped oscillator.,BT3
+Apply 'K-Means' to the 2D spatial points.,BT3
+Calculate the 'Work' done by the variable force.,BT3
+Implement a 'Binary Search' on the list of IDs.,BT3
+Apply 'Trigonometry' to find the launch angle.,BT3
+Calculate the 'Volume' of the torus.,BT3
+Find the 'Surface Area' of the cylinder.,BT3
+Apply 'Linear Algebra' to find the projection.,BT3
+Calculate the 'Probability' of the intersection.,BT3
+Solve the 'Permutation' for 10 items taken 3 at a time.,BT3
+Apply 'Logic' to the multiplexer circuit.,BT3
+Calculate the 'Heat' transferred during the cycle.,BT3
+Find the 'Resonant Frequency' of the RLC tank.,BT3
+Apply 'Newton's Method' to find the root.,BT3
+Calculate the 'Efficiency' of the Carnot engine.,BT3
+Implement a 'Stack' using a linked list.,BT3
+Apply 'Physics' to find the orbital period.,BT3
+Calculate the 'Pressure' at the center of the star.,BT3
+Use 'Algebra' to find the roots.,BT3
+Apply 'Geometry' to the cone.,BT3
+Calculate the 'Time' of flight.,BT3
+Implement a 'Quick Sort'.,BT3
+Apply 'Statistics' to find the mode.,BT3
+Calculate the 'Torque' on the dipole.,BT3
+Use 'Vectors' to find the angle.,BT3
+Apply 'Calculus' to the rate.,BT3
+Calculate the 'Area' of the ellipse.,BT3
+Implement a 'Queue' using an array.,BT3
+Apply 'Percentages' to the data.,BT3
+Calculate the 'Impulse'.,BT3
+Use 'Logs' to find the growth rate.,BT3
+Apply 'Logic Gates' to the adder.,BT3
+Calculate the 'Speed' of sound.,BT3
+Implement a 'Merge Sort'.,BT3
+Apply 'Math' to the geometry.,BT3
+Calculate the 'Viscosity'.,BT3
+Analyze the 'Complexity' of the quantum search algorithm.,BT4
+Compare 'Quantum' vs 'Classical' communication overhead.,BT4
+Examine the 'Vulnerability' of RSA against Shor’s algorithm.,BT4
+Differentiate between 'Pure' and 'Mixed' quantum states.,BT4
+Analyze the 'Stability' of the PID loop under gain.,BT4
+Compare 'L1' and 'L2' penalties in regression.,BT4
+Examine why 'Entanglement' cannot be used for FTL signaling.,BT4
+Analyze the 'Throughput' of the fiber network.,BT4
+Differentiate between 'Coherence' and 'Decoherence'.,BT4
+Compare 'Mean' vs 'Median' in wealth distribution data.,BT4
+Analyze the 'Residuals' of the non-linear model.,BT4
+Examine the 'Bias' in the sampling frame.,BT4
+Analyze the 'Impact' of qubits on encryption.,BT4
+Differentiate between 'Precision' and 'Accuracy' in labs.,BT4
+Compare 'Hadoop' and 'Spark' for iterative tasks.,BT4
+Analyze the 'Structure' of the database normalization.,BT4
+Examine the 'Bottleneck' in the assembly line.,BT4
+Analyze the 'Scalability' of the cloud backend.,BT4
+Differentiate between 'TCP' and 'UDP' reliability.,BT4
+Compare 'SQL' and 'NoSQL' for high-volume logs.,BT4
+Analyze the 'Security' of the hash algorithm.,BT4
+Examine the 'Vulnerability' of the web app.,BT4
+Analyze the 'Efficiency' of the sorting routine.,BT4
+Differentiate between 'Process' and 'Thread'.,BT4
+Compare 'AWS' and 'Azure' instances.,BT4
+Analyze the 'Cost' of the infrastructure.,BT4
+Examine the 'Reliability' of the sensor array.,BT4
+Analyze the 'Pattern' in the seismic data.,BT4
+Differentiate between 'Type I' and 'Type II' errors.,BT4
+Compare 'Normal' and 'Poisson' distributions.,BT4
+Analyze the 'Significance' of the result.,BT4
+Examine the 'Assumptions' of the test.,BT4
+Analyze the 'Trend' in the stock market.,BT4
+Differentiate between 'Correlation' and 'Causality'.,BT4
+Compare 'Python' and 'C++' for AI training.,BT4
+Analyze the 'Outcome' of the trial.,BT4
+Examine the 'Logic' of the proof.,BT4
+Analyze the 'Flow' of the network traffic.,BT4
+Differentiate between 'Client' and 'Server'.,BT4
+Compare 'Monolith' and 'Microservices'.,BT4
+Analyze the 'Risk' of the investment.,BT4
+Examine the 'Impact' of the policy change.,BT4
+Analyze the 'Data' for anomalies.,BT4
+Differentiate between 'Fact' and 'Theory'.,BT4
+Compare 'Historical' vs 'Projected' data.,BT4
+Analyze the 'Speed' of the execution.,BT4
+Examine the 'Quality' of the code.,BT4
+Analyze the 'Performance' of the engine.,BT4
+Differentiate between 'Variable' and 'Constant'.,BT4
+Compare 'Input' and 'Output'.,BT4
+Analyze the 'Response' of the system.,BT4
+Examine the 'Behavior' of the user.,BT4
+Analyze the 'Logic' of the circuit.,BT4
+Differentiate between 'Hardware' and 'Firmware'.,BT4
+Compare 'Analog' and 'Digital'.,BT4
+Analyze the 'Signal' quality.,BT4
+Examine the 'Tone' of the text.,BT4
+Analyze the 'Bias' of the author.,BT4
+Differentiate between 'Mass' and 'Weight'.,BT4
+Compare 'Speed' and 'Velocity'.,BT4
+Analyze the 'Response' time.,BT4
+Examine the 'Accuracy' of the prediction.,BT4
+Analyze the 'Growth' rate.,BT4
+Differentiate between 'Discrete' and 'Continuous'.,BT4
+Compare 'Linear' and 'Logistic' models.,BT4
+Analyze the 'Texture' of the surface.,BT4
+Examine the 'Shape' of the distribution.,BT4
+Analyze the 'Volume' of the traffic.,BT4
+Differentiate between 'L1' and 'L2' caches.,BT4
+Compare 'Fast' and 'Slow' sorting.,BT4
+Analyze the 'Density' of the material.,BT4
+Examine the 'Frequency' spectrum.,BT4
+Analyze the 'Pressure' gradient.,BT4
+Differentiate between 'Static' and 'Dynamic'.,BT4
+Compare 'Public' and 'Private' clouds.,BT4
+Analyze the 'Relation' between variables.,BT4
+Examine the 'Logic' behind the decision.,BT4
+Analyze the 'Source' of the error.,BT4
+Differentiate between 'Success' and 'Failure' rates.,BT4
+Compare 'Theoretical' vs 'Experimental'.,BT4
+Analyze the 'Difference' in results.,BT4
+Examine the 'Vulnerability' of the IoT.,BT4
+Analyze the 'Complexity' of the graph.,BT4
+Compare 'Heap' vs 'Stack'.,BT4
+Analyze the 'Impact' of latency.,BT4
+Differentiate between 'Alpha' and 'Beta' particles.,BT4
+Analyze the 'Distribution' of wealth.,BT4
+Examine the 'Motives' of the user.,BT4
+Compare 'CPU' and 'GPU' processing.,BT4
+Analyze the 'Data' to find the trend.,BT4
+Differentiate between 'Compiler' and 'Interpreter'.,BT4
+Examine the 'Logic' of the recursive call.,BT4
+Analyze the 'Flow' of the transaction.,BT4
+Differentiate between 'A' and 'B'.,BT4
+Compare 'X' and 'Y'.,BT4
+Analyze 'Z'.,BT4
+Examine 'W'.,BT4
+Analyze the 'Complexity' of the code.,BT4
+Differentiate between 'RAM' and 'Cache'.,BT4
+Compare 'SSD' and 'HDD'.,BT4
+Analyze the 'Security'.,BT4
+Examine 'Efficiency'.,BT4
+Analyze 'Accuracy'.,BT4
+Differentiate 'Types'.,BT4
+Compare 'Systems'.,BT4
+Analyze 'Impact'.,BT4
+Examine 'Cost'.,BT4
+Analyze 'Data'.,BT4
+Differentiate 'Between'.,BT4
+Compare 'A and B'.,BT4
+Analyze 'The results'.,BT4
+Examine 'The bias'.,BT4
+Analyze 'The trend'.,BT4
+Differentiate 'States'.,BT4
+Compare 'Methods'.,BT4
+Analyze 'Outcome'.,BT4
+Examine 'Risk'.,BT4
+Analyze 'Complexity'.,BT4
+Differentiate 'Categories'.,BT4
+Compare 'Architectures'.,BT4
+Analyze 'Scalability'.,BT4
+Examine 'Security'.,BT4
+Analyze 'Throughput'.,BT4
+Differentiate 'Logic'.,BT4
+Compare 'Flows'.,BT4
+Analyze 'Design'.,BT4
+Examine 'Quality'.,BT4
+Analyze 'Performance'.,BT4
+Differentiate 'Functions'.,BT4
+Compare 'Variables'.,BT4
+Analyze 'Responses'.,BT4
+Examine 'Patterns'.,BT4
+Analyze 'Distributions'.,BT4
+Differentiate 'Variables'.,BT4
+Compare 'Data sets'.,BT4
+Analyze 'Results'.,BT4
+Define the term 'Salting' in password hashing.,BT1
+What is the full form of 'AES'?,BT1
+State the definition of 'Zero Trust Architecture'.,BT1
+What is a 'Botnet'?,BT1
+Define 'Man-in-the-Middle' (MitM) attack.,BT1
+List the steps in a 'TCP Three-Way Handshake'.,BT1
+What are 'Phishing' and 'Spear Phishing'?,BT1
+Define 'Denial of Service' (DoS).,BT1
+What is a 'Rootkit'?,BT1
+State the 'Principle of Least Privilege'.,BT1
+What is 'Quantum Cryptography'?,BT1
+Define 'Elliptic Curve Cryptography' (ECC).,BT1
+What is 'Blockchain' in the context of cybersecurity?,BT1
+List the types of 'Malware'.,BT1
+What is 'SQL Injection'?,BT1
+Define 'Cross-Site Scripting' (XSS).,BT1
+What is a 'Cold Wallet' in crypto?,BT1
+State the definition of 'Multi-Factor Authentication' (MFA).,BT1
+What is a 'Vulnerability Scanner'?,BT1
+Define 'Intrusion Detection System' (IDS).,BT1
+What is 'Steganography'?,BT1
+List the basic components of a 'Public Key Infrastructure' (PKI).,BT1
+What is 'Homomorphic Encryption'?,BT1
+Define 'Fuzzing' in software testing.,BT1
+What is 'Data Loss Prevention' (DLP)?,BT1
+State the 'CIA Triad' (Confidentiality Integrity Availability).,BT1
+What is 'Sandbox' in security?,BT1
+Define 'Dark Web'.,BT1
+What is 'Tor' (The Onion Router)?,BT1
+List the types of 'Firewalls' (Stateful vs Stateless).,BT1
+What is 'Social Engineering'?,BT1
+Define 'Ransomware'.,BT1
+What is 'Digital Signature'?,BT1
+State the definition of 'Access Control List' (ACL).,BT1
+What is a 'Proxy Server'?,BT1
+Define 'Honeypot' in network security.,BT1
+What is 'Biometric Authentication'?,BT1
+List the 'OSI Model' layers from bottom to top.,BT1
+What is 'IPSec'?,BT1
+Define 'Virtual Private Network' (VPN).,BT1
+State the definition of 'Penetration Testing'.,BT1
+What is 'Reverse Engineering'?,BT1
+Define 'Sandbox' execution.,BT1
+What is 'SSL' (Secure Sockets Layer)?,BT1
+List the 'Network Topologies'.,BT1
+Define 'Packet'.,BT1
+What is 'MAC Address'?,BT1
+State the 'Ethernet' standard number.,BT1
+What is 'Bluetooth'?,BT1
+Define 'Zigbee'.,BT1
+List the 'IoT Protocols'.,BT1
+What is 'JSON'?,BT1
+Define 'REST'.,BT1
+State the 'HTTP Status Code' for Not Found.,BT1
+What is '404'?,BT1
+Define '200 OK'.,BT1
+List the 'Cloud Types'.,BT1
+What is 'SaaS'?,BT1
+Define 'PaaS'.,BT1
+What is 'IaaS'?,BT1
+State the 'Agile Principles'.,BT1
+What is 'Scrum'?,BT1
+Define 'Kanban'.,BT1
+List the 'SDLC Stages'.,BT1
+What is 'Waterfall'?,BT1
+Define 'Unit Testing'.,BT1
+State the 'Black Box' definition.,BT1
+What is 'White Box'?,BT1
+Define 'Integration Testing'.,BT1
+List the 'Programming Paradigms'.,BT1
+What is 'Functional'?,BT1
+Define 'Imperative'.,BT1
+State the 'Object' definition.,BT1
+What is 'Class'?,BT1
+Define 'Method'.,BT1
+List the 'OOP Pillars'.,BT1
+What is 'Polymorphism'?,BT1
+Define 'Abstraction'.,BT1
+State the 'Encapsulation' rule.,BT1
+What is 'Inheritance'?,BT1
+Define 'Thread'.,BT1
+List the 'Process States'.,BT1
+What is 'Ready'?,BT1
+Define 'Running'.,BT1
+State the 'Blocked' state.,BT1
+What is 'Deadlock'?,BT1
+Define 'Semaphore'.,BT1
+List the 'Scheduling Algos'.,BT1
+What is 'Round Robin'?,BT1
+Define 'SJF'.,BT1
+Explain how 'Public Key' encryption ensures confidentiality.,BT2
+Summarize the role of 'Certificate Authorities' (CAs).,BT2
+Describe the mechanism of 'Packet Filtering'.,BT2
+How would you classify 'Cyber Threats' based on complexity?,BT2
+Explain the concept of 'Defense in Depth'.,BT2
+Summarize the purpose of 'Air-Gapped' systems.,BT2
+Describe how 'Whitelisting' differs from 'Blacklisting'.,BT2
+Explain the significance of the 'TLS Handshake'.,BT2
+How would you interpret 'End-to-End Encryption' (E2EE)?,BT2
+Describe the concept of 'Secure Boot' in firmware.,BT2
+Summarize the 'Risk Management' framework.,BT2
+Explain why 'Salting' is necessary for password storage.,BT2
+Describe how 'Botnets' execute DDoS attacks.,BT2
+Summarize the 'OWASP Top 10' vulnerabilities.,BT2
+Explain the role of 'Heuristic Analysis' in antivirus software.,BT2
+Describe the concept of 'Cloud Compliance'.,BT2
+Summarize 'GDPR' impact on data privacy.,BT2
+Explain why 'Biometrics' are not foolproof.,BT2
+Describe how 'Virtualization' improves security.,BT2
+Summarize the impact of 'Social Media' on engineering ethics.,BT2
+Explain the concept of 'Sustainability' in design.,BT2
+Describe how 'API Gateways' manage traffic.,BT2
+Summarize the 'DevSecOps' philosophy.,BT2
+Explain why 'Zero Day' vulnerabilities are dangerous.,BT2
+Describe the concept of 'Incident Response' planning.,BT2
+Summarize 'Business Continuity'.,BT2
+Explain the difference between 'Audit' and 'Assessment'.,BT2
+Describe the function of a 'Keylogger'.,BT2
+Summarize 'Network Segmentation' benefits.,BT2
+Explain why 'HTTPS' is a standard.,BT2
+Describe the concept of 'Identity Management'.,BT2
+Summarize 'Federated Identity'.,BT2
+Explain how 'VPNs' tunnel data.,BT2
+Describe 'Two-Factor' logic.,BT2
+Explain 'Why' we use Git.,BT2
+Summarize 'Agile' vs 'Lean'.,BT2
+Describe 'Scrum Master' role.,BT2
+Explain 'How' a router routes.,BT2
+Summarize 'Switch' logic.,BT2
+Describe 'Layer 3' function.,BT2
+Explain 'Why' IPv6 is needed.,BT2
+Summarize 'Subnetting'.,BT2
+Describe 'CIDR' notation.,BT2
+Explain 'How' DHCP works.,BT2
+Summarize 'DNS' cache.,BT2
+Describe 'Packet' loss.,BT2
+Explain 'Why' Latency happens.,BT2
+Summarize 'Throughput'.,BT2
+Describe 'Bandwidth' usage.,BT2
+Explain 'How' Wi-Fi works.,BT2
+Summarize '5G' tech.,BT2
+Describe 'IoT' security.,BT2
+Explain 'Why' code reviews.,BT2
+Summarize 'CI/CD' pipeline.,BT2
+Describe 'Docker' images.,BT2
+Explain 'How' K8s works.,BT2
+Summarize 'Microservices'.,BT2
+Describe 'Restful' design.,BT2
+Explain 'Why' JSON over XML.,BT2
+Summarize 'SQL' vs 'NoSQL'.,BT2
+Describe 'ACID' props.,BT2
+Explain 'How' Indexing works.,BT2
+Summarize 'Normalization'.,BT2
+Describe 'Deadlock'.,BT2
+Explain 'Why' Semaphore.,BT2
+Summarize 'CPU' logic.,BT2
+Describe 'RAM' speed.,BT2
+Explain 'How' Cache works.,BT2
+Summarize 'OS' functions.,BT2
+Describe 'File System'.,BT2
+Explain 'Why' RAID.,BT2
+Summarize 'Cloud' models.,BT2
+Describe 'Serverless'.,BT2
+Explain 'How' API works.,BT2
+Summarize 'Python' features.,BT2
+Describe 'OOP' concept.,BT2
+Calculate the 'Shannon Entropy' for the given message distribution.,BT3
+Find the 'Check Sum' for the provided data packet.,BT3
+"Apply 'RSA Algorithm' to encrypt the message M=5 with (e=3, n=33).",BT3
+Implement a 'Rate Limiter' using the Token Bucket algorithm.,BT3
+Calculate the 'Risk Score' using the provided matrix.,BT3
+Apply 'Vigenère Cipher' to encrypt the text with key 'SAFE'.,BT3
+Solve the 'Boolean Expression' using a 5-variable K-Map.,BT3
+Construct a 'Firewall Rule' to block all traffic except port 80.,BT3
+"Calculate the 'Diffie-Hellman' shared key for given g, p an a.",BT3
+Use 'Regex' to validate a complex alphanumeric password.,BT3
+Apply 'Dijkstra's' to find the shortest path in the network.,BT3
+Calculate the 'Standard Deviation' of the ping response times.,BT3
+Implement a 'Circular Linked List' in C++.,BT3
+Apply 'Huffman Coding' to compress the bitstream.,BT3
+Solve the 'Linear System' using Gaussian Elimination.,BT3
+Calculate the 'Available Bandwidth' given overhead and latency.,BT3
+Use 'SQL' to find duplicate users in the database.,BT3
+Apply 'Euclidean Algorithm' to find the GCD of 1024 and 512.,BT3
+Calculate the 'Velocity' of the data transfer.,BT3
+Implement a 'Binary Search' on the sorted IP list.,BT3
+Apply 'Kruskal's' to the network graph.,BT3
+Calculate the 'Mean' of the packet sizes.,BT3
+Use 'Python' to parse the JSON log file.,BT3
+Apply 'Logic Gates' to create an XOR from NAND.,BT3
+Calculate the 'Power' consumption of the server.,BT3
+Implement a 'Stack' using two queues.,BT3
+Apply 'Recursion' to find the factorial of 10.,BT3
+Calculate the 'Area' under the curve using integration.,BT3
+Use 'Matrices' to rotate the image.,BT3
+Apply 'Statistics' to find the mode.,BT3
+Calculate the 'Z-Score' for the data point.,BT3
+Implement a 'Queue' using a linked list.,BT3
+Apply 'Trigonometry' to find the angle.,BT3
+Calculate the 'Force' of the impact.,BT3
+Solve for 'X' in the equation.,BT3
+Apply 'Physics Laws' to the motion.,BT3
+Calculate the 'Interest' for 5 years.,BT3
+Implement a 'Bubble Sort'.,BT3
+Apply 'Math' to the word problem.,BT3
+Calculate the 'Volume' of the sphere.,BT3
+Find the 'Median' of the dataset.,BT3
+Use 'CSS' to hide the element.,BT3
+Apply 'Geometry' to the perimeter.,BT3
+Calculate the 'Acceleration'.,BT3
+Use 'Logs' to solve the growth.,BT3
+Apply 'Logic' to the proof.,BT3
+Calculate the 'Mass'.,BT3
+Implement a 'DFS' on the tree.,BT3
+Apply 'Gate' to the circuit.,BT3
+Calculate the 'Work' done.,BT3
+Analyze the 'Security Logs' to identify the source of the intrusion.,BT4
+Compare the 'Efficiency' of AES and DES encryption.,BT4
+Examine the 'Vulnerabilities' in the provided C code snippet.,BT4
+Differentiate between 'Stateful' and 'Stateless' firewalls.,BT4
+Analyze the 'Packet Capture' file for suspicious activity.,BT4
+Examine the 'Complexity' of the O(n log n) sorting algorithm.,BT4
+Analyze the 'Feature Weights' to find the most important variable.,BT4
+Differentiate between 'IDS' and 'IPS' performance.,BT4
+Analyze the 'Bias' in the training dataset.,BT4
+Compare 'React' and 'Angular' for security features.,BT4
+Analyze the 'Bottleneck' in the SQL query performance.,BT4
+Examine the 'Impact' of latency on user experience.,BT4
+Analyze the 'Architecture' to identify single points of failure.,BT4
+Differentiate between 'L1' and 'L2' regularization.,BT4
+Compare 'TCP' and 'UDP' for voice over IP.,BT4
+Analyze the 'Error Distribution' in the model.,BT4
+Examine the 'Motives' of the attacker based on the logs.,BT4
+Analyze the 'Network Flow' to optimize routing.,BT4
+Differentiate between 'Cloud' and 'Edge' processing.,BT4
+Compare 'Monolithic' and 'Microservices' security.,BT4
+Analyze the 'Usability' of the security interface.,BT4
+Examine the 'Feasibility' of the migration plan.,BT4
+Analyze the 'Logic' of the cryptographic proof.,BT4
+Differentiate between 'Alpha' and 'Beta' versions.,BT4
+Compare 'Python' and 'Java' for backend speed.,BT4
+Analyze the 'Data Redundancy' in the RAID system.,BT4
+Examine the 'Cost' of the cloud infrastructure.,BT4
+Analyze the 'Outcome' of the stress test.,BT4
+Differentiate between 'Public' and 'Private' clouds.,BT4
+Compare 'Laptop' and 'Desktop' hardware.,BT4
+Analyze the 'Trends' in cybercrime.,BT4
+Examine the 'Risk' of the investment.,BT4
+Analyze the 'Data' to find the pattern.,BT4
+Differentiate between 'Fact' and 'Opinion'.,BT4
+Compare 'Apple' and 'Microsoft'.,BT4
+Analyze the 'Speed' of the CPU.,BT4
+Examine the 'Quality' of the code.,BT4
+Analyze the 'Performance' of the engine.,BT4
+Differentiate between 'Hardware' and 'Software'.,BT4
+Compare 'Input' and 'Output'.,BT4
+Analyze the 'Results' of the test.,BT4
+Examine the 'Bias' of the author.,BT4
+Analyze the 'Tone' of the message.,BT4
+Differentiate between 'Truth' and 'Falsehood'.,BT4
+Compare 'Fast' and 'Slow'.,BT4
+Analyze the 'Density'.,BT4
+Examine the 'Structure'.,BT4
+Analyze the 'Function'.,BT4
+Differentiate between 'A' and 'B'.,BT4
+Compare 'X' and 'Y'.,BT4
+Analyze the 'Impact'.,BT4
+Examine the 'Effect'.,BT4
+Analyze the 'Growth'.,BT4
+Differentiate between 'Static' and 'Dynamic'.,BT4
+Compare 'Manual' and 'Auto'.,BT4
+Analyze the 'Signal'.,BT4
+Examine the 'Logic'.,BT4
+Analyze the 'Flow'.,BT4
+Differentiate between 'Hard' and 'Soft'.,BT4
+Compare 'Old' and 'New'.,BT4
+Analyze the 'Market'.,BT4
+Examine the 'Strategy'.,BT4
+Analyze the 'Code'.,BT4
+Differentiate between 'Variable' and 'Constant'.,BT4
+Compare 'Function' and 'Method'.,BT4
+Analyze the 'Response'.,BT4
+Examine the 'Durability'.,BT4
+Analyze the 'Weight'.,BT4
+Differentiate between 'Mass' and 'Volume'.,BT4
+Compare 'Physics' and 'Math'.,BT4
+Analyze the 'Graph'.,BT4
+Examine the 'Table'.,BT4
+Analyze the 'Values'.,BT4
+Differentiate between 'Row' and 'Column'.,BT4
+Compare 'List' and 'Array'.,BT4
+Analyze the 'Logic' of the sort.,BT4
+Examine the 'Search' efficiency.,BT4
+Analyze the 'Outcome' of the game.,BT4
+Differentiate between 'Win' and 'Loss'.,BT4
+Compare 'Success' and 'Failure'.,BT4
+Analyze the 'Reason'.,BT4
+Examine the 'Cause'.,BT4
+Analyze the 'Detail'.,BT4
+Differentiate between 'Primary' and 'Secondary'.,BT4
+Compare 'Internal' and 'External'.,BT4
+Analyze the 'Connection'.,BT4
+Examine the 'Interface'.,BT4
+Analyze the 'Safety'.,BT4
+Differentiate between 'Secure' and 'Insecure'.,BT4
+Compare 'Encryption' methods.,BT4
+Analyze the 'Hash'.,BT4
+Examine the 'Algorithm'.,BT4
+Analyze the 'Data' flow.,BT4
+Differentiate between 'Source' and 'Destination'.,BT4
+Compare 'Sender' and 'Receiver'.,BT4
+Analyze the 'Message'.,BT4
+Examine the 'Content'.,BT4
+Analyze the 'Format'.,BT4
+Differentiate between 'Text' and 'Binary'.,BT4
+Compare 'Bits' and 'Bytes'.,BT4
+Analyze the 'Storage'.,BT4
+Examine the 'Memory'.,BT4
+Analyze the 'CPU'.,BT4
+Differentiate between 'L1' and 'L2'.,BT4
+Compare 'DRAM' and 'SRAM'.,BT4
+Analyze the 'Architecture'.,BT4
+Examine the 'Design'.,BT4
+Analyze the 'Layout'.,BT4
+Differentiate between 'CSS' and 'HTML'.,BT4
+Compare 'JS' and 'PHP'.,BT4
+Analyze the 'Web'.,BT4
+Examine the 'Server'.,BT4
+Analyze the 'Client'.,BT4
+Differentiate between 'Front' and 'Back'.,BT4
+Compare 'UI' and 'UX'.,BT4
+Analyze the 'Experience'.,BT4
+Examine the 'Feedback'.,BT4
+Analyze the 'Score'.,BT4
+Differentiate between 'High' and 'Low'.,BT4
+Compare 'Average' and 'Total'.,BT4
+Analyze the 'Statistics'.,BT4
+Examine the 'Mean'.,BT4
+Analyze the 'Variance'.,BT4
+Differentiate between 'SD' and 'Mean'.,BT4
+Compare 'Median' and 'Mode'.,BT4
+Analyze the 'Distribution'.,BT4
+Examine the 'Sample'.,BT4
+Analyze the 'Population'.,BT4
+Differentiate between 'Census' and 'Sample'.,BT4
+Compare 'Random' and 'Bias'.,BT4
+Analyze the 'Probability'.,BT4
+Examine the 'Likelihood'.,BT4
+Analyze the 'Odds'.,BT4
+Differentiate between 'Event' and 'Outcome'.,BT4
+Compare 'Standard' and 'Alternative'.,BT4
+Analyze the 'Choice'.,BT4
+Examine the 'Selection'.,BT4
+Analyze the 'Process'.,BT4
+Differentiate between 'Manual' and 'Machine'.,BT4
+Compare 'Human' and 'AI'.,BT4
+Analyze the 'Future'.,BT4
+Define the term 'Specific Heat Capacity'.,BT1
+What is the full form of 'VLSI'?,BT1
+State the definition of 'Laminar Flow'.,BT1
+What is a 'Brute Force' attack?,BT1
+Define 'Polymorphism' in the context of Java.,BT1
+List the steps in the 'Software Development Life Cycle'.,BT1
+What are 'Tensors' in mathematics?,BT1
+Define 'Stochastic Process'.,BT1
+What is a 'Null Vector'?,BT1
+State the 'Laws of Chemical Equilibrium'.,BT1
+What is 'Quantum Bit' (Qubit)?,BT1
+Define 'Hyperparameter Tuning'.,BT1
+What is 'Feature Selection'?,BT1
+List the types of 'Machine Learning' algorithms.,BT1
+What is 'Data Normalization'?,BT1
+Define 'Neural Network' layers.,BT1
+What is 'Gradient Descent'?,BT1
+State the definition of 'Object-Oriented Programming'.,BT1
+What is a 'Database Index'?,BT1
+Define 'Transaction Isolation'.,BT1
+What is 'Big O' notation?,BT1
+List the basic parts of a 'Motherboard'.,BT1
+What is 'Virtual Memory'?,BT1
+Define 'Paging' in Operating Systems.,BT1
+What is 'Inter-process Communication'?,BT1
+State the 'Principle of Conservation of Momentum'.,BT1
+What is 'Angular Velocity'?,BT1
+Define 'Moment of Inertia'.,BT1
+Name the three types of 'Friction'.,BT1
+What is 'Work-Energy Theorem'?,BT1
+Define 'Stress' and 'Strain'.,BT1
+List the properties of 'Conductors'.,BT1
+What is 'Induction'?,BT1
+Define 'Capacitance'.,BT1
+What is 'Electromagnetic Induction'?,BT1
+State 'Lenz's Law'.,BT1
+What is a 'Zener Diode'?,BT1
+Define 'Rectifier'.,BT1
+List the 'Logic Gates' symbols.,BT1
+What is 'Binary' code?,BT1
+Define 'Hexadecimal'.,BT1
+State 'Pascal's Principle'.,BT1
+What is 'Viscosity'?,BT1
+Define 'Surface Tension'.,BT1
+List the 'States of Matter'.,BT1
+What is 'Plasma'?,BT1
+Define 'Mole' in chemistry.,BT1
+State 'Avogadro's Law'.,BT1
+What is 'Molarity'?,BT1
+Define 'pH' scale.,BT1
+Explain why 'Virtual Functions' are used in C++.,BT2
+Summarize the concept of 'Cloud Scalability'.,BT2
+Describe the relationship between 'Algorithm' and 'Data Structure'.,BT2
+Explain 'How' a microprocessor executes instructions.,BT2
+Discuss the purpose of 'Normalization' in databases.,BT2
+Describe the mechanism of 'Packet Switching'.,BT2
+Explain 'Why' we use Git for version control.,BT2
+Summarize the 'Principles of Agile'.,BT2
+Describe 'Virtualization' technology.,BT2
+Explain 'How' a solar cell generates electricity.,BT2
+Summarize 'Thermodynamics' laws.,BT2
+Describe the 'Role of a Router' in a network.,BT2
+Explain 'Why' security is critical in IoT.,BT2
+Discuss the impact of 'AI' on the job market.,BT2
+Describe 'Blockchain' ledger technology.,BT2
+Explain 'How' an API connects two systems.,BT2
+Summarize 'Big Data' characteristics.,BT2
+Describe the 'Software Testing' process.,BT2
+Explain 'Why' we need a firewall.,BT2
+Discuss the significance of 'Machine Learning'.,BT2
+Describe the concept of 'Recursion'.,BT2
+Explain 'How' a database handles a query.,BT2
+Summarize 'Cybersecurity' frameworks.,BT2
+Describe the function of 'RAM'.,BT2
+Explain 'Why' we use CSS in web design.,BT2
+Discuss the importance of 'Unit Testing'.,BT2
+Describe 'Object-Oriented' design patterns.,BT2
+Explain 'How' a battery stores chemical energy.,BT2
+Summarize the 'Waterfall Model' flaws.,BT2
+Describe 'Deep Learning' architectures.,BT2
+Explain 'Why' we need IP addresses.,BT2
+Discuss the role of 'DevOps'.,BT2
+Describe 'Microservices' communication.,BT2
+Explain 'How' encryption protects data.,BT2
+Summarize 'Machine Learning' types.,BT2
+Describe 'Network Topology'.,BT2
+Explain 'Why' we use SQL.,BT2
+Discuss the impact of '5G'.,BT2
+Describe the 'Database Schema'.,BT2
+Explain 'How' a browser renders a page.,BT2
+Summarize 'Operating System' tasks.,BT2
+Describe 'Cloud Deployment' models.,BT2
+Explain 'Why' we use Python for Data Science.,BT2
+Discuss 'Data Privacy' issues.,BT2
+Describe 'Cryptography' methods.,BT2
+Explain 'How' Wi-Fi transmits data.,BT2
+Summarize 'SDLC' models.,BT2
+Describe 'Software Architecture'.,BT2
+Explain 'Why' normalization is required.,BT2
+Discuss the function of 'Kernels'.,BT2
+Calculate the 'Tensile Strength' of the material sample.,BT3
+Solve the 'Quadratic Equation' using the formula.,BT3
+Find the 'Mean' and 'Median' for the dataset.,BT3
+Apply 'Dijkstra's Algorithm' to the provided graph.,BT3
+Calculate the 'Velocity' of a falling object at 5 seconds.,BT3
+Solve the 'Math Problem' using long division.,BT3
+Find the 'Derivative' of the function f(x) = x^3.,BT3
+Calculate the 'Standard Deviation' for the sample.,BT3
+Use 'SQL' to select all users with age over 30.,BT3
+Apply 'Newton's Second Law' to calculate force.,BT3
+Solve the 'Differential Equation'.,BT3
+Calculate the 'Volume' of the cylinder.,BT3
+Find the 'Square Root' of 144.,BT3
+Calculate the 'Area' of the triangle.,BT3
+Apply 'Statistics' to find the mode.,BT3
+Solve for 'X' in the equation 2x + 5 = 15.,BT3
+Calculate the 'Interest' on the loan.,BT3
+Apply 'Physics' to find the tension in the rope.,BT3
+Calculate the 'Power' produced by the engine.,BT3
+Solve the 'Binary' to decimal conversion.,BT3
+Calculate the 'Mass' of the object.,BT3
+Find the 'Median' of the set.,BT3
+Apply 'Trigonometry' to find the height.,BT3
+Calculate the 'Density' of the liquid.,BT3
+Solve the 'Circuit' for total resistance.,BT3
+Apply 'Calculus' to find the integral.,BT3
+Calculate the 'Pressure'.,BT3
+Find the 'Probability' of the event.,BT3
+Calculate the 'Work' done.,BT3
+Solve the 'Proportion' problem.,BT3
+Calculate the 'Perimeter'.,BT3
+Find the 'Percentage' change.,BT3
+Calculate the 'Acceleration'.,BT3
+Solve for 'Y'.,BT3
+Find the 'Average' score.,BT3
+Calculate the 'Time' taken.,BT3
+Solve the 'Ratio'.,BT3
+Find the 'Factorial' of 5.,BT3
+Calculate the 'Distance'.,BT3
+Solve the 'Matrix' multiplication.,BT3
+Calculate the 'Frequency'.,BT3
+Solve the 'Logic' puzzle.,BT3
+Calculate the 'Slope'.,BT3
+Find the 'Coordinates'.,BT3
+Calculate the 'Energy'.,BT3
+Solve the 'Linear' equation.,BT3
+Find the 'Limit'.,BT3
+Calculate the 'Weight'.,BT3
+Solve the 'Inequality'.,BT3
+Find the 'Common Denominator'.,BT3
+Analyze the 'Performance' of the sorting algorithm.,BT4
+Compare 'Merge Sort' and 'Quick Sort' complexity.,BT4
+Analyze the 'Impact' of the new policy on sales.,BT4
+Differentiate between 'TCP' and 'UDP' protocols.,BT4
+Examine the 'Vulnerabilities' in the network design.,BT4
+Analyze the 'Data Trends' in the report.,BT4
+Compare 'iOS' and 'Android' system architectures.,BT4
+Analyze the 'Efficiency' of the electric motor.,BT4
+Differentiate between 'Hardware' and 'Software' errors.,BT4
+Examine the 'Bias' in the survey results.,BT4
+Analyze the 'Logic' of the mathematical proof.,BT4
+Compare 'React' and 'Vue' frameworks.,BT4
+Analyze the 'Security' of the application.,BT4
+Differentiate between 'RAM' and 'SSD' performance.,BT4
+Examine the 'Cost' of the infrastructure project.,BT4
+Analyze the 'Results' of the experiment.,BT4
+Compare 'SQL' and 'NoSQL' for real-time data.,BT4
+Analyze the 'Structure' of the organization.,BT4
+Differentiate between 'Primary' and 'Secondary' sources.,BT4
+Examine the 'Motivation' of the character.,BT4
+Analyze the 'Outcome' of the case study.,BT4
+Compare 'Laptop' and 'Desktop' power usage.,BT4
+Analyze the 'Trends' in the stock market.,BT4
+Differentiate between 'Fact' and 'Opinion'.,BT4
+Examine the 'Logic' in the argument.,BT4
+Analyze the 'Performance' of the database.,BT4
+Compare 'AWS' and 'Azure' cloud services.,BT4
+Analyze the 'Signal' quality of the connection.,BT4
+Differentiate between 'L1' and 'L2' cache.,BT4
+Examine the 'Feasibility' of the plan.,BT4
+Analyze the 'Speed' of the processor.,BT4
+Compare 'Internal' and 'External' storage.,BT4
+Analyze the 'Bias' of the author.,BT4
+Differentiate between 'Sync' and 'Async' communication.,BT4
+Examine the 'Reliability' of the system.,BT4
+Analyze the 'Pattern' in the data.,BT4
+Compare 'Method' A and 'Method' B.,BT4
+Analyze the 'Complexity' of the code.,BT4
+Differentiate between 'Type I' and 'Type II' errors.,BT4
+Examine the 'Quality' of the code.,BT4
+Analyze the 'Effect' of the change.,BT4
+Compare 'Desktop' vs 'Mobile' UX.,BT4
+Analyze the 'Revenue' models.,BT4
+Differentiate between 'Front' and 'Back' end.,BT4
+Examine the 'Truth' of the statement.,BT4
+Analyze the 'Flow' of the transaction.,BT4
+Compare 'Old' and 'New' versions.,BT4
+Analyze the 'Safety' features.,BT4
+Differentiate between 'High' and 'Low' frequency.,BT4
+Examine the 'Risks'.,BT4
+State the 'Third Law of Motion'.,BT1
+What is 'Photosynthesis'?,BT1
+Define 'Computer Network'.,BT1
+What is the 'Mass' of the Earth?,BT1
+Define 'Database System'.,BT1
+List the 'Planets' in our system.,BT1
+What is 'H2O' in chemistry?,BT1
+Define 'Binary Search'.,BT1
+What is 'SQL' language?,BT1
+State the 'Laws of Physics'.,BT1
+Define 'Compiler' software.,BT1
+What is the 'Atomic Number' of Helium?,BT1
+List the 'Primary Colors'.,BT1
+Define 'Cloud Computing' service.,BT1
+What is 'AI' technology?,BT1
+State the 'Pythagorean Theorem' formula.,BT1
+Define 'Matrix' in math.,BT1
+What is 'Bit' in computing?,BT1
+List the 'Layers of Earth' structure.,BT1
+Define 'Syntax' in coding.,BT1
+Explain 'How' a router transmits data.,BT2
+Summarize the 'History of Computing'.,BT2
+Describe the 'Relationship' between X and Y.,BT2
+Explain 'Why' we use AI in medicine.,BT2
+How would you 'Interpret' the results?,BT2
+Describe the 'Concept of Gravity'.,BT2
+Summarize the 'Project Status'.,BT2
+Explain 'How' a lithium battery works.,BT2
+Describe 'Virtual Memory' management.,BT2
+Summarize the 'SDLC' process.,BT2
+Explain the 'Difference' between C and Python.,BT2
+Describe the 'Role of a Firewall'.,BT2
+Summarize the 'Benefits of Big Data'.,BT2
+Explain 'Why' normalization is done.,BT2
+Describe 'Object-Oriented Programming'.,BT2
+Summarize 'Blockchain' concepts.,BT2
+Explain 'How' an API works.,BT2
+Describe 'Inheritance' in OOP.,BT2
+Summarize 'Cybersecurity' threats.,BT2
+Explain 'Why' we encrypt data.,BT2
+Calculate the 'Standard Deviation' of the data.,BT3
+Solve for 'x' in 3x + 9 = 27.,BT3
+Find the 'Average' of the numbers.,BT3
+Apply 'Dijkstra's Algorithm'.,BT3
+Solve the 'Integral' for the function.,BT3
+Calculate the 'Speed' of the wave.,BT3
+Find the 'Mean' of the dataset.,BT3
+Use 'SQL' to find the employee records.,BT3
+Apply 'Newton's Laws' to the problem.,BT3
+Calculate the 'Interest' for 10 years.,BT3
+Solve the 'Math Problem'.,BT3
+Apply 'Recursion' to the function.,BT3
+Calculate the 'Volume' of the box.,BT3
+Find the 'Median' value.,BT3
+Use 'Python' to sort the array.,BT3
+Calculate the 'Pressure' in the tank.,BT3
+Apply 'Trigonometry' to the problem.,BT3
+Calculate the 'Force' needed.,BT3
+Find the 'Derivative' of the curve.,BT3
+Solve the 'System of Equations'.,BT3
+Analyze the 'Complexity' of the code.,BT4
+Compare 'Merge Sort' vs 'Bubble Sort'.,BT4
+Analyze the 'Impact' of the new law.,BT4
+Differentiate between 'TCP' and 'UDP'.,BT4
+Examine the 'Logic' of the proof.,BT4
+Analyze the 'Results' of the study.,BT4
+Compare 'React' vs 'Angular'.,BT4
+Analyze the 'Efficiency' of the system.,BT4
+Differentiate between 'RAM' and 'SSD'.,BT4
+Examine the 'Safety' of the bridge.,BT4
+Analyze the 'Data Trends'.,BT4
+Compare 'Models' X and Y.,BT4
+Analyze the 'Error' in the logic.,BT4
+Differentiate between 'Client' and 'Server'.,BT4
+Examine the 'Bias' in the news.,BT4
+Analyze the 'Security' of the database.,BT4
+Compare 'AWS' vs 'GCP'.,BT4
+Analyze the 'Performance' of the algorithm.,BT4
+Differentiate between 'Fact' and 'Logic'.,BT4
+Examine the 'Cost' of the project.,BT4
+What is the 'Value of Pi'?,BT1
+Define 'Search Engine'.,BT1
+What is 'HTML'?,BT1
+State 'Newton's First Law'.,BT1
+Define 'Input Device'.,BT1
+What is 'Software'?,BT1
+Define 'RAM'.,BT1
+List 'Computer Brands'.,BT1
+What is 'Internet'?,BT1
+Define 'Hardware'.,BT1
+State 'Boyle's Law'.,BT1
+What is 'Atom'?,BT1
+Define 'Molecule'.,BT1
+List 'Common Elements'.,BT1
+What is 'Biology'?,BT1
+Define 'Evolution'.,BT1
+State 'Cell Theory'.,BT1
+What is 'Genetics'?,BT1
+Define 'Environment'.,BT1
+List 'Ecosystems'.,BT1
+Explain 'How' clouds form.,BT2
+Summarize 'Water Cycle'.,BT2
+Describe 'Plant Growth'.,BT2
+Explain 'Why' sky is blue.,BT2
+How would you 'Explain' this?,BT2
+Describe 'Human Body'.,BT2
+Summarize 'Story'.,BT2
+Explain 'How' engine works.,BT2
+Describe 'Space'.,BT2
+Summarize 'SDLC' steps.,BT2
+Explain 'Difference'.,BT2
+Describe 'Computer'.,BT2
+Summarize 'History'.,BT2
+Explain 'Why'.,BT2
+Describe 'Nature'.,BT2
+Summarize 'Concept'.,BT2
+Explain 'How'.,BT2
+Describe 'Process'.,BT2
+Summarize 'Events'.,BT2
+Explain 'Why'.,BT2
+Calculate 'Sum'.,BT3
+Find 'Mean'.,BT3
+Solve 'Equation'.,BT3
+Apply 'Rule'.,BT3
+Calculate 'Total'.,BT3
+Solve 'Math'.,BT3
+Find 'Root'.,BT3
+Calculate 'Area'.,BT3
+Apply 'Law'.,BT3
+Solve 'Problem'.,BT3
+Find 'Median'.,BT3
+Calculate 'Force'.,BT3
+Solve 'SQL'.,BT3
+Apply 'Logic'.,BT3
+Find 'Mode'.,BT3
+Calculate 'Z'.,BT3
+Solve 'Prob'.,BT3
+Apply 'Math'.,BT3
+Find 'Value'.,BT3
+Calculate 'Work'.,BT3
+Analyze 'Complexity'.,BT4
+Compare 'Systems'.,BT4
+Analyze 'Impact'.,BT4
+Differentiate 'Between'.,BT4
+Examine 'Logic'.,BT4
+Analyze 'Results'.,BT4
+Compare 'Methods'.,BT4
+Analyze 'Efficiency'.,BT4
+Differentiate 'A and B'.,BT4
+Examine 'Risk'.,BT4
+Analyze 'Data'.,BT4
+Compare 'Models'.,BT4
+Analyze 'Error'.,BT4
+Differentiate 'Types'.,BT4
+Examine 'Bias'.,BT4
+Analyze 'Structure'.,BT4
+Analyze 'Outcome'.,BT4
+Differentiate 'Values'.,BT4
+Compare 'Results'.,BT4
+Analyze 'Pattern'.,BT4
+Analyze 'Throughput' of the system under stress.,BT4
+Examine the 'Causes' of the failure.,BT4
+Differentiate between 'Latent' and 'Active' errors.,BT4
+Analyze the 'Effectiveness' of the solution.,BT4
+Analyze the 'Structure' of the argument.,BT4
+Compare 'L1' and 'L2' cache performance.,BT4
+Analyze the 'Trend' in user behavior.,BT4
+Differentiate between 'High' and 'Low' fidelity.,BT4
+Examine the 'Logic' of the circuit design.,BT4
+Analyze the 'Response' of the population.,BT4
+Analyze the 'Speed' of the transaction.,BT4
+Differentiate between 'Static' and 'Dynamic' binding.,BT4
+Compare 'Manual' vs 'Automated' testing.,BT4
+Analyze the 'Outcome' of the simulation.,BT4
+Examine the 'Reliability' of the data source.,BT4
+Analyze the 'Bias' of the research study.,BT4
+Analyze the 'Consistency' of the database.,BT4
+Differentiate between 'Process' and 'Thread' models.,BT4
+Compare 'Waterfall' vs 'Scrum'.,BT4
+Analyze the 'Efficiency' of the algorithm.,BT4
+Analyze the 'Security' of the password hash.,BT4
+Differentiate between 'API' and 'Web Service'.,BT4
+Examine the 'Risk' of the project.,BT4
+Analyze the 'Cost' of the solution.,BT4
+Analyze the 'Safety' of the design.,BT4
+Compare 'Mean' vs 'Median' indicators.,BT4
+Analyze the 'Distribution' of the samples.,BT4
+Differentiate between 'Sample' and 'Population'.,BT4
+Examine the 'Validty' of the results.,BT4
+Analyze the 'Error' rate in the system.,BT4
+Analyze the 'Throughput' of the network.,BT4
+Differentiate between 'Client' and 'Server'.,BT4
+Compare 'Cloud' vs 'On-premise'.,BT4
+Analyze the 'Redundancy' of the data.,BT4
+Examine the 'Scalability' of the app.,BT4
+Analyze the 'Logic' of the code.,BT4
+Analyze the 'Performance' of the engine.,BT4
+Differentiate between 'Fact' and 'Theory'.,BT4
+Compare 'History' and 'Future'.,BT4
+Analyze the 'Outcome'.,BT4
+Define the term 'Zero-knowledge proof' in cryptography.,BT1
+What is the full form of 'gRPC'?,BT1
+State the definition of 'Edge Computing'.,BT1
+What is a 'Cold Start' in serverless computing?,BT1
+Define 'Idempotency' in the context of REST APIs.,BT1
+List the primary components of a 'Kubernetes Cluster'.,BT1
+What are 'Lattices' in discrete mathematics?,BT1
+Define 'Stochastic Gradient Descent' with momentum.,BT1
+What is a 'Unit Vector'?,BT1
+State 'Fermat's Little Theorem'.,BT1
+What is 'Homomorphic Encryption'?,BT1
+Define 'Feature Mapping'.,BT1
+What is 'Dimensionality Reduction'?,BT1
+List the types of 'Artificial Neural Networks'.,BT1
+What is 'Mean Squared Error'?,BT1
+Define 'Activation Function'.,BT1
+What is 'Backpropagation'?,BT1
+State the definition of 'Relational Database'.,BT1
+What is a 'Compound Index'?,BT1
+Define 'Dirty Read' in transactions.,BT1
+What is 'Big O' notation for a binary search?,BT1
+List the basic layers of the 'OSI Model'.,BT1
+What is 'Swapping' in memory management?,BT1
+Define 'Thrashing' in Operating Systems.,BT1
+What is 'Message Passing' in IPC?,BT1
+State the 'Law of Universal Gravitation'.,BT1
+What is 'Momentum'?,BT1
+Define 'Torque' in rotational mechanics.,BT1
+Name the three types of 'Heat Transfer'.,BT1
+What is 'Bernoulli's Equation'?,BT1
+Define 'Modulus of Rigidity'.,BT1
+List the properties of 'Semiconductors'.,BT1
+What is 'Mutual Induction'?,BT1
+Define 'Impedance' in AC circuits.,BT1
+What is 'Faraday's Law'?,BT1
+State 'Kirchhoff's Current Law'.,BT1
+What is a 'Schottky Diode'?,BT1
+Define 'Inverter' in digital logic.,BT1
+List the 'Logic Gate' truth tables.,BT1
+What is 'Two's Complement'?,BT1
+Define 'Floating Point Representation'.,BT1
+State 'Archimedes' Principle'.,BT1
+What is 'Kinematic Viscosity'?,BT1
+Define 'Capillarity'.,BT1
+List the 'Laws of Motion'.,BT1
+What is 'Entropy' in thermodynamics?,BT1
+Define 'Avogadro's Number'.,BT1
+State 'Hess's Law'.,BT1
+What is 'Normality' in chemistry.,BT1
+Define 'Oxidation'.,BT1
+Explain why 'Docker' is more efficient than a Virtual Machine.,BT2
+Summarize the concept of 'Eventual Consistency' in NoSQL.,BT2
+Describe the relationship between 'P-value' and 'Standard Error'.,BT2
+Explain 'How' a load balancer handles session persistence.,BT2
+Discuss the purpose of 'Indexing' in search engines.,BT2
+Describe the mechanism of 'Congestion Control' in TCP.,BT2
+Explain 'Why' we use WebSockets for real-time apps.,BT2
+Summarize the 'Principles of Microservices'.,BT2
+Describe 'Software Containers' technology.,BT2
+Explain 'How' a photovoltaic cell works.,BT2
+Summarize 'Thermodynamics' second law.,BT2
+Describe the 'Role of a Gateway' in a subnet.,BT2
+Explain 'Why' end-to-end encryption is necessary.,BT2
+Discuss the impact of 'Deep Learning' on image recognition.,BT2
+Describe 'Distributed Ledger' technology.,BT2
+Explain 'How' an SDK differs from an API.,BT2
+Summarize 'Big Data' velocity and variety.,BT2
+Describe the 'Continuous Integration' process.,BT2
+Explain 'Why' we need an Intrusion Detection System.,BT2
+Discuss the significance of 'Natural Language Processing'.,BT2
+Describe the concept of 'Pointer Arithmetic'.,BT2
+Explain 'How' a non-relational database stores data.,BT2
+Summarize 'Cloud Security' frameworks.,BT2
+Describe the function of 'Cache Memory' levels.,BT2
+Explain 'Why' we use TypeScript in front-end development.,BT2
+Discuss the importance of 'Regression Testing'.,BT2
+Describe 'Functional' programming paradigms.,BT2
+Explain 'How' a fuel cell produces power.,BT2
+Summarize the 'Agile' values.,BT2
+Describe 'Recurrent' neural network architectures.,BT2
+Explain 'Why' we use DNS servers.,BT2
+Discuss the role of 'Site Reliability Engineering'.,BT2
+Describe 'Pub-Sub' messaging.,BT2
+Explain 'How' hashing ensures data integrity.,BT2
+Summarize 'Ensemble' learning types.,BT2
+Describe 'Graph' data structures.,BT2
+Explain 'Why' we use a Content Delivery Network.,BT2
+Discuss the impact of 'Quantum Computing' on RSA.,BT2
+Describe the 'Database Transaction Log'.,BT2
+Explain 'How' a compiler optimizes code.,BT2
+Summarize 'Operating System' kernel types.,BT2
+Describe 'SaaS' vs 'PaaS' delivery.,BT2
+Explain 'Why' we use R for statistical computing.,BT2
+Discuss 'Cyber' ethics in the age of AI.,BT2
+Describe 'Public Key' cryptography methods.,BT2
+Explain 'How' Bluetooth Low Energy saves power.,BT2
+Summarize 'V-Model' software lifecycles.,BT2
+Describe 'Clean Code' principles.,BT2
+Explain 'Why' denormalization is sometimes used.,BT2
+Discuss the function of 'Micro-kernels'.,BT2
+Calculate the 'Yield Strength' of the steel bolt.,BT3
+Solve the 'Integral' of cos(x) from 0 to Pi.,BT3
+Find the 'Variance' and 'Correlation' for the table.,BT3
+Apply 'Prim's Algorithm' to the provided network.,BT3
+Calculate the 'Projectile Path' at 2 seconds.,BT3
+Solve the 'Math Problem' using synthetic division.,BT3
+Find the 'Limit' of (1/x) as x approaches infinity.,BT3
+Calculate the 'Confidence Interval' for the dataset.,BT3
+Use 'SQL' to update all product prices by 10%.,BT3
+Apply 'Ohm's Law' to calculate total current.,BT3
+Solve the 'Partial Differential Equation'.,BT3
+Calculate the 'Surface Area' of the sphere.,BT3
+Find the 'Logarithm' of 1000 to base 10.,BT3
+Calculate the 'Hypotenuse' of the triangle.,BT3
+Apply 'Statistics' to find the interquartile range.,BT3
+Solve for 'X' in the equation log(x) + log(2) = 1.,BT3
+Calculate the 'Compound Interest' on the principal.,BT3
+Apply 'Physics' to find the friction on the slope.,BT3
+Calculate the 'Efficiency' of the heat pump.,BT3
+Solve the 'Hexadecimal' to binary conversion.,BT3
+Calculate the 'Molar Mass' of the compound.,BT3
+Find the 'Mode' of the multi-modal set.,BT3
+Apply 'Geometry' to find the radius.,BT3
+Calculate the 'Viscosity' of the oil.,BT3
+Solve the 'Circuit' for branch currents.,BT3
+Apply 'Calculus' to find the inflection point.,BT3
+Calculate the 'Pressure' at 50 meters depth.,BT3
+Find the 'Probability' of drawing two aces.,BT3
+Calculate the 'Work' in a polytropic process.,BT3
+Solve the 'Linear Inequality'.,BT3
+Calculate the 'Circumference'.,BT3
+Find the 'Percentage' error in measurement.,BT3
+Calculate the 'Angular Acceleration'.,BT3
+Solve for 'Y' in the system of equations.,BT3
+Find the 'Standard Error' of the mean.,BT3
+Calculate the 'Baud Rate'.,BT3
+Solve the 'Ratio' of volumes.,BT3
+Find the 'Grit' of the sanding paper.,BT3
+Calculate the 'Displacement'.,BT3
+Solve the 'Matrix' determinant.,BT3
+Calculate the 'Period' of the pendulum.,BT3
+Solve the 'Logic' gate truth table.,BT3
+Calculate the 'Resistance' of the wire.,BT3
+Find the 'Critical Path' in the project.,BT3
+Calculate the 'Torque'.,BT3
+Solve the 'Recurrence Relation'.,BT3
+Find the 'Median' of the grouped data.,BT3
+Calculate the 'SNR' ratio.,BT3
+Solve the 'Optimization' problem.,BT3
+Find the 'Common Ratio'.,BT3
+Analyze the 'Time Complexity' of the Dijkstra algorithm.,BT4
+Compare 'React Native' and 'Flutter' performance.,BT4
+Analyze the 'Scalability' of the vertical database.,BT4
+Differentiate between 'TCP' and 'SCTP' protocols.,BT4
+Examine the 'Vulnerabilities' in the OAuth flow.,BT4
+Analyze the 'Data Bias' in the machine learning model.,BT4
+Compare 'Docker' and 'Podman' architectures.,BT4
+Analyze the 'Energy Efficiency' of the smart grid.,BT4
+Differentiate between 'User' and 'Kernel' thread models.,BT4
+Examine the 'Reliability' of the sensor network.,BT4
+Analyze the 'Logic' of the smart contract.,BT4
+Compare 'Kubernetes' and 'Docker Swarm'.,BT4
+Analyze the 'Security' of the biometric system.,BT4
+Differentiate between 'SRAM' and 'VRAM'.,BT4
+Examine the 'Economic Impact' of automation.,BT4
+Analyze the 'Results' of the clinical trial.,BT4
+Compare 'Graph' and 'Document' databases.,BT4
+Analyze the 'Code Coverage' of the test suite.,BT4
+Differentiate between 'Black Box' and 'Grey Box' testing.,BT4
+Examine the 'UX' flow of the onboarding.,BT4
+Analyze the 'Outcome' of the simulation.,BT4
+Compare 'ARM' and 'x86' power profiles.,BT4
+Analyze the 'Trends' in renewable energy.,BT4
+Differentiate between 'Fact' and 'Inference'.,BT4
+Examine the 'Logic' in the editorial.,BT4
+Analyze the 'Performance' of the cache.,BT4
+Compare 'Google Cloud' and 'Digital Ocean'.,BT4
+Analyze the 'Signal' interference in the channel.,BT4
+Differentiate between 'L2' and 'L3' switches.,BT4
+Examine the 'Feasibility' of the tunnel.,BT4
+Analyze the 'Throughput' of the API.,BT4
+Compare 'Shared' and 'Dedicated' hosting.,BT4
+Analyze the 'Tone' of the report.,BT4
+Differentiate between 'Synchronous' and 'Blocking' calls.,BT4
+Examine the 'Safety' of the bridge design.,BT4
+Analyze the 'Patterns' in the traffic data.,BT4
+Compare 'Approach' A and 'Approach' B.,BT4
+Analyze the 'Space Complexity' of the algorithm.,BT4
+Differentiate between 'Internal' and 'External' fragmentation.,BT4
+Examine the 'Integrity' of the data.,BT4
+Analyze the 'Effect' of the variable.,BT4
+Compare 'Desktop' vs 'Web' apps.,BT4
+Analyze the 'Cost Benefit' of the project.,BT4
+Differentiate between 'Author' and 'Narrator'.,BT4
+Examine the 'Cohesion' of the module.,BT4
+Analyze the 'Flow' of the algorithm.,BT4
+Compare 'Version 1' and 'Version 2'.,BT4
+Analyze the 'Fault Tolerance' of the system.,BT4
+Differentiate between 'High' and 'Low' pass filters.,BT4
+Examine the 'Threats'.,BT4
+State the 'Third Law of Thermodynamics'.,BT1
+What is 'Deep Learning'?,BT1
+Define 'Embedded System'.,BT1
+What is the 'Mass' of the Moon?,BT1
+Define 'Normalization'.,BT1
+List the 'Major Continents'.,BT1
+What is 'NaCl'?,BT1
+Define 'Linear Search'.,BT1
+What is 'JSON' syntax?,BT1
+State the 'Laws of Mechanics'.,BT1
+Define 'Linker'.,BT1
+What is the 'Atomic Number' of Lithium?,BT1
+List the 'Primary Colors' of light.,BT1
+Define 'Virtualization'.,BT1
+What is 'Machine Learning'?,BT1
+State the 'Euler's Formula'.,BT1
+Define 'Tree' in CS.,BT1
+What is 'Byte'?,BT1
+List the 'Layers of the Sun'.,BT1
+Define 'Variable'.,BT1
+Explain 'How' a modem works.,BT2
+Summarize the 'History of AI'.,BT2
+Describe the 'Contrast' between A and B.,BT2
+Explain 'Why' we use containers.,BT2
+How would you 'Explain' the chart?,BT2
+Describe 'Magnetic Fields'.,BT2
+Summarize the 'Meeting'.,BT2
+Explain 'How' an engine works.,BT2
+Describe 'Operating System' roles.,BT2
+Summarize the 'Agile' cycle.,BT2
+Explain the 'Difference' between SSD and HDD.,BT2
+Describe the 'Role of a Proxy'.,BT2
+Summarize the 'Benefits of Cloud'.,BT2
+Explain 'Why' indexing helps.,BT2
+Describe 'Inheritance'.,BT2
+Summarize 'Blockchain' security.,BT2
+Explain 'How' a capacitor works.,BT2
+Describe 'Encapsulation'.,BT2
+Summarize 'Networking' protocols.,BT2
+Explain 'Why' we use GitHub.,BT2
+Calculate the 'Standard Deviation'.,BT3
+Solve for 'x' in 5x + 15 = 45.,BT3
+Find the 'Mean' of the samples.,BT3
+Apply 'Kruskal's Algorithm'.,BT3
+Solve the 'Integral' of the function.,BT3
+Calculate the 'Frequency' of the wave.,BT3
+Find the 'Average' score.,BT3
+Use 'SQL' to select the customer.,BT3
+Apply 'Laws of Motion' to the car.,BT3
+Calculate the 'Interest' for 20 years.,BT3
+Solve the 'Word Problem'.,BT3
+Apply 'Recursion' to the tree.,BT3
+Calculate the 'Density' of the block.,BT3
+Find the 'Median' value.,BT3
+Use 'Python' to sort the list.,BT3
+Calculate the 'Flow'.,BT3
+Apply 'Trigonometry' to the tower.,BT3
+Calculate the 'Net Force'.,BT3
+Find the 'Derivative'.,BT3
+Solve the 'Equation'.,BT3
+Analyze the 'Complexity' of the sort.,BT4
+Compare 'Merge Sort' vs 'Quick Sort'.,BT4
+Analyze the 'Impact' of the law.,BT4
+Differentiate between 'TCP' and 'UDP'.,BT4
+Examine the 'Logic' of the proof.,BT4
+Analyze the 'Results' of the test.,BT4
+Compare 'Vue' and 'React'.,BT4
+Analyze the 'Efficiency' of the code.,BT4
+Differentiate between 'L1' and 'L2'.,BT4
+Examine the 'Safety' of the road.,BT4
+Analyze the 'Data Trends'.,BT4
+Compare 'Models'.,BT4
+Analyze the 'Source'.,BT4
+Differentiate between 'Front' and 'Back'.,BT4
+Examine the 'Bias'.,BT4
+Analyze the 'Security'.,BT4
+Compare 'AWS' and 'Azure'.,BT4
+Analyze the 'Outcome'.,BT4
+Differentiate between 'Fact' and 'Claim'.,BT4
+Examine the 'Cost'.,BT4
+Define the term 'Accumulator' in an 8085 microprocessor.,BT1
+What is the full form of 'SIM' in mobile communication?,BT1
+State the definition of 'Plaintext' in cryptography.,BT1
+What is a 'Program Counter'?,BT1
+Define 'Handoff' in cellular networks.,BT1
+List the steps in the 'RSA Algorithm' encryption process.,BT1
+What are 'Addressing Modes' in 8086?,BT1
+Define 'Symmetric Key' cryptography.,BT1
+What is a 'Segment Register'?,BT1
+State the 'Instruction Cycle' phases for a microprocessor.,BT1
+What is 'GPRS'?,BT1
+Define 'Digital Signature'.,BT1
+What is 'Hash Function'?,BT1
+List the types of 'Interrupts' in 8085.,BT1
+What is 'Mobile IP'?,BT1
+Define 'Asymmetric Encryption'.,BT1
+What is 'Pipelining' in 8086?,BT1
+State the definition of 'Steganography'.,BT1
+What is a 'T-State'?,BT1
+Define 'Wireless LAN'.,BT1
+What is 'AES'?,BT1
+List the basic pins of '8085'.,BT1
+What is 'ALU'?,BT1
+Define 'Frequency Reuse'.,BT1
+What is 'Block Cipher'?,BT1
+State the 'Bus' types in a microprocessor.,BT1
+What is 'GSM'?,BT1
+Define 'Non-repudiation'.,BT1
+Name the different 'Flags' in 8086.,BT1
+What is 'Diffie-Hellman'?,BT1
+Define 'Multiplexing'.,BT1
+List the stages of 'DES'.,BT1
+What is 'Machine Language'?,BT1
+Define 'Throughput' in wireless networks.,BT1
+Name the components of an '8085 Architecture'.,BT1
+What is the function of a 'Stack Pointer'?,BT1
+Define 'Spread Spectrum'.,BT1
+List the 'Addressing Modes' of 8085.,BT1
+What is 'CDMA'?,BT1
+Define 'Cryptography'.,BT1
+List the '8086' registers.,BT1
+What is 'VPN'?,BT1
+Define 'Ciphertext'.,BT1
+What is 'ALU' in 8086?,BT1
+List the 'Mobile Generations' (1G-5G).,BT1
+Define 'Hardware Interrupt'.,BT1
+What is 'Frequency Hopping'?,BT1
+Define 'Public Key'.,BT1
+State the 'Memory Map' definition.,BT1
+What is 'Roaming'?,BT1
+Explain how 'ALE' pin functions in 8085 address demultiplexing.,BT2
+Summarize the role of 'Home Location Register' (HLR) in GSM.,BT2
+Describe the mechanism of 'Substitution Ciphers'.,BT2
+How would you classify '8086' instructions based on length?,BT2
+Explain the concept of 'Avalanche Effect' in block ciphers.,BT2
+Summarize the purpose of 'Direct Memory Access' (DMA) in 8085.,BT2
+Describe how 'Soft Handoff' differs from 'Hard Handoff'.,BT2
+Explain the significance of 'Padding' in block ciphers.,BT2
+How would you interpret 'Addressing Modes' in assembly?,BT2
+Describe the concept of 'Tunneling' in Mobile IP.,BT2
+Summarize the 'Diffie-Hellman' key exchange logic.,BT2
+Explain why '8086' is a 16-bit microprocessor.,BT2
+Describe the function of 'Base Station Controller' (BSC).,BT2
+Discuss the purpose of 'Message Authentication Codes' (MAC).,BT2
+Explain how 'Instruction Queues' speed up 8086 execution.,BT2
+Describe the concept of 'Near-Far Problem' in CDMA.,BT2
+Summarize the 'AES' transformation rounds.,BT2
+Explain why 'Hardware' interrupts have higher priority.,BT2
+Describe the function of 'Instruction Pointer'.,BT2
+Discuss the impact of 'Fading' on mobile signals.,BT2
+Explain how 'Private Keys' stay secure in PKI.,BT2
+Describe the concept of 'Bus Arbitration'.,BT2
+Summarize the 'ALOHA' protocol for wireless.,BT2
+Explain why 'RSA' is computationally expensive.,BT2
+Describe the function of 'Ready' pin in 8085.,BT2
+Discuss the importance of 'Entropy' in key generation.,BT2
+Explain how 'Indirect' addressing works in 8085.,BT2
+Describe the concept of 'Cell Splitting'.,BT2
+Summarize 'Stream Ciphers' logic.,BT2
+Explain why 'Cache' is needed in microprocessors.,BT2
+Describe the function of 'HL' pair in 8085.,BT2
+Discuss the role of 'Access Points' in WLAN.,BT2
+Explain how 'Hashing' ensures file integrity.,BT2
+Describe the concept of 'TDM' in mobile systems.,BT2
+Summarize 'Micro-operation' sequences.,BT2
+Explain why 'Wait' states are inserted.,BT2
+Describe the function of 'Segment Registers'.,BT2
+Discuss the impact of 'Inter-symbol Interference' (ISI).,BT2
+Explain how 'Man-in-the-Middle' attacks bypass encryption.,BT2
+Summarize '8086 Architecture' features.,BT2
+Describe 'Frequency Reuse' benefits.,BT2
+Explain 'Why' we use assembly language.,BT2
+Discuss the role of 'Transceivers'.,BT2
+Describe 'Zero-knowledge Proof'.,BT2
+Summarize 'GPRS' architecture.,BT2
+Explain 'How' an 8085 fetches an opcode.,BT2
+Describe 'Multiplexed' address buses.,BT2
+Summarize 'Network Security' goals.,BT2
+Describe 'Mobility Management'.,BT2
+Explain 'Why' 8086 has 20 address lines.,BT2
+Calculate the 'Physical Address' in 8086 given CS=2000h and IP=1000h?,BT3
+Find the 'Ciphertext' using Caesar Cipher with a shift of 3 for 'MOBILE'?,BT3
+Apply '8085 Assembly' to add two 8-bit numbers stored in memory?,BT3
+Implement a 'Logic Gate' simulation using 8085 instructions?,BT3
+Calculate the 'Handoff Probability' for the given user velocity?,BT3
+Apply 'RSA' to encrypt M=7 with e=3 and n=33?,BT3
+Solve the 'Address Decoding' for 4KB RAM starting at 0000h?,BT3
+Construct a 'T-State Diagram' for the MOV A  B instruction?,BT3
+Calculate the 'Physical Address' for SS=3000h and SP=F000h?,BT3
+Use 'Regex' to find hexadecimal constants in assembly code?,BT3
+"Apply 'Diffie-Hellman' to find the shared key with g=5,  p=23?",BT3
+Calculate the 'Signal-to-Interference' ratio for a 7-cell cluster?,BT3
+Implement a 'Delay Loop' in 8085 for 1 millisecond?,BT3
+Apply 'DES' initial permutation to the 64-bit input?,BT3
+Solve the 'Binary' addition of 8Fh and 12h?,BT3
+Calculate the 'Number of Channels' available in the 25MHz band?,BT3
+Use 'Assembly' to find the largest number in a 10-byte array?,BT3
+Apply 'Columnar Transposition' to the phrase 'MICROPROCESSOR'?,BT3
+Calculate the 'Physical Address' given DS=4000h and SI=0500h?,BT3
+Implement a 'Stack' push operation in 8086 assembly?,BT3
+"Apply 'Euclidean Algorithm' to find GCD(160,  24)?",BT3
+Calculate the 'Path Loss' using the Free Space model?,BT3
+Use 'XOR' to encrypt the message with a 4-bit key?,BT3
+Apply 'Addressing Modes' to access the 5th element of an array?,BT3
+Calculate the 'Execution Time' for an 8085 with a 2MHz clock?,BT3
+Implement a 'Parity Checker' using 8085 logic instructions?,BT3
+Apply 'Playfair Cipher' to encrypt 'ATTACK'?,BT3
+Calculate the 'Reuse Factor' for a cluster size of 7?,BT3
+Use 'MVI' and 'ADI' to increment a register value?,BT3
+Apply 'Bitwise AND' to mask the lower 4 bits?,BT3
+Calculate the 'Effective Address' in 8086 for [BX+SI+10h]?,BT3
+Implement a 'BCD' addition in 8085 using DAA?,BT3
+Apply 'Monoalphabetic Cipher' to the provided text?,BT3
+Calculate the 'Dwell Time' for a frequency-hopping system?,BT3
+Use 'JMP' and 'JZ' to create a conditional loop?,BT3
+Apply 'SHA-1' padding to the 448-bit block?,BT3
+Calculate the 'Address Lines' required for 64KB memory?,BT3
+Implement a 'Software Interrupt' in 8086?,BT3
+Apply 'Vigenere Cipher' with key 'KEY'?,BT3
+Calculate the 'Traffic Intensity' in Erlangs?,BT3
+Use 'MOV' to transfer data from register to memory?,BT3
+Apply 'Bitwise OR' to set the 7th bit?,BT3
+Calculate the 'Control Word' for 8255 in mode 0?,BT3
+Implement an 'Exchange' of two registers without a third?,BT3
+Apply 'Rail Fence' cipher with 2 rails?,BT3
+Calculate the 'Physical Address' for ES=5000h and DI=2000h?,BT3
+Use 'HLT' to stop execution?,BT3
+Apply 'Arithmetic Shift' to multiply by 2?,BT3
+Calculate the 'Bandwidth' required for the signal?,BT3
+Implement a 'Subtraction' using 2's complement?,BT3
+Analyze the 'Time Complexity' of an 8085 sorting routine?,BT4
+Compare the 'Architecture' of 8085 and 8086?,BT4
+Examine the 'Vulnerability' of a DES-encrypted file to brute force?,BT4
+Differentiate between 'Direct' and 'Indirect' addressing performance?,BT4
+Analyze the 'Security' of RSA when prime factors are small?,BT4
+Examine the 'Root Cause' of a stack overflow in 8086?,BT4
+Analyze the 'Handoff Failure' rate under high congestion?,BT4
+Differentiate between 'Isolated' and 'Memory-mapped' I/O?,BT4
+Compare the 'Throughput' of TCP over GSM vs 4G LTE?,BT4
+Analyze the 'Log Files' to identify an unauthorized login?,BT4
+Examine the 'Ethical Implications' of mobile location tracking?,BT4
+Differentiate between 'Real' and 'Protected' modes in x86?,BT4
+Analyze the 'Efficiency' of the 8086 instruction queue?,BT4
+Compare 'AES' and 'Triple DES' for embedded systems?,BT4
+Examine the 'Bottleneck' in the 8085 data bus?,BT4
+Analyze the 'Impact' of multipath fading on bit error rate?,BT4
+Differentiate between 'Symmetric' and 'Asymmetric' key distribution?,BT4
+Compare 'FDMA' and 'TDMA' for mobile users?,BT4
+Analyze the 'Power Consumption' of 8085 vs modern MCUs?,BT4
+Examine the 'Reliability' of wireless data in tunnels?,BT4
+Analyze the 'Safety' of medical data over public Wi-Fi?,BT4
+Differentiate between 'TRAP' and 'RST 7.5' interrupts?,BT4
+Compare 'IPv4' and 'Mobile IPv6' for roaming?,BT4
+Analyze the 'Latency' in a cellular handoff?,BT4
+Examine the 'Logic' of the 8085 timing diagram?,BT4
+Analyze the 'Complexity' of the RSA key generation?,BT4
+Differentiate between 'Block' and 'Stream' cipher speed?,BT4
+Compare '8085' and 'Z80' microprocessor features?,BT4
+Analyze the 'Network' for rogue access points?,BT4
+Examine the 'Bias' in the cryptographic random number generator?,BT4
+Analyze the 'Efficiency' of the opcode fetch cycle?,BT4
+Differentiate between 'Hardware' and 'Software' handshakes?,BT4
+Compare 'Bluetooth' and 'Zigbee' for IoT security?,BT4
+Analyze the 'Data Redundancy' in a mobile cache?,BT4
+Examine the 'Security' of a 128-bit vs 256-bit AES?,BT4
+Analyze the 'Throughput' of the 8086 address bus?,BT4
+Differentiate between 'CSMA/CA' and 'CSMA/CD'?,BT4
+Compare '8086' and '80286' architectures?,BT4
+Analyze the 'User Interface' of a mobile security app?,BT4
+Examine the 'Feasibility' of quantum-resistant cryptography?,BT4
+Analyze the 'Logic' of the 8259 PIC?,BT4
+Differentiate between 'L1' and 'L2' cache in microprocessors?,BT4
+Compare 'GSM' and 'CDMA' signal quality?,BT4
+Analyze the 'Sustainability' of mobile tower power grids?,BT4
+Examine the 'Accuracy' of the mobile positioning system?,BT4
+Analyze the 'Complexity' of the Diffie-Hellman problem?,BT4
+Differentiate between 'API' and 'System Call' in OS?,BT4
+Compare 'LCD' and 'LED' displays for mobile devices?,BT4
+Analyze the 'Impact' of the new 5G spectrum law?,BT4
+Examine the 'Quality' of the assembly code using profiling?,BT4
+Define 'Flag' in 8085.,BT1
+What is '8086'?,BT1
+State 'AES' full form.,BT1
+What is 'Mobile'?,BT1
+Define 'Key'.,BT1
+What is 'Cipher'?,BT1
+Define 'Bus'.,BT1
+What is 'Interrupt'?,BT1
+Define 'WLAN'.,BT1
+State 'RSA'.,BT1
+Define 'Register'.,BT1
+What is 'GPRS'?,BT1
+Define 'Digital'.,BT1
+What is 'GSM'?,BT1
+Define 'Hash'.,BT1
+State 'Protocol'.,BT1
+Explain 'How' 8085 resets.,BT2
+Summarize 'Mobile' IP.,BT2
+Describe 'AES' rounds.,BT2
+Explain 'Why' assembly.,BT2
+Discuss 'Security'.,BT2
+Describe 'Relation'.,BT2
+Explain 'How' cellular works.,BT2
+Summarize 'Logic'.,BT2
+Describe '8086 Bus'.,BT2
+Explain 'Handover'.,BT2
+Discuss 'Impact'.,BT2
+Describe 'Flow'.,BT2
+Explain 'Difference'.,BT2
+Summarize 'RSA'.,BT2
+Describe 'Encryption'.,BT2
+Discuss 'Hashing'.,BT2
+Calculate 'Address'.,BT3
+Find 'Cipher'.,BT3
+Solve 'Assembly'.,BT3
+Apply 'Rule'.,BT3
+Calculate 'Handoff'.,BT3
+Solve 'RSA'.,BT3
+Find 'Key'.,BT3
+Calculate 'Total'.,BT3
+Apply 'Logic'.,BT3
+Solve 'Logic'.,BT3
+Find 'Median'.,BT3
+Calculate 'Power'.,BT3
+Solve 'Problem'.,BT3
+Apply 'Statistics'.,BT3
+Find 'Mean'.,BT3
+Calculate 'Time'.,BT3
+Analyze 'Complexity'.,BT4
+Compare 'Architecture'.,BT4
+Analyze 'Impact'.,BT4
+Differentiate 'Between'.,BT4
+Examine 'Logic'.,BT4
+Analyze 'Results'.,BT4
+Compare 'Protocols'.,BT4
+Analyze 'Efficiency'.,BT4
+Differentiate 'RAM/Cache'.,BT4
+Examine 'Risk'.,BT4
+Analyze 'Data'.,BT4
+Compare 'Security'.,BT4
+Analyze 'Error'.,BT4
+Differentiate 'Types'.,BT4
+Examine 'Bias'.,BT4
+Analyze 'Structure'.,BT4
+What is the 'Definition' of Microprocessor?,BT1
+List the 'Registers' of 8085.,BT1
+State 'Shannon's' Theorem.,BT1
+Define 'Encryption'.,BT1
+What is 'LTE'?,BT1
+List 'Wireless' types.,BT1
+What is 'MD5'?,BT1
+Define 'Opcode'.,BT1
+What is 'GPRS'?,BT1
+State 'Laws' of Wireless.,BT1
+Define 'Digital' Signature.,BT1
+What is the 'Address' of 8086?,BT1
+List 'Interrupt' types.,BT1
+Define 'Perception'.,BT1
+What is 'CDMA'?,BT1
+State 'Theory'.,BT1
+Explain 'How' RSA works.,BT2
+Summarize 'Mobile' communications.,BT2
+Describe 'Architecture'.,BT2
+Explain 'Why' encryption.,BT2
+Discuss 'Trends'.,BT2
+Describe 'Security'.,BT2
+Explain 'Protocol'.,BT2
+Summarize 'Logic'.,BT2
+Describe 'Relationship'.,BT2
+Explain 'How'.,BT2
+Discuss 'Effect'.,BT2
+Describe 'Pattern'.,BT2
+Explain 'Difference'.,BT2
+Summarize 'Result'.,BT2
+Describe 'Model'.,BT2
+Discuss 'Growth'.,BT2
+Calculate 'Address'.,BT3
+Find 'Probability'.,BT3
+Solve 'Assembly'.,BT3
+Apply 'Rule'.,BT3
+Calculate 'Handoff'.,BT3
+Solve 'RSA'.,BT3
+Find 'Key'.,BT3
+Calculate 'Total'.,BT3
+Apply 'Logic'.,BT3
+Solve 'Logic'.,BT3
+Find 'Mode'.,BT3
+Calculate 'Z'.,BT3
+Solve 'Prob'.,BT3
+Apply 'Stats'.,BT3
+Find 'Mean'.,BT3
+Calculate 'Z'.,BT3
+Analyze 'Complexity'.,BT4
+Compare 'Microprocessors'.,BT4
+Analyze 'Security'.,BT4
+Differentiate 'Ciphers'.,BT4
+Examine 'Assumptions'.,BT4
+Analyze 'Motives'.,BT4
+Compare 'Mobile IP'.,BT4
+Analyze 'Distributions'.,BT4
+Differentiate 'Significance'.,BT4
+Examine 'Bias'.,BT4
+Analyze 'Trends'.,BT4
+Compare 'Speed'.,BT4
+Analyze 'Logs'.,BT4
+Differentiate 'Parameters'.,BT4
+Examine 'Validity'.,BT4
+Analyze 'Growth'.,BT4
+Define '8085' Architecture.,BT1
+What is '8086' Pin?,BT1
+Define 'Stack'.,BT1
+State 'Flag' status.,BT1
+What is 'Memory'?,BT1
+Define 'Interface'.,BT1
+What is 'Serial'?,BT1
+Define 'Port'.,BT1
+What is 'Timer'?,BT1
+Define 'Bus'.,BT1
+List 'Pins'.,BT1
+Define 'DMA'.,BT1
+What is 'ALE'?,BT1
+Define 'RESET'.,BT1
+State 'Timing'.,BT1
+Define 'Cycle'.,BT1
+Explain '8255' Mode.,BT2
+Summarize 'Interrupts'.,BT2
+Describe 'Register'.,BT2
+Explain 'Why DMA'.,BT2
+Discuss 'Addressing'.,BT2
+Describe 'Timing'.,BT2
+Explain 'Flow'.,BT2
+Summarize '8086'.,BT2
+Describe 'Memory'.,BT2
+Explain 'Bus'.,BT2
+Discuss 'I/O'.,BT2
+Describe 'Port'.,BT2
+Explain '8259'.,BT2
+Summarize 'Interface'.,BT2
+Describe 'System'.,BT2
+Discuss 'Hardware'.,BT2
+Calculate 'Address'.,BT3
+Find 'Pin'.,BT3
+Solve 'Program'.,BT3
+Apply 'Interface'.,BT3
+Calculate 'Cycles'.,BT3
+Solve '8255'.,BT3
+Find 'Mode'.,BT3
+Calculate 'Time'.,BT3
+Apply 'Interrupt'.,BT3
+Solve 'DMA'.,BT3
+Find 'Register'.,BT3
+Calculate 'Offset'.,BT3
+Solve 'Program'.,BT3
+Apply 'Bus'.,BT3
+Find 'Logic'.,BT3
+Calculate 'Total'.,BT3
+Analyze 'Wait State'.,BT4
+Compare '8085 and 8086'.,BT4
+Analyze 'Timing'.,BT4
+Differentiate '8086 Modes'.,BT4
+Examine 'Interface'.,BT4
+Analyze 'Redundancy'.,BT4
+Compare 'Processors'.,BT4
+Analyze 'Integrity'.,BT4
+Differentiate 'Pins'.,BT4
+Examine 'Security'.,BT4
+Analyze 'Logic'.,BT4
+Compare 'Cycles'.,BT4
+Analyze 'Memory'.,BT4
+Differentiate 'Registers'.,BT4
+Examine 'Design'.,BT4
+Analyze 'Throughput'.,BT4
+Define 'Mobile' Station.,BT1
+What is 'Cell'?,BT1
+State 'GPRS'.,BT1
+What is 'GSM'?,BT1
+Define 'Roaming'.,BT1
+What is 'HLR'?,BT1
+What is 'VLR'?,BT1
+Define 'SMS'.,BT1
+What is 'UMTS'?,BT1
+Define 'WAP'.,BT1
+List 'Mobile'.,BT1
+Define 'GPRS'.,BT1
+What is 'WLAN'?,BT1
+Define 'IEEE'.,BT1
+State 'Wireless'.,BT2
+Define 'MIP'.,BT1
+Explain 'GSM' Channels.,BT2
+Summarize 'Mobile IP'.,BT2
+Describe 'Architecture'.,BT2
+Explain 'Why Cell'.,BT2
+Discuss 'Spectrum'.,BT2
+Describe 'Security'.,BT2
+Explain 'Handoff'.,BT2
+Summarize 'Wireless'.,BT2
+Describe 'Protocol'.,BT2
+Explain 'Link'.,BT2
+Discuss 'Service'.,BT2
+Describe 'Mobile'.,BT2
+Explain 'Network'.,BT2
+Summarize 'Data'.,BT2
+Describe 'Traffic'.,BT2
+Discuss 'Quality'.,BT2
+Calculate 'Capacity'.,BT3
+Find 'User'.,BT3
+Solve 'Network'.,BT3
+Apply 'Handoff'.,BT3
+Calculate 'Traffic'.,BT3
+Solve 'Mobile'.,BT3
+Find 'Cell'.,BT3
+Calculate 'Count'.,BT3
+Apply 'Protocol'.,BT3
+Solve 'IP'.,BT3
+Find 'Channel'.,BT3
+Calculate 'Aggregate'.,BT3
+Solve 'Roaming'.,BT3
+Apply 'Signal'.,BT3
+Find 'Carrier'.,BT3
+Calculate 'Sum'.,BT3
+Analyze 'Interference'.,BT4
+Compare '1G and 2G'.,BT4
+Analyze 'Traffic'.,BT4
+Differentiate 'IPv4 vs IPv6'.,BT4
+Examine 'Latency'.,BT4
+Analyze 'Coverage'.,BT4
+Compare 'Architectures'.,BT4
+Analyze 'Stability'.,BT4
+Differentiate 'GPRS vs GSM'.,BT4
+Examine 'Privacy'.,BT4
+Analyze 'Flow'.,BT4
+Compare 'Wireless'.,BT4
+Analyze 'Handoff'.,BT4
+Differentiate 'HLR vs VLR'.,BT4
+Examine 'Reliability'.,BT4
+Analyze 'Throughput'.,BT4
+What is 'Cryptography'?,BT1
+Define 'AES'.,BT1
+State 'RSA'.,BT1
+What is 'Hash'?,BT1
+Define 'Signature'.,BT1
+What is 'Cipher'?,BT1
+Define 'Key'.,BT1
+What is 'Auth'?,BT1
+Define 'MAC'.,BT1
+State 'Theorem'.,BT1
+What is 'ECC'?,BT1
+Define 'DES'.,BT1
+What is 'Stream'?,BT1
+Define 'Block'.,BT1
+List 'Ciphers'.,BT1
+Define 'MD5'.,BT1
+Explain 'RSA' Logic.,BT2
+Summarize 'Cryptography'.,BT2
+Describe 'Security'.,BT2
+Explain 'Why AES'.,BT2
+Discuss 'Threats'.,BT2
+Describe 'Process'.,BT2
+Explain 'Function'.,BT2
+Summarize 'DES'.,BT2
+Describe 'Relationship'.,BT2
+Explain 'How Cipher'.,BT2
+Discuss 'Impact'.,BT2
+Describe 'Pattern'.,BT2
+Explain 'Difference'.,BT2
+Summarize 'Results'.,BT2
+Describe 'Model'.,BT2
+Discuss 'Entropy'.,BT2
+Calculate 'Hash'.,BT3
+Find 'Cipher'.,BT3
+Solve 'RSA'.,BT3
+Apply 'Key'.,BT3
+Calculate 'MAC'.,BT3
+Solve 'ECC'.,BT3
+Find 'Root'.,BT3
+Calculate 'DES'.,BT3
+Apply 'Logic'.,BT3
+Solve 'Auth'.,BT3
+Find 'Signature'.,BT3
+Calculate 'Standard'.,BT3
+Solve 'Network'.,BT3
+Apply 'Rule'.,BT3
+Find 'Algorithm'.,BT3
+Calculate 'Total'.,BT3
+Analyze 'Attack'.,BT4
+Compare 'AES vs DES'.,BT4
+Analyze 'Security'.,BT4
+Differentiate 'Keys'.,BT4
+Examine 'Logic'.,BT4
+Analyze 'Results'.,BT4
+Compare 'Protocols'.,BT4
+Analyze 'Complexity'.,BT4
+Differentiate 'RSA vs ECC'.,BT4
+Examine 'Vulnerability'.,BT4
+Analyze 'Data'.,BT4
+Compare 'Systems'.,BT4
+Analyze 'Error'.,BT4
+Differentiate 'Types'.,BT4
+Examine 'Bias'.,BT4
+Analyze 'Outcome'.,BT4
