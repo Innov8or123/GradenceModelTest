@@ -8858,7 +8858,7 @@ Can you tell me how to BT6 a simple origami figure?,BT1
 Tell me about a life lesson you learned from a difficult experience.,BT1
 What can you tell me about the history of the internet?,BT1
 Tell me about a favorite childhood story or fairy tale.,BT1
-Can you tell me about the stages of grief according to Elisabeth KŸbler-Ross?,BT1
+Can you tell me about the stages of grief according to Elisabeth Kï¿½bler-Ross?,BT1
 Describe the taste of a perfectly ripe mango.,BT1
 Can you describe the process of continental drift?,BT1
 Describe the characteristics of an effective leader.,BT1
@@ -10518,14 +10518,14 @@ Explain the difference between strong and weak entities in ER model.,BT2
 Describe how recursion works in solving factorial problem.,BT2
 Apply the stack to check if the given parentheses are balanced: {[( )]}.,BT3
 Use array implementation to simulate push and pop operations on a stack.,BT3
-Convert the infix expression A + B * C Ð D / E to postfix.,BT3
+Convert the infix expression A + B * C ï¿½ D / E to postfix.,BT3
 Demonstrate how to insert a node at the beginning of a singly linked list.,BT3
 Apply queue operations to simulate a ticket booking system.,BT3
 Use relational algebra to find all students who have taken course 'DBMS'.,BT3
 Calculate the time complexity of binary search in a sorted array of 1024 elements.,BT3
 "Apply the rules of 2NF to normalize the table: Student(ID, Name, Course, Instructor).",BT3
 Demonstrate deletion of a node with two children in a binary search tree.,BT3
-Evaluate the postfix expression: 5 3 + 8 * 4 Ð.,BT3
+Evaluate the postfix expression: 5 3 + 8 * 4 ï¿½.,BT3
 "Apply hashing with linear probing to insert keys: 18, 26, 35, 9 (table size 10).",BT3
 "Draw an ER diagram for a university database with students, courses, and professors.",BT3
 Demonstrate how to implement a circular queue using an array.,BT3
@@ -14851,3 +14851,9 @@ Analyze 'Error'.,BT4
 Differentiate 'Types'.,BT4
 Examine 'Bias'.,BT4
 Analyze 'Outcome'.,BT4
+Explain the Method of Moments and its limitations?,BT2
+Explain different types of errors in hypothesis testing. What is level of significance?,BT2
+"In tri-variate distribution: r12 = 0.7,ï¿½ r23=r31 = 0.6. Find the partial correlation coefficient r12.3",BT3
+"In a multiple regression analysis involving 5 independent variables and 30 observations,ï¿½ SSR = 360 and SSE = 40. What will be the coefficient of determination?",BT3
+Explain the properties of good estimator?,BT2
+Distinguish between Null and Alternative hypothesis.,BT3
